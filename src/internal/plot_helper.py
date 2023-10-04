@@ -33,7 +33,7 @@ def say_do_to_html(
                 name="Cap",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )
@@ -85,7 +85,7 @@ def velocity_to_html(
                 name="Cap",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )
@@ -152,7 +152,7 @@ def accumulated_backlog_to_html(grid_do_acc, grid_say_acc, cap_do_acc, cap_say_a
                 name="Cap Resolved",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             ),
@@ -162,7 +162,7 @@ def accumulated_backlog_to_html(grid_do_acc, grid_say_acc, cap_do_acc, cap_say_a
                 name="Cap Opened",
                 visible='legendonly',
                 line=dict(
-                    color="MediumVioletRed",
+                    color="#EF9D5C",
                     width=6
                 )
             )
@@ -214,7 +214,7 @@ def opened_bugs_to_html(
                 name="Cap",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )
@@ -266,7 +266,7 @@ def bugs_by_adi_to_html(
                 name="Cap",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )
@@ -305,7 +305,7 @@ def counter_parts_to_html(grid_on_cap_acc: dict, cap_on_grid_acc: dict) -> str:
                 name="Cap on Grid",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )
@@ -353,7 +353,7 @@ def bugs_ratio_to_html(grid_ratio: dict, cap_ratio: dict, all_ratio: dict) -> st
                 name="Cap",
                 visible='legendonly',
                 line=dict(
-                    color="crimson",
+                    color="#F4D7C3",
                     width=6
                 )
             )

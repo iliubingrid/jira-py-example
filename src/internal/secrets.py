@@ -1,2 +1,2 @@
-JIRA_EMAIL = ''
-JIRA_TOKEN = ''
+JIRA_EMAIL = 'iliubin@griddynamics.com'
+JIRA_TOKEN = 'ATATT3xFfGF0VvJmWr6M6I1dXMrVEYqTOl0gGafQsyQ4BZByoUAxt49twOzEKnR0Ve0dWyq4r8nSfFRjRxhGmlB1mUvghqWiMZCkmiWeUYkBWc0VxnWZU10jhbpVVyomToWsc2ieHkc_JR_UtZNbkIvPu5Xl2vZ5uFa7jt8pXRjGjdQpms6YY9Q=9E8941DA'

@@ -1,123 +1,175 @@
 issue_id,issue_type,status,reporter_team,team,first_sprint,last_sprint,story_points,created_at,resolved_at,reporter,sprints,labels
-ECMS-1303,Bug,To Do,ADI,UNDEFINED,P,,0,2023-09-27T11:23:31.204-0400,,Oksana Lagno,['Paradise City'],['sfcc']
-ECMS-1302,Bug,To Do,CAP,UNDEFINED,P,,0,2023-09-27T10:19:43.858-0400,,Kailex Patel,['Paradise City'],['sfcc']
-ECMS-1301,Task,To Do,GRID,UNDEFINED,P,,0,2023-09-27T09:50:54.966-0400,,Pavlo Totskyi,[],[]
+ECMS-1356,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-03T17:53:31.400-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1355,Story,Ready for UAT,ADI,UNDEFINED,P,,0,2023-10-03T16:03:58.062-0400,,Katie Muldoon,[],[]
+ECMS-1354,Epic,To Do,ADI,UNDEFINED,P,,0,2023-10-03T15:33:26.407-0400,,Oksana Lagno,[],[]
+ECMS-1353,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-03T14:04:46.182-0400,,Oksana Lagno,['Q Sprint'],[]
+ECMS-1352,Bug,To Do,CAP,UNDEFINED,P,,0,2023-10-03T13:51:12.579-0400,,Jose Solano,[],['SFCC']
+ECMS-1351,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:36:47.337-0400,,Oksana Lagno,[],[]
+ECMS-1350,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:36:42.743-0400,,Oksana Lagno,[],[]
+ECMS-1349,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:36:39.102-0400,,Oksana Lagno,[],[]
+ECMS-1348,Bug,Ready for QA (CAP),CAP,CAP,P,,0,2023-10-03T13:36:29.271-0400,,Jose Solano,[],['next.js']
+ECMS-1347,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:36:29.148-0400,,Oksana Lagno,[],[]
+ECMS-1346,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:36:25.551-0400,,Oksana Lagno,[],[]
+ECMS-1345,Task,In Progress,ADI,UNDEFINED,P,,0,2023-10-03T13:36:11.522-0400,,Oksana Lagno,[],[]
+ECMS-1344,Bug,To Do,CAP,CAP,P,,0,2023-10-03T13:25:24.449-0400,,Jose Solano,[],"['Safari', 'next.js']"
+ECMS-1343,Task,Ready for QA (ADI),ADI,UNDEFINED,P,,1,2023-10-03T13:25:18.798-0400,,Oksana Lagno,[],[]
+ECMS-1342,Task,Ready for QA (ADI),ADI,UNDEFINED,P,,0,2023-10-03T13:24:21.175-0400,,Oksana Lagno,[],[]
+ECMS-1341,Epic,To Do,ADI,UNDEFINED,P,,0,2023-10-03T13:23:45.464-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1340,Bug,Ready for QA (CAP),CAP,CAP,P,,0,2023-10-03T12:58:08.338-0400,,Jose Solano,[],['next.js']
+ECMS-1339,Story,To Do,ADI,UNDEFINED,P,,0,2023-10-03T12:20:31.784-0400,,Katie Muldoon,[],[]
+ECMS-1338,Story,To Do,GRID,UNDEFINED,P,,3,2023-10-03T07:53:01.327-0400,,Nikita Gladnev,['Q Sprint'],[]
+ECMS-1337,Story,To Do,GRID,UNDEFINED,P,,0,2023-10-03T04:52:57.174-0400,,Nikita Gladnev,['Q Sprint'],[]
+ECMS-1336,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-02T15:39:47.133-0400,,Raffi Yaboujian,['Q Sprint'],[]
+ECMS-1335,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-02T15:35:40.578-0400,,Kareen Balsam,[],[]
+ECMS-1334,Task,To Do,ADI,UNDEFINED,P,,0,2023-10-02T15:26:33.922-0400,,Raffi Yaboujian,['Q Sprint'],[]
+ECMS-1333,Story,Ready for QA (CAP),ADI,CAP,P,,0,2023-10-02T12:47:31.837-0400,,Katie Muldoon,['Q Sprint'],['next.js']
+ECMS-1332,Story,In Progress,CAP,UNDEFINED,P,,0,2023-10-02T11:19:53.412-0400,,Ankit Kumar,[],[]
+ECMS-1331,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-02T11:13:23.506-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1330,Epic,To Do,ADI,UNDEFINED,P,,0,2023-10-02T09:58:07.413-0400,,Katie Muldoon,[],[]
+ECMS-1329,Bug,Code Review,ADI,UNDEFINED,P,,0,2023-10-02T09:36:28.752-0400,,Katie Muldoon,[],[]
+ECMS-1328,Task,Done,GRID,UNDEFINED,P,P,1,2023-10-02T08:31:56.456-0400,2023-10-02T08:49:12.755-0400,Sevak Santrosyan,['Paradise City'],[]
+ECMS-1327,Bug,To Do,ADI,UNDEFINED,P,,0,2023-09-30T19:05:32.627-0400,,Katie Muldoon,['Paradise City'],[]
+ECMS-1326,Bug,Done,ADI,UNDEFINED,P,P,0,2023-09-30T18:40:37.292-0400,2023-09-30T18:57:23.887-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1325,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-30T09:03:20.821-0400,,Kareen Balsam,[],[]
+ECMS-1324,Bug,Ready for QA (UAT),CAP,CAP,P,,0,2023-09-29T11:58:14.496-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1323,Bug,To Do,CAP,CAP,P,,0,2023-09-29T11:54:26.245-0400,,Jose Solano,[],['next.js']
+ECMS-1322,Bug,Code Review,ADI,UNDEFINED,P,,0,2023-09-29T10:52:00.260-0400,,Oksana Lagno,['Paradise City'],['next.js_release_2023.10.04']
+ECMS-1321,Bug,In Progress,ADI,UNDEFINED,P,,0,2023-09-29T10:35:53.816-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1319,Story,To Do,ADI,CAP,P,,0,2023-09-29T10:16:18.094-0400,,Katie Muldoon,['Ready for Grooming'],['next.js']
+ECMS-1318,Bug,Done,ADI,UNDEFINED,P,P,5,2023-09-29T09:39:10.801-0400,2023-10-02T13:23:37.196-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1317,Story,To Do,GRID,UNDEFINED,P,,0,2023-09-29T08:34:12.474-0400,,Nikita Gladnev,[],[]
+ECMS-1316,Bug,Ready for Preview,ADI,CAP,P,,0,2023-09-28T19:02:26.793-0400,,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1315,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-28T18:09:03.891-0400,,Oksana Lagno,['Ready for Grooming'],[]
+ECMS-1314,Task,Done,ADI,UNDEFINED,P,P,0,2023-09-28T18:00:34.185-0400,2023-09-29T13:44:24.292-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1313,Task,Ready for UAT,ADI,CAP,P,,0,2023-09-28T17:29:48.134-0400,,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1312,Task,Ready for UAT,ADI,CAP,P,,0,2023-09-28T17:16:08.179-0400,,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1311,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-28T15:57:00.852-0400,,Kareen Balsam,['Ready for Grooming'],[]
+ECMS-1310,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T15:23:52.283-0400,,Katie Muldoon,[],[]
+ECMS-1309,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T15:17:09.021-0400,,Katie Muldoon,[],[]
+ECMS-1308,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T14:44:41.966-0400,,Katie Muldoon,[],[]
+ECMS-1307,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T12:23:57.043-0400,,Katie Muldoon,[],[]
+ECMS-1306,Bug,Done,ADI,UNDEFINED,P,P,3,2023-09-27T17:19:30.112-0400,2023-09-27T17:22:45.466-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1305,Bug,Ready for QA (ADI),CAP,UNDEFINED,P,,0,2023-09-27T13:37:42.171-0400,,Jose Solano,['Paradise City'],"['SFCC', 'next.js_release_2023.10.04']"
+ECMS-1304,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-27T12:40:44.618-0400,,Kareen Balsam,['Ready for Grooming'],[]
+ECMS-1303,Bug,Ready for QA (UAT),ADI,CAP,P,,5,2023-09-27T11:23:31.204-0400,,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1302,Bug,Ready for Preview,CAP,UNDEFINED,P,,0,2023-09-27T10:19:43.858-0400,,Kailex Patel,['Paradise City'],['sfcc']
+ECMS-1301,Task,Ready for QA (ADI),GRID,UNDEFINED,P,,2,2023-09-27T09:50:54.966-0400,,Pavlo Totskyi,['Paradise City'],[]
 ECMS-1300,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-27T09:41:30.237-0400,,Eyram Tay,[],[]
 ECMS-1299,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-26T16:15:08.606-0400,,Katie Muldoon,[],[]
 ECMS-1298,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-26T15:57:39.382-0400,,Katie Muldoon,[],[]
-ECMS-1297,Bug,To Do,CAP,UNDEFINED,P,,0,2023-09-26T12:32:55.219-0400,,Jose Solano,[],['next.js']
-ECMS-1296,Bug,Ready for QA (CAP),CAP,UNDEFINED,P,,0,2023-09-26T12:19:55.638-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1295,Bug,To Do,CAP,UNDEFINED,P,,0,2023-09-26T12:01:47.954-0400,,Jose Solano,[],['next.js']
+ECMS-1297,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-26T12:32:55.219-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1296,Bug,Ready for UAT,CAP,CAP,P,,0,2023-09-26T12:19:55.638-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1295,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-26T12:01:47.954-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
 ECMS-1294,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-26T11:24:58.835-0400,,Katie Muldoon,[],[]
 ECMS-1293,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-26T11:16:09.871-0400,,Katie Muldoon,[],[]
 ECMS-1292,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-26T10:59:41.587-0400,,Katie Muldoon,[],[]
-ECMS-1291,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-26T10:57:20.730-0400,,Katie Muldoon,[],[]
-ECMS-1290,Story,To Do,ADI,CAP,P,,0,2023-09-26T10:15:46.822-0400,,Katie Muldoon,[],"['capgemini', 'next.js']"
-ECMS-1289,Story,To Do,ADI,CAP,P,,0,2023-09-26T10:11:28.475-0400,,Katie Muldoon,[],['capgemini']
+ECMS-1291,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-26T10:57:20.730-0400,,Katie Muldoon,['Ready for Grooming'],[]
+ECMS-1290,Story,To Do,ADI,CAP,P,,0,2023-09-26T10:15:46.822-0400,,Katie Muldoon,['Ready for Grooming'],"['capgemini', 'next.js']"
+ECMS-1289,Story,To Do,ADI,CAP,P,,0,2023-09-26T10:11:28.475-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
 ECMS-1288,Story,Done,ADI,UNDEFINED,P,P,0,2023-09-25T17:16:09.271-0400,2023-09-26T17:57:21.737-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1287,Story,Ready for QA (ADI),ADI,UNDEFINED,P,,1,2023-09-25T16:59:55.628-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1286,Story,To Do,ADI,UNDEFINED,P,,1,2023-09-25T16:22:29.790-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1285,Bug,To Do,CAP,UNDEFINED,P,,0,2023-09-25T16:05:59.038-0400,,Jose Solano,[],['next.js']
-ECMS-1284,Bug,Ready for QA (CAP),CAP,UNDEFINED,P,,0,2023-09-25T15:54:15.718-0400,,Jose Solano,['Paradise City'],['next.js']
+ECMS-1286,Story,Done,ADI,UNDEFINED,P,P,1,2023-09-25T16:22:29.790-0400,2023-10-02T12:58:25.026-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1285,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-25T16:05:59.038-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1284,Bug,Ready for UAT,CAP,CAP,P,,0,2023-09-25T15:54:15.718-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
 ECMS-1283,Bug,Ready for QA (ADI),CAP,UNDEFINED,P,,0,2023-09-25T15:46:51.822-0400,,Kailex Patel,['Paradise City'],['sfcc']
 ECMS-1282,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-25T15:35:23.984-0400,,Raffi Yaboujian,['Paradise City'],[]
-ECMS-1281,Bug,Code Review,CAP,UNDEFINED,P,,0,2023-09-25T15:03:08.324-0400,,Kailex Patel,[],['sfcc']
-ECMS-1280,Bug,Ready for QA (CAP),CAP,UNDEFINED,P,,0,2023-09-25T14:37:04.106-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1279,Task,To Do,ADI,UNDEFINED,P,,1,2023-09-25T14:34:01.743-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1278,Task,To Do,ADI,UNDEFINED,P,,1,2023-09-25T14:33:55.584-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1277,Task,To Do,ADI,UNDEFINED,P,,1,2023-09-25T14:33:48.918-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1276,Task,To Do,ADI,UNDEFINED,P,,1,2023-09-25T14:33:42.734-0400,,Oksana Lagno,['Paradise City'],[]
-ECMS-1275,Task,To Do,ADI,UNDEFINED,P,,1,2023-09-25T14:33:39.254-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1281,Bug,Ready for QA (ADI),CAP,UNDEFINED,P,,0,2023-09-25T15:03:08.324-0400,,Kailex Patel,[],['sfcc']
+ECMS-1280,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-25T14:37:04.106-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1279,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:34:01.743-0400,2023-09-28T10:06:20.538-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1278,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:33:55.584-0400,2023-09-27T15:21:13.035-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1277,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:33:48.918-0400,2023-09-27T15:21:06.734-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1276,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:33:42.734-0400,2023-09-27T13:58:53.668-0400,Oksana Lagno,['Paradise City'],[]
+ECMS-1275,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:33:39.254-0400,2023-09-27T13:58:37.625-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1274,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:32:50.951-0400,2023-09-27T09:55:38.323-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1273,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:32:47.610-0400,2023-09-26T10:26:06.712-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1272,Task,Done,ADI,UNDEFINED,P,P,1,2023-09-25T14:32:42.014-0400,2023-09-25T14:46:49.807-0400,Oksana Lagno,['Paradise City'],[]
-ECMS-1271,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-25T14:32:16.063-0400,,Oksana Lagno,[],[]
-ECMS-1270,Bug,In Progress,CAP,UNDEFINED,P,,0,2023-09-25T14:22:54.987-0400,,Jose Solano,[],['next.js']
-ECMS-1269,Bug,Ready for QA (CAP),CAP,UNDEFINED,P,,0,2023-09-25T13:39:39.333-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1268,Bug,Ready for QA (CAP),CAP,UNDEFINED,P,,0,2023-09-25T13:30:12.962-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1267,Task,Ready for QA (ADI),CAP,UNDEFINED,P,,0,2023-09-25T13:00:02.333-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1266,Task,To Do,CAP,UNDEFINED,P,,0,2023-09-25T12:57:34.852-0400,,Jose Solano,['Paradise City'],['next.js']
+ECMS-1271,Epic,Done,ADI,UNDEFINED,P,P,0,2023-09-25T14:32:16.063-0400,2023-09-28T10:06:24.107-0400,Oksana Lagno,[],[]
+ECMS-1270,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-25T14:22:54.987-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1269,Bug,Ready for UAT,CAP,CAP,P,,0,2023-09-25T13:39:39.333-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1268,Bug,Ready for UAT,CAP,CAP,P,,0,2023-09-25T13:30:12.962-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1267,Task,Ready for UAT,CAP,CAP,P,,0,2023-09-25T13:00:02.333-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1266,Task,Ready for UAT,CAP,CAP,P,,0,2023-09-25T12:57:34.852-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
 ECMS-1265,Task,Ready for QA (ADI),CAP,UNDEFINED,P,,3,2023-09-25T12:52:21.733-0400,,Andres Lara,['Paradise City'],['sfcc']
-ECMS-1264,Task,In Progress,CAP,UNDEFINED,P,,0,2023-09-25T12:50:39.247-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1263,Task,To Do,CAP,UNDEFINED,P,,0,2023-09-25T12:45:17.961-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1262,Task,To Do,CAP,UNDEFINED,P,,0,2023-09-25T12:43:41.736-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1261,Task,To Do,CAP,UNDEFINED,P,,0,2023-09-25T12:38:56.273-0400,,Jose Solano,['Paradise City'],['next.js']
-ECMS-1260,Story,To Do,ADI,UNDEFINED,P,,3,2023-09-25T11:31:47.064-0400,,Oksana Lagno,['Paradise City'],[]
+ECMS-1264,Task,Done,CAP,CAP,P,P,0,2023-09-25T12:50:39.247-0400,2023-09-28T17:13:27.209-0400,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1263,Task,Ready for UAT,CAP,CAP,P,,0,2023-09-25T12:45:17.961-0400,,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1262,Task,Done,CAP,CAP,P,P,0,2023-09-25T12:43:41.736-0400,2023-09-28T17:10:48.095-0400,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1261,Task,Done,CAP,CAP,P,P,0,2023-09-25T12:38:56.273-0400,2023-09-28T17:09:31.939-0400,Jose Solano,['Paradise City'],"['next.js', 'next.js_release_2023.10.04']"
+ECMS-1260,Story,Blocked,ADI,UNDEFINED,P,,3,2023-09-25T11:31:47.064-0400,,Oksana Lagno,['Paradise City'],[]
 ECMS-1259,Bug,Done,ADI,UNDEFINED,P,P,0,2023-09-25T11:09:54.472-0400,2023-09-25T13:37:03.736-0400,Chris Davis,[],[]
-ECMS-1258,Story,Ready for QA (UAT),ADI,UNDEFINED,P,,0,2023-09-25T11:04:57.406-0400,,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
-ECMS-1257,Story,In Progress,CAP,UNDEFINED,P,,0,2023-09-25T10:45:22.129-0400,,Ankit Kumar,[],[]
+ECMS-1258,Story,Done,ADI,CAP,P,P,0,2023-09-25T11:04:57.406-0400,2023-09-28T18:08:15.187-0400,Oksana Lagno,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-1257,Story,Done,CAP,UNDEFINED,P,P,0,2023-09-25T10:45:22.129-0400,2023-09-29T11:17:09.479-0400,Ankit Kumar,[],[]
 ECMS-1256,Bug,To Do,ADI,UNDEFINED,O,,0,2023-09-19T12:28:39.732-0400,,Andy Keitch,[],['moved-from-SFCC']
 ECMS-1255,Bug,To Do,ADI,UNDEFINED,O,,0,2023-09-19T12:46:59.692-0400,,Andy Keitch,[],['moved-from-SFCC']
-ECMS-1254,Bug,To Do,ADI,UNDEFINED,P,,1,2023-09-22T15:32:02.910-0400,,Kareen Balsam,['Paradise City'],[]
+ECMS-1254,Bug,Done,ADI,UNDEFINED,P,P,1,2023-09-22T15:32:02.910-0400,2023-10-02T15:20:25.403-0400,Kareen Balsam,['Paradise City'],[]
 ECMS-1253,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-22T10:08:26.207-0400,,Katie Muldoon,[],[]
-ECMS-1252,Story,To Do,ADI,CAP,P,,0,2023-09-21T16:10:57.856-0400,,Katie Muldoon,[],['capgemini']
-ECMS-1251,Story,To Do,ADI,GRID,P,,0,2023-09-21T16:06:08.999-0400,,Katie Muldoon,[],['Grid']
-ECMS-1250,Story,To Do,ADI,GRID,P,,0,2023-09-21T12:27:32.598-0400,,Katie Muldoon,[],['Grid']
+ECMS-1252,Story,To Do,ADI,CAP,P,,0,2023-09-21T16:10:57.856-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
+ECMS-1251,Story,To Do,ADI,GRID,P,,0,2023-09-21T16:06:08.999-0400,,Katie Muldoon,['Ready for Grooming'],['Grid']
+ECMS-1250,Story,To Do,ADI,GRID,P,,0,2023-09-21T12:27:32.598-0400,,Katie Muldoon,['Ready for Grooming'],['Grid']
 ECMS-1249,Story,To Do,ADI,GRID,P,,0,2023-09-21T12:26:21.057-0400,,Katie Muldoon,[],['Grid']
-ECMS-1248,Story,To Do,ADI,CAP,P,,0,2023-09-21T12:16:21.280-0400,,Katie Muldoon,[],['capgemini']
+ECMS-1248,Story,To Do,ADI,CAP,P,,0,2023-09-21T12:16:21.280-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
 ECMS-1247,Story,Blocked,GRID,ADI,P,,0,2023-09-21T10:25:49.343-0400,,Jana Flashing,[],['ADI']
 ECMS-1246,Task,Done,GRID,GRID,P,P,0,2023-09-21T10:24:21.949-0400,2023-09-22T06:41:01.577-0400,Sevak Santrosyan,['Paradise City'],['Grid']
 ECMS-1245,Task,Done,ADI,ADI,P,P,0,2023-09-20T17:25:50.652-0400,2023-09-20T17:51:32.764-0400,Kareen Balsam,[],['ADI']
 ECMS-1244,Epic,To Do,ADI,ADI,P,,0,2023-09-20T15:21:11.755-0400,,Katie Muldoon,[],['ADI']
-ECMS-1243,Story,To Do,ADI,CAP,P,,0,2023-09-20T15:08:39.390-0400,,Oksana Lagno,[],"['capgemini', 'next.js']"
+ECMS-1243,Story,To Do,ADI,CAP,P,,0,2023-09-20T15:08:39.390-0400,,Oksana Lagno,['Ready for Grooming'],"['capgemini', 'next.js']"
 ECMS-1242,Story,To Do,ADI,CAP,P,,0,2023-09-20T15:01:08.296-0400,,Oksana Lagno,[],['capgemini']
 ECMS-1241,Epic,To Do,ADI,GRID,P,,0,2023-09-20T14:48:02.019-0400,,Oksana Lagno,[],['Grid']
-ECMS-1239,Task,To Do,CAP,CAP,P,,0,2023-09-20T13:54:01.489-0400,,Andres Lara,['Paradise City'],"['capgemini', 'next.js']"
-ECMS-1238,Task,To Do,CAP,CAP,P,,0,2023-09-20T12:31:32.361-0400,,Andres Lara,['Paradise City'],"['capgemini', 'next.js']"
-ECMS-1237,Task,In Progress,ADI,ADI,P,,0,2023-09-20T11:50:18.875-0400,,Kareen Balsam,['Paradise City'],['ADI']
-ECMS-1236,Story,Code Review,GRID,GRID,O,,2,2023-09-20T07:14:21.467-0400,,Igor Liubin,['Paradise City'],['Grid']
-ECMS-1235,Story,In Progress,GRID,GRID,O,,3,2023-09-20T07:09:59.402-0400,,Nikita Gladnev,['Paradise City'],"['Contentstack', 'Grid']"
+ECMS-1239,Task,In Progress,CAP,CAP,P,,0,2023-09-20T13:54:01.489-0400,,Andres Lara,['Paradise City'],"['capgemini', 'next.js']"
+ECMS-1238,Task,Ready for QA (ADI),CAP,CAP,P,,0,2023-09-20T12:31:32.361-0400,,Andres Lara,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
+ECMS-1237,Task,In Progress,ADI,ADI,O,,0,2023-09-20T11:50:18.875-0400,,Kareen Balsam,['Paradise City'],['ADI']
+ECMS-1236,Story,To Do,GRID,GRID,O,,2,2023-09-20T07:14:21.467-0400,,Igor Liubin,['Paradise City'],['Grid']
+ECMS-1235,Story,Ready for QA (Prod),GRID,GRID,O,,3,2023-09-20T07:09:59.402-0400,,Nikita Gladnev,['Paradise City'],"['Contentstack', 'Grid']"
 ECMS-1234,Story,Done,ADI,CAP,O,P,3,2023-09-19T16:56:36.197-0400,2023-09-25T15:13:55.292-0400,Oksana Lagno,['Paradise City'],['capgemini']
 ECMS-1233,Epic,To Do,ADI,GRID,O,,0,2023-09-19T14:43:32.983-0400,,Oksana Lagno,[],['Grid']
 ECMS-1232,Epic,To Do,ADI,GRID,O,,0,2023-09-19T14:33:51.475-0400,,Oksana Lagno,[],['Grid']
-ECMS-1231,Story,Ready for QA (UAT),GRID,UNDEFINED,O,,0,2023-09-19T11:23:49.308-0400,,Nikita Gladnev,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-1231,Story,Done,GRID,CAP,O,P,0,2023-09-19T11:23:49.308-0400,2023-09-28T18:08:15.935-0400,Nikita Gladnev,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
 ECMS-1230,Epic,To Do,ADI,GRID,O,,0,2023-09-19T10:58:24.052-0400,,Oksana Lagno,[],['Grid']
-ECMS-1229,Bug,Ready for QA (ADI),CAP,CAP,O,,3,2023-09-18T16:50:18.180-0400,,Kailex Patel,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
+ECMS-1229,Bug,Done,CAP,CAP,O,P,3,2023-09-18T16:50:18.180-0400,2023-09-28T18:11:38.945-0400,Kailex Patel,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
 ECMS-1228,Story,To Do,ADI,CAP,O,,0,2023-09-15T14:03:35.090-0400,,Katie Muldoon,['Paradise City'],['capgemini']
 ECMS-1227,Story,In Progress,GRID,GRID,O,,1,2023-09-15T09:54:21.592-0400,,Igor Liubin,['Paradise City'],['Grid']
 ECMS-1226,Story,Done,GRID,GRID,O,P,1,2023-09-15T09:46:23.028-0400,2023-09-27T04:03:41.630-0400,Igor Liubin,['Paradise City'],['Grid']
-ECMS-1225,Story,Code Review,GRID,GRID,O,,1,2023-09-15T09:32:51.821-0400,,Igor Liubin,['Paradise City'],['Grid']
+ECMS-1225,Story,Done,GRID,GRID,O,P,1,2023-09-15T09:32:51.821-0400,2023-10-03T05:04:45.693-0400,Igor Liubin,['Paradise City'],['Grid']
 ECMS-1224,Story,Done,GRID,GRID,O,O,1,2023-09-15T09:31:12.500-0400,2023-09-18T08:56:07.160-0400,Igor Liubin,['Over the Rainbow'],['Grid']
-ECMS-1223,Story,To Do,GRID,GRID,O,,2,2023-09-14T12:18:11.967-0400,,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1222,Story,Ready for QA (ADI),CAP,CAP,O,,5,2023-09-14T11:51:08.669-0400,,Kailex Patel,"['Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
+ECMS-1223,Story,Done,GRID,GRID,O,P,2,2023-09-14T12:18:11.967-0400,2023-10-02T09:11:41.247-0400,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
+ECMS-1222,Story,Done,CAP,CAP,O,P,5,2023-09-14T11:51:08.669-0400,2023-09-28T18:11:30.601-0400,Kailex Patel,"['Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
 ECMS-1221,Story,Blocked,ADI,GRID,O,,0,2023-09-14T11:22:07.387-0400,,Katie Muldoon,[],['Grid']
 ECMS-1220,Story,To Do,ADI,GRID,O,,0,2023-09-14T11:20:35.951-0400,,Katie Muldoon,[],['Grid']
 ECMS-1219,Story,To Do,ADI,GRID,O,,0,2023-09-14T11:17:31.039-0400,,Katie Muldoon,[],['Grid']
 ECMS-1218,Bug,Done,CAP,CAP,O,P,1,2023-09-14T10:18:59.253-0400,2023-09-20T14:37:07.492-0400,Kailex Patel,"['Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
 ECMS-1217,Task,Done,GRID,GRID,O,O,2,2023-09-14T10:18:29.265-0400,2023-09-19T09:26:37.118-0400,Sevak Santrosyan,['Over the Rainbow'],"['Contentstack', 'Grid']"
 ECMS-1216,Epic,To Do,GRID,GRID,O,,0,2023-09-14T07:43:19.258-0400,,Nikita Gladnev,[],['Grid']
-ECMS-1215,Bug,Ready for QA (UAT),CAP,UNDEFINED,O,,0,2023-09-13T19:09:26.351-0400,,Jose Solano,[],"['next.js', 'next.js_release_2023.09.27']"
-ECMS-1214,Bug,Ready for QA (UAT),CAP,UNDEFINED,O,,3,2023-09-13T18:41:20.036-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
-ECMS-1213,Bug,Ready for QA (UAT),CAP,UNDEFINED,O,,3,2023-09-13T17:38:32.293-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1215,Bug,Done,CAP,CAP,O,P,0,2023-09-13T19:09:26.351-0400,2023-09-28T18:08:14.536-0400,Jose Solano,[],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-1214,Bug,Done,CAP,CAP,O,P,3,2023-09-13T18:41:20.036-0400,2023-09-28T18:08:14.971-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1213,Bug,Done,CAP,CAP,O,P,3,2023-09-13T17:38:32.293-0400,2023-09-28T18:08:14.767-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1212,Story,To Do,ADI,CAP,O,,0,2023-09-13T16:31:09.351-0400,,Katie Muldoon,[],['capgemini']
 ECMS-1211,Bug,Done,ADI,CAP,O,P,1,2023-09-13T13:41:11.964-0400,2023-09-25T10:56:27.604-0400,Chris Davis,"['Over the Rainbow', 'Paradise City']","['capgemini', 'next.js']"
 ECMS-1210,Task,To Do,ADI,ADI,O,,0,2023-09-13T13:25:18.528-0400,,Kareen Balsam,[],['ADI']
-ECMS-1209,Story,To Do,ADI,CAP,O,,0,2023-09-13T09:33:59.389-0400,,Katie Muldoon,[],['capgemini']
+ECMS-1209,Story,To Do,ADI,CAP,O,,0,2023-09-13T09:33:59.389-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
 ECMS-1208,Story,Done,GRID,GRID,O,P,1,2023-09-12T16:58:41.651-0400,2023-09-27T07:32:43.582-0400,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1207,Story,Done,GRID,GRID,O,P,2,2023-09-12T16:42:49.053-0400,2023-09-27T07:37:37.434-0400,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1206,Story,Done,GRID,GRID,O,P,1,2023-09-12T14:58:22.214-0400,2023-09-27T07:43:56.975-0400,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1205,Task,Done,ADI,ADI,O,P,3,2023-09-12T12:59:54.565-0400,2023-09-22T18:53:59.633-0400,Kareen Balsam,"['Over the Rainbow', 'Paradise City']",['ADI']
-ECMS-1204,Bug,Ready for QA (UAT),ADI,UNDEFINED,O,,0,2023-09-12T12:05:47.324-0400,,Raffi Yaboujian,[],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-1204,Bug,Done,ADI,CAP,O,P,0,2023-09-12T12:05:47.324-0400,2023-09-28T18:08:18.779-0400,Raffi Yaboujian,[],"['next.js', 'next.js_release_2023.09.27']"
 ECMS-1203,Epic,In Progress,ADI,GRID,O,,0,2023-09-12T11:23:40.466-0400,,Oksana Lagno,[],['Grid']
 ECMS-1202,Story,Done,ADI,CAP,O,P,1,2023-09-12T10:42:34.625-0400,2023-09-20T14:36:49.762-0400,Oksana Lagno,"['Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
 ECMS-1201,Bug,Done,GRID,GRID,O,O,0,2023-09-12T08:31:15.239-0400,2023-09-19T05:14:02.022-0400,Pavlo Totskyi,[],['Grid']
-ECMS-1200,Bug,In Progress,GRID,GRID,O,,5,2023-09-12T07:44:12.007-0400,,Pavlo Totskyi,['Paradise City'],"['Contentstack', 'Grid']"
-ECMS-1199,Bug,To Do,CAP,UNDEFINED,O,,3,2023-09-11T19:02:40.324-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1200,Bug,Blocked,GRID,GRID,O,,5,2023-09-12T07:44:12.007-0400,,Pavlo Totskyi,['Paradise City'],"['Contentstack', 'Grid']"
+ECMS-1199,Bug,Done,CAP,CAP,O,P,3,2023-09-11T19:02:40.324-0400,2023-09-28T18:08:15.736-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.10.04']"
 ECMS-1198,Bug,Done,CAP,CAP,O,P,3,2023-09-11T18:48:05.209-0400,2023-09-20T14:36:43.909-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['capgemini', 'sfcc']"
 ECMS-1197,Bug,Done,ADI,CAP,O,O,3,2023-09-11T15:46:01.211-0400,2023-09-15T10:02:16.369-0400,Chris Davis,['Over the Rainbow'],"['capgemini', 'next.js']"
-ECMS-1195,Bug,Ready for QA (UAT),CAP,UNDEFINED,O,,3,2023-09-11T15:00:18.380-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1195,Bug,Done,CAP,CAP,O,P,3,2023-09-11T15:00:18.380-0400,2023-09-28T18:08:13.069-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1194,Story,Done,GRID,GRID,O,P,1,2023-09-11T14:53:37.862-0400,2023-09-27T07:48:46.048-0400,Jana Flashing,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1193,Bug,Ready for QA (UAT),CAP,UNDEFINED,O,,3,2023-09-08T17:23:39.008-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1193,Bug,Done,CAP,CAP,O,P,3,2023-09-08T17:23:39.008-0400,2023-09-28T18:08:19.163-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1192,Bug,Ready for UAT,ADI,CAP,O,,9,2023-09-08T12:47:35.068-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']",['capgemini']
-ECMS-1191,Task,Ready for QA (UAT),ADI,UNDEFINED,O,,3,2023-09-08T11:02:02.409-0400,,Kareen Balsam,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
-ECMS-1190,Task,To Do,ADI,CAP,O,,0,2023-09-07T16:56:46.769-0400,,Kareen Balsam,[],['capgemini']
+ECMS-1191,Bug,Done,ADI,CAP,O,P,3,2023-09-08T11:02:02.409-0400,2023-09-28T18:08:13.487-0400,Kareen Balsam,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1190,Task,Done,ADI,CAP,O,P,0,2023-09-07T16:56:46.769-0400,2023-09-29T10:33:43.752-0400,Kareen Balsam,[],['capgemini']
 ECMS-1189,Task,Ready for QA (ADI),GRID,GRID,O,,1,2023-09-07T15:21:56.408-0400,,Jana Flashing,"['Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-1188,Task,To Do,ADI,GRID,O,,0,2023-09-07T15:18:36.032-0400,,Eyram Tay,[],['Grid']
+ECMS-1188,Task,Done,ADI,GRID,O,P,0,2023-09-07T15:18:36.032-0400,2023-10-03T07:32:54.065-0400,Eyram Tay,['Ready for Grooming'],['Grid']
 ECMS-1187,Story,Done,ADI,GRID,O,O,3,2023-09-07T14:10:04.745-0400,2023-09-07T15:06:26.163-0400,Oksana Lagno,['Over the Rainbow'],['Grid']
 ECMS-1186,Task,Done,ADI,CAP,O,P,0,2023-09-07T14:01:26.328-0400,2023-09-21T11:24:59.779-0400,Kareen Balsam,[],['capgemini']
 ECMS-1185,Task,Done,CAP,GRID,O,O,3,2023-09-07T10:59:51.093-0400,2023-09-20T10:43:23.923-0400,Andres Lara,['Over the Rainbow'],"['Contentstack', 'Grid']"
 ECMS-1184,Bug,Done,ADI,CAP,O,O,0,2023-09-06T13:11:57.206-0400,2023-09-07T15:15:18.178-0400,Katie Muldoon,[],['capgemini']
-ECMS-1182,Bug,Ready for QA (UAT),CAP,UNDEFINED,N,,3,2023-09-06T11:09:26.693-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1182,Bug,Done,CAP,CAP,N,P,3,2023-09-06T11:09:26.693-0400,2023-09-28T18:08:13.682-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1181,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:50:34.696-0400,2023-09-15T15:47:32.033-0400,Oksana Lagno,['Over the Rainbow'],['ADI']
 ECMS-1180,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:50:27.195-0400,2023-09-15T15:35:57.392-0400,Oksana Lagno,['Over the Rainbow'],['ADI']
 ECMS-1179,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:50:19.868-0400,2023-09-15T15:35:54.918-0400,Oksana Lagno,['Over the Rainbow'],['ADI']
@@ -126,37 +178,37 @@ ECMS-1177,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:50:00.581-0400,2023-09-15T15:35:
 ECMS-1176,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:49:49.656-0400,2023-09-15T15:35:47.342-0400,Oksana Lagno,['Over the Rainbow'],['ADI']
 ECMS-1175,Task,Done,ADI,ADI,N,O,2,2023-09-06T10:49:29.590-0400,2023-09-11T11:42:59.944-0400,Oksana Lagno,['Over the Rainbow'],['ADI']
 ECMS-1174,Epic,Done,ADI,ADI,N,O,0,2023-09-06T10:48:38.225-0400,2023-09-15T15:47:37.419-0400,Oksana Lagno,[],['ADI']
-ECMS-1173,Story,In Progress,ADI,GRID,N,,3,2023-09-06T10:31:08.355-0400,,Katie Muldoon,['Paradise City'],['Grid']
+ECMS-1173,Story,Ready for QA,ADI,GRID,N,,3,2023-09-06T10:31:08.355-0400,,Katie Muldoon,['Paradise City'],['Grid']
 ECMS-1172,Task,Ready for QA (Prod),GRID,GRID,N,,8,2023-09-06T10:19:23.418-0400,,Nikita Gladnev,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
-ECMS-1171,Task,To Do,ADI,GRID,N,,0,2023-09-06T09:38:21.068-0400,,Kareen Balsam,[],['Grid']
+ECMS-1171,Task,Ready for QA (Prod),ADI,GRID,N,,0,2023-09-06T09:38:21.068-0400,,Kareen Balsam,['Ready for Grooming'],['Grid']
 ECMS-1170,Bug,Done,GRID,GRID,N,O,1,2023-09-06T09:31:09.881-0400,2023-09-19T11:01:53.996-0400,Sevak Santrosyan,"['Never gonna give you up!', 'Over the Rainbow']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1169,Task,Done,GRID,GRID,N,P,1,2023-09-06T09:29:55.143-0400,2023-09-21T11:07:21.920-0400,Nikita Gladnev,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-1168,Bug,Done,ADI,CAP,N,O,0,2023-09-05T18:04:41.439-0400,2023-09-14T11:45:27.798-0400,Kareen Balsam,[],['capgemini']
 ECMS-1167,Bug,To Do,GRID,CAP,N,,0,2023-09-05T16:45:33.884-0400,,Sevak Santrosyan,[],['capgemini']
 ECMS-1161,Bug,Done,GRID,GRID,N,P,1,2023-09-05T09:33:13.127-0400,2023-09-27T07:52:24.376-0400,Pavlo Totskyi,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1160,Task,To Do,GRID,GRID,N,,5,2023-09-05T09:04:14.129-0400,,Pavlo Totskyi,['Paradise City'],"['Contentstack', 'Grid']"
+ECMS-1160,Task,Blocked,GRID,GRID,N,,5,2023-09-05T09:04:14.129-0400,,Pavlo Totskyi,['Paradise City'],"['Contentstack', 'Grid']"
 ECMS-1159,Bug,To Do,GRID,GRID,N,,3,2023-09-05T05:14:37.692-0400,,Pavlo Totskyi,[],['Grid']
 ECMS-1158,Task,Done,GRID,GRID,N,N,0,2023-09-04T13:46:14.121-0400,2023-09-04T14:15:39.028-0400,Sevak Santrosyan,['Never gonna give you up!'],['Grid']
-ECMS-1157,Bug,Ready for QA (UAT),CAP,UNDEFINED,N,,2,2023-09-04T11:58:36.576-0400,,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1157,Bug,Done,CAP,CAP,N,P,2,2023-09-04T11:58:36.576-0400,2023-09-28T18:08:14.124-0400,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1156,Task,Done,GRID,GRID,N,N,0,2023-09-04T09:55:58.965-0400,2023-09-04T12:05:32.922-0400,Sevak Santrosyan,['Never gonna give you up!'],['Grid']
 ECMS-1155,Task,Done,GRID,GRID,N,N,0,2023-09-04T09:16:20.629-0400,2023-09-05T06:06:57.569-0400,Sevak Santrosyan,['Never gonna give you up!'],['Grid']
 ECMS-1154,Bug,Ready for UAT,CAP,CAP,N,,2,2023-09-01T15:58:31.061-0400,,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js']"
 ECMS-1153,Story,Ready for QA (ADI),GRID,GRID,N,,5,2023-09-01T11:18:52.759-0400,,Igor Liubin,"['Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-1152,Story,Ready for QA (UAT),GRID,UNDEFINED,N,,0,2023-09-01T09:37:21.489-0400,,Nikita Gladnev,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1152,Story,Done,GRID,CAP,N,P,0,2023-09-01T09:37:21.489-0400,2023-09-28T18:08:17.324-0400,Nikita Gladnev,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1151,Story,Done,GRID,GRID,N,P,2,2023-09-01T09:21:29.207-0400,2023-09-27T07:56:38.040-0400,Nikita Gladnev,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1150,Story,Done,GRID,CAP,N,N,0,2023-09-01T07:58:43.827-0400,2023-09-04T08:44:17.519-0400,Nikita Gladnev,[],['capgemini']
-ECMS-1149,Task,Ready for QA (Prod),GRID,GRID,N,,2,2023-09-01T05:47:38.541-0400,,Tatiana Molchanova,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
+ECMS-1149,Task,Done,GRID,GRID,N,P,2,2023-09-01T05:47:38.541-0400,2023-09-28T04:05:26.143-0400,Tatiana Molchanova,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1148,Bug,Done,ADI,CAP,N,O,2,2023-08-31T12:08:31.745-0400,2023-09-15T10:01:22.931-0400,Kareen Balsam,['Over the Rainbow'],"['capgemini', 'feature-gated']"
 ECMS-1147,Story,Ready for CI,ADI,GRID,N,,1,2023-08-31T11:45:34.079-0400,,Kareen Balsam,['Paradise City'],"['Contentstack', 'Grid']"
 ECMS-1146,Story,To Do,ADI,ADI,N,,1,2023-08-31T11:24:53.120-0400,,Kareen Balsam,[],['ADI']
 ECMS-1145,Story,Done,GRID,GRID,N,O,1,2023-08-31T11:20:28.532-0400,2023-09-15T09:30:43.377-0400,Igor Liubin,['Over the Rainbow'],['Grid']
 ECMS-1144,Story,Done,GRID,GRID,N,O,1,2023-08-31T11:18:20.682-0400,2023-09-18T11:15:58.745-0400,Igor Liubin,['Over the Rainbow'],['Grid']
 ECMS-1143,Bug,To Do,GRID,CAP,N,,0,2023-08-31T09:41:24.706-0400,,Sevak Santrosyan,[],['capgemini']
-ECMS-1142,Story,Ready for UAT,ADI,GRID,N,,3,2023-08-31T09:27:21.133-0400,,Katie Muldoon,['Paradise City'],['Grid']
-ECMS-1141,Story,To Do,GRID,GRID,N,,2,2023-08-31T09:22:10.772-0400,,Igor Liubin,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-1142,Story,Done,ADI,GRID,N,P,3,2023-08-31T09:27:21.133-0400,2023-10-03T05:57:18.856-0400,Katie Muldoon,['Paradise City'],['Grid']
+ECMS-1141,Story,Done,GRID,GRID,N,P,2,2023-08-31T09:22:10.772-0400,2023-10-02T05:50:27.497-0400,Igor Liubin,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-1140,Bug,Done,CAP,CAP,N,O,2,2023-08-30T16:21:30.919-0400,2023-09-15T10:03:56.963-0400,Andres Lara,"['Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'next.js', 'sfcc']"
 ECMS-1139,Story,To Do,ADI,CAP,N,,0,2023-08-30T13:58:11.475-0400,,Katie Muldoon,[],"['capgemini', 'next.js']"
-ECMS-1138,Story,To Do,ADI,CAP,N,,0,2023-08-30T13:38:33.318-0400,,Katie Muldoon,[],['capgemini']
+ECMS-1138,Story,Ready for QA (ADI),ADI,CAP,N,,0,2023-08-30T13:38:33.318-0400,,Katie Muldoon,['Paradise City'],['capgemini']
 ECMS-1137,Bug,Done,CAP,CAP,N,N,0,2023-08-30T13:33:16.907-0400,2023-08-31T14:04:04.697-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-1136,Story,Ready for QA,ADI,GRID,N,,1,2023-08-30T10:59:36.947-0400,,Katie Muldoon,['Paradise City'],['Grid']
 ECMS-1135,Task,To Do,ADI,ADI,N,,0,2023-08-29T16:44:43.637-0400,,Kareen Balsam,[],['ADI']
@@ -170,7 +222,7 @@ ECMS-1128,Bug,Done,GRID,CAP,N,O,0,2023-08-29T10:03:22.162-0400,2023-09-15T15:07:
 ECMS-1127,Bug,Done,GRID,CAP,N,O,0,2023-08-29T10:00:06.334-0400,2023-09-12T10:46:25.324-0400,Sevak Santrosyan,[],['capgemini']
 ECMS-1126,Story,Done,GRID,GRID,N,O,1,2023-08-29T06:26:14.021-0400,2023-09-13T05:42:52.570-0400,Igor Liubin,['Over the Rainbow'],['Grid']
 ECMS-1125,Task,Done,ADI,ADI,N,O,0,2023-08-28T17:02:10.809-0400,2023-09-18T17:31:05.130-0400,Eyram Tay,"['Never gonna give you up!', 'Over the Rainbow']",['ADI']
-ECMS-1124,Bug,Ready for QA (UAT),CAP,UNDEFINED,N,,2,2023-08-28T15:45:20.650-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1124,Bug,Done,CAP,CAP,N,P,2,2023-08-28T15:45:20.650-0400,2023-09-28T18:08:16.874-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1123,Task,Done,ADI,ADI,N,N,0,2023-08-27T18:08:02.117-0400,2023-09-06T10:37:53.113-0400,Oksana Lagno,[],['ADI']
 ECMS-1122,Task,Done,ADI,ADI,N,N,0,2023-08-27T18:07:44.213-0400,2023-09-06T10:33:41.611-0400,Oksana Lagno,[],['ADI']
 ECMS-1121,Task,Done,ADI,CAP,N,N,0,2023-08-27T18:07:32.374-0400,2023-09-06T10:33:37.282-0400,Oksana Lagno,[],['capgemini']
@@ -180,46 +232,46 @@ ECMS-1118,Task,Done,ADI,ADI,N,N,0,2023-08-27T18:06:57.852-0400,2023-09-06T10:33:
 ECMS-1117,Task,Done,ADI,CAP,N,N,0,2023-08-27T18:06:40.680-0400,2023-09-06T10:33:25.104-0400,Oksana Lagno,[],['capgemini']
 ECMS-1116,Task,Done,ADI,CAP,N,N,0,2023-08-27T18:05:30.506-0400,2023-09-06T10:33:03.211-0400,Oksana Lagno,[],['capgemini']
 ECMS-1115,Epic,Done,ADI,UNDEFINED,N,N,0,2023-08-27T18:01:42.268-0400,2023-09-06T10:37:59.117-0400,Oksana Lagno,['Never gonna give you up!'],[]
-ECMS-1114,Bug,Ready for QA (UAT),CAP,UNDEFINED,N,,2,2023-08-25T13:58:13.591-0400,,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1114,Bug,Done,CAP,CAP,N,P,2,2023-08-25T13:58:13.591-0400,2023-09-28T18:08:15.520-0400,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1113,Bug,Done,ADI,CAP,N,N,0,2023-08-25T12:08:19.069-0400,2023-08-29T10:14:35.230-0400,Oksana Lagno,['Never gonna give you up!'],['capgemini']
 ECMS-1112,Task,Done,GRID,GRID,N,N,1,2023-08-25T10:56:27.110-0400,2023-09-05T06:07:57.164-0400,Sevak Santrosyan,['Never gonna give you up!'],['Grid']
 ECMS-1111,Bug,Done,ADI,CAP,N,N,0,2023-08-24T11:03:16.902-0400,2023-08-30T14:31:28.032-0400,Katie Muldoon,['Never gonna give you up!'],"['capgemini', 'next.js']"
 ECMS-1110,Bug,Done,ADI,CAP,N,N,0,2023-08-24T08:53:47.571-0400,2023-08-24T11:18:03.060-0400,Oksana Lagno,['Never gonna give you up!'],['capgemini']
 ECMS-1109,Story,Done,GRID,GRID,N,N,1,2023-08-24T08:08:59.650-0400,2023-08-25T11:07:22.352-0400,Igor Liubin,['Never gonna give you up!'],['Grid']
 ECMS-1108,Bug,Done,ADI,GRID,N,N,0,2023-08-23T16:00:56.523-0400,2023-08-24T11:16:34.957-0400,Oksana Lagno,['Never gonna give you up!'],['Grid']
-ECMS-1107,Task,To Do,ADI,CAP,N,,0,2023-08-23T15:58:33.390-0400,,Katie Muldoon,[],['capgemini']
-ECMS-1106,Task,To Do,ADI,CAP,N,,0,2023-08-23T15:57:50.052-0400,,Katie Muldoon,[],['capgemini']
+ECMS-1107,Story,Ready for Preview,ADI,CAP,N,,0,2023-08-23T15:58:33.390-0400,,Katie Muldoon,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
+ECMS-1106,Task,To Do,ADI,CAP,N,,0,2023-08-23T15:57:50.052-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
 ECMS-1105,Bug,Done,ADI,GRID,N,N,0,2023-08-23T15:11:14.134-0400,2023-08-23T15:23:10.719-0400,Oksana Lagno,[],['Grid']
-ECMS-1104,Bug,Blocked,GRID,GRID,N,,3,2023-08-23T14:53:32.386-0400,,Jana Flashing,[],['Grid']
+ECMS-1104,Bug,Ready for QA,GRID,GRID,N,,1,2023-08-23T14:53:32.386-0400,,Jana Flashing,[],['Grid']
 ECMS-1103,Bug,Done,CAP,CAP,N,O,0,2023-08-23T14:17:15.551-0400,2023-09-15T10:02:33.011-0400,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow']",['capgemini']
 ECMS-1102,Bug,Done,ADI,GRID,N,N,0,2023-08-23T14:04:06.290-0400,2023-08-23T15:48:20.984-0400,Kareen Balsam,[],['Grid']
-ECMS-1101,Bug,Ready for QA (UAT),ADI,UNDEFINED,N,,4,2023-08-23T12:10:34.274-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
-ECMS-1100,Bug,Done,ADI,CAP,N,O,0,2023-08-23T11:55:04.981-0400,2023-09-19T10:34:16.188-0400,Katie Muldoon,['Over the Rainbow'],['capgemini']
-ECMS-1099,Task,Ready for UAT,ADI,CAP,M,,0,2023-08-23T10:33:38.304-0400,,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
+ECMS-1101,Story,Done,ADI,CAP,M,P,4,2023-08-23T12:10:34.274-0400,2023-09-28T18:08:18.978-0400,Katie Muldoon,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1100,Bug,Done,ADI,CAP,M,O,0,2023-08-23T11:55:04.981-0400,2023-09-19T10:34:16.188-0400,Katie Muldoon,['Over the Rainbow'],['capgemini']
+ECMS-1099,Task,Done,ADI,CAP,M,P,3,2023-08-23T10:33:38.304-0400,2023-09-28T18:08:18.014-0400,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
 ECMS-1098,Story,Done,GRID,GRID,M,O,2,2023-08-23T07:14:54.651-0400,2023-09-13T12:43:58.166-0400,Igor Liubin,"['Never gonna give you up!', 'Over the Rainbow']",['Grid']
 ECMS-1097,Story,Done,GRID,GRID,M,O,3,2023-08-22T13:55:02.343-0400,2023-09-20T10:30:51.178-0400,Sergii Sopin,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['Contentstack', 'Grid']"
 ECMS-1096,Bug,Done,ADI,CAP,M,N,0,2023-08-22T13:11:11.945-0400,2023-09-06T11:21:19.396-0400,Kareen Balsam,['Never gonna give you up!'],['capgemini']
-ECMS-1095,Bug,To Do,ADI,CAP,M,,0,2023-08-22T12:36:39.482-0400,,Katie Muldoon,[],['capgemini']
-ECMS-1094,Story,Ready for QA (ADI),ADI,CAP,M,,0,2023-08-22T11:55:13.406-0400,,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
-ECMS-1093,Bug,Ready for UAT,ADI,CAP,M,,9,2023-08-22T11:46:37.303-0400,,Kareen Balsam,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js']"
+ECMS-1095,Bug,Done,ADI,CAP,M,P,0,2023-08-22T12:36:39.482-0400,2023-09-29T10:31:59.428-0400,Katie Muldoon,[],['capgemini']
+ECMS-1094,Story,Done,ADI,CAP,M,P,0,2023-08-22T11:55:13.406-0400,2023-09-28T18:08:18.212-0400,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
+ECMS-1093,Bug,Done,ADI,CAP,M,P,9,2023-08-22T11:46:37.303-0400,2023-09-28T18:08:16.636-0400,Kareen Balsam,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
 ECMS-1092,Story,Done,GRID,GRID,M,O,2,2023-08-22T11:35:02.494-0400,2023-09-08T11:26:16.002-0400,Igor Liubin,"['Never gonna give you up!', 'Over the Rainbow']",['Grid']
 ECMS-1091,Story,Done,GRID,GRID,M,O,5,2023-08-22T11:34:51.830-0400,2023-09-07T12:28:28.894-0400,Igor Liubin,"['Never gonna give you up!', 'Over the Rainbow']",['Grid']
 ECMS-1090,Story,Ready for QA (ADI),GRID,GRID,M,,3,2023-08-22T11:20:24.188-0400,,Igor Liubin,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-1089,Story,Ready for QA (UAT),GRID,UNDEFINED,M,,2,2023-08-22T11:11:30.611-0400,,Igor Liubin,['Never gonna give you up!'],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-1089,Story,Done,GRID,CAP,M,P,2,2023-08-22T11:11:30.611-0400,2023-09-28T18:08:14.327-0400,Igor Liubin,['Never gonna give you up!'],"['next.js', 'next.js_release_2023.09.27']"
 ECMS-1088,Story,Done,GRID,GRID,M,N,1,2023-08-22T11:06:25.608-0400,2023-08-29T09:39:59.092-0400,Igor Liubin,['Never gonna give you up!'],['Grid']
 ECMS-1087,Bug,Done,CAP,GRID,M,N,2,2023-08-21T17:58:19.117-0400,2023-09-04T04:12:29.079-0400,Jose Solano,"['Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1086,Story,Blocked,GRID,GRID,M,,3,2023-08-21T15:50:42.964-0400,,Jana Flashing,[],['Grid']
+ECMS-1086,Story,Blocked,GRID,GRID,M,,3,2023-08-21T15:50:42.964-0400,,Jana Flashing,['Ready for Grooming'],['Grid']
 ECMS-1085,Story,Done,CAP,CAP,M,N,0,2023-08-21T12:36:54.081-0400,2023-09-05T11:15:58.603-0400,Alayna Rolfing,['Never gonna give you up!'],"['capgemini', 'next.js', 'next.js_release_2023.08.30']"
-ECMS-1084,Story,To Do,CAP,CAP,M,,0,2023-08-21T12:36:28.249-0400,,Alayna Rolfing,[],['capgemini']
-ECMS-1083,Story,To Do,CAP,CAP,M,,0,2023-08-21T12:35:41.903-0400,,Alayna Rolfing,[],['capgemini']
+ECMS-1084,Story,Done,CAP,CAP,M,P,0,2023-08-21T12:36:28.249-0400,2023-09-29T10:31:40.796-0400,Alayna Rolfing,[],['capgemini']
+ECMS-1083,Story,Done,CAP,CAP,M,P,0,2023-08-21T12:35:41.903-0400,2023-09-29T10:31:49.799-0400,Alayna Rolfing,[],['capgemini']
 ECMS-1082,Task,Done,GRID,GRID,M,M,0,2023-08-21T09:17:25.314-0400,2023-08-21T10:48:01.940-0400,Sevak Santrosyan,['Macarena'],['Grid']
 ECMS-1081,Story,Done,ADI,CAP,M,N,1,2023-08-18T14:10:51.887-0400,2023-08-23T16:24:19.094-0400,Oksana Lagno,['Macarena'],"['capgemini', 'feature-gated', 'sfcc']"
 ECMS-1080,Bug,To Do,ADI,CAP,M,,0,2023-08-18T12:54:16.476-0400,,Kareen Balsam,[],['capgemini']
-ECMS-1079,Task,Done,ADI,CAP,M,N,0,2023-08-18T12:20:47.871-0400,2023-08-23T11:48:53.609-0400,Kareen Balsam,['Never gonna give you up!'],['capgemini']
+ECMS-1079,Task,Done,ADI,CAP,M,M,0,2023-08-18T12:20:47.871-0400,2023-08-23T11:48:53.609-0400,Kareen Balsam,['Never gonna give you up!'],['capgemini']
 ECMS-1078,Story,In Progress,CAP,CAP,M,,0,2023-08-18T11:51:45.733-0400,,Ankit Kumar,[],['capgemini']
 ECMS-1077,Bug,Done,ADI,CAP,M,O,0,2023-08-17T17:13:29.286-0400,2023-09-15T11:48:16.288-0400,Kareen Balsam,[],"['capgemini', 'next.js', 'next.js_release_2023.08.30']"
-ECMS-1076,Task,To Do,ADI,GRID,M,,0,2023-08-17T17:07:08.344-0400,,Kareen Balsam,[],['Grid']
-ECMS-1075,Story,Ready for QA (UAT),ADI,UNDEFINED,M,,0,2023-08-17T15:27:38.839-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-1076,Task,To Do,ADI,GRID,M,,0,2023-08-17T17:07:08.344-0400,,Kareen Balsam,['Ready for Grooming'],['Grid']
+ECMS-1075,Story,Done,ADI,CAP,M,P,0,2023-08-17T15:27:38.839-0400,2023-09-28T18:08:18.588-0400,Katie Muldoon,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-1074,Task,Done,CAP,CAP,M,O,0,2023-08-17T13:54:22.116-0400,2023-09-15T10:08:57.844-0400,Andres Lara,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow']",['capgemini']
 ECMS-1073,Story,In Progress,CAP,CAP,M,,0,2023-08-17T11:59:32.204-0400,,Ankit Kumar,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
 ECMS-1072,Task,Done,ADI,ADI,M,M,1,2023-08-17T11:39:54.419-0400,2023-08-17T15:13:35.491-0400,Oksana Lagno,[],['ADI']
@@ -236,13 +288,13 @@ ECMS-1062,Story,Done,GRID,GRID,M,M,1,2023-08-17T07:30:19.779-0400,2023-08-21T09:
 ECMS-1061,Task,Done,GRID,GRID,M,M,1,2023-08-16T15:54:36.251-0400,2023-08-17T16:47:48.784-0400,Jana Flashing,['Macarena'],['Grid']
 ECMS-1060,Story,Done,GRID,GRID,M,M,1,2023-08-16T11:10:11.624-0400,2023-08-22T08:52:12.191-0400,Igor Liubin,['Macarena'],['Grid']
 ECMS-1059,Bug,Done,ADI,CAP,M,N,0,2023-08-16T09:59:07.351-0400,2023-08-23T16:24:15.741-0400,Oksana Lagno,['Macarena'],"['capgemini', 'sfcc']"
-ECMS-1058,Bug,In Progress,GRID,GRID,M,,3,2023-08-16T09:58:35.685-0400,,Pavlo Totskyi,['Paradise City'],['Grid']
+ECMS-1058,Bug,Ready for QA,GRID,GRID,M,,3,2023-08-16T09:58:35.685-0400,,Pavlo Totskyi,['Paradise City'],['Grid']
 ECMS-1057,Bug,Done,CAP,CAP,M,M,0,2023-08-15T17:58:54.859-0400,2023-08-17T15:19:11.104-0400,Jose Solano,['Macarena'],"['capgemini', 'next.js', 'next.js_release_2023.08.17']"
 ECMS-1056,Task,Done,ADI,CAP,M,M,0,2023-08-15T13:23:28.306-0400,2023-08-17T15:22:59.601-0400,Katie Muldoon,['Macarena'],"['capgemini', 'next.js', 'next.js_release_2023.08.17']"
 ECMS-1055,Bug,Done,ADI,GRID,M,M,0,2023-08-14T17:36:09.513-0400,2023-08-21T11:10:37.882-0400,Oksana Lagno,['Macarena'],['Grid']
 ECMS-1054,Story,To Do,ADI,CAP,M,,0,2023-08-14T12:22:10.659-0400,,Raffi Yaboujian,[],"['capgemini', 'next.js']"
 ECMS-1053,Bug,Done,GRID,GRID,M,P,1,2023-08-14T10:03:51.026-0400,2023-09-27T08:09:52.488-0400,Pavlo Totskyi,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1052,Story,To Do,ADI,GRID,M,,0,2023-08-14T09:28:32.969-0400,,Katie Muldoon,[],['Grid']
+ECMS-1052,Epic,To Do,ADI,GRID,M,,0,2023-08-14T09:28:32.969-0400,,Katie Muldoon,['Ready for Grooming'],['Grid']
 ECMS-1051,Task,Done,ADI,GRID,M,P,1,2023-08-11T15:40:42.120-0400,2023-09-27T08:13:13.821-0400,Kareen Balsam,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1050,Bug,Done,ADI,CAP,M,O,0,2023-08-11T15:38:25.434-0400,2023-09-15T11:30:49.240-0400,Kareen Balsam,[],"['capgemini', 'next.js', 'next.js_release_2023.08.30']"
 ECMS-1049,Story,Done,ADI,CAP,M,M,0,2023-08-11T12:15:18.561-0400,2023-08-15T19:01:09.733-0400,Oksana Lagno,['Macarena'],['capgemini']
@@ -276,7 +328,7 @@ ECMS-1020,Bug,Done,CAP,CAP,L,L,0,2023-08-07T13:22:21.327-0400,2023-08-08T12:31:1
 ECMS-1019,Story,Done,ADI,GRID,L,N,2,2023-08-07T12:09:05.742-0400,2023-09-04T04:12:32.615-0400,Oksana Lagno,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-1018,Story,Done,GRID,GRID,L,M,2,2023-08-07T10:37:17.952-0400,2023-08-22T06:37:49.909-0400,Igor Liubin,['Macarena'],['Grid']
 ECMS-1017,Story,Code Review,GRID,GRID,L,,5,2023-08-07T10:37:09.116-0400,,Jana Flashing,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-1016,Story,Code Review,GRID,GRID,L,,2,2023-08-07T10:36:27.672-0400,,Igor Liubin,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
+ECMS-1016,Story,Done,GRID,GRID,L,P,2,2023-08-07T10:36:27.672-0400,2023-10-02T05:52:03.883-0400,Igor Liubin,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
 ECMS-1015,Story,Done,GRID,GRID,L,M,2,2023-08-07T10:35:28.350-0400,2023-08-17T10:57:30.899-0400,Igor Liubin,['Macarena'],['Grid']
 ECMS-1014,Story,Done,GRID,GRID,L,N,2,2023-08-07T10:33:56.257-0400,2023-08-24T03:33:03.843-0400,Igor Liubin,"['Macarena', 'Never gonna give you up!']",['Grid']
 ECMS-1013,Story,Done,GRID,GRID,L,L,0,2023-08-04T09:14:45.947-0400,2023-08-07T10:32:39.186-0400,Nikita Gladnev,[],['Grid']
@@ -304,20 +356,20 @@ ECMS-991,Bug,Done,ADI,CAP,L,M,0,2023-08-01T16:26:46.155-0400,2023-08-17T17:14:28
 ECMS-990,Task,Done,ADI,GRID,L,O,0,2023-08-01T13:58:59.201-0400,2023-09-18T11:41:54.900-0400,Eyram Tay,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']",['Grid']
 ECMS-989,Bug,Done,ADI,GRID,L,N,2,2023-08-01T13:57:28.791-0400,2023-09-04T14:23:24.798-0400,Kareen Balsam,"['Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-988,Story,Done,ADI,GRID,L,O,0,2023-08-01T11:15:26.783-0400,2023-09-18T17:31:41.378-0400,Katie Muldoon,[],['Grid']
-ECMS-987,Bug,Done,GRID,GRID,L,P,0,2023-08-01T10:32:07.683-0400,2023-09-20T12:08:47.437-0400,Pavlo Totskyi,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
+ECMS-987,Bug,Done,GRID,GRID,L,O,0,2023-08-01T10:32:07.683-0400,2023-09-20T12:08:47.437-0400,Pavlo Totskyi,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
 ECMS-986,Story,Done,ADI,GRID,L,L,0,2023-08-01T10:20:07.759-0400,2023-08-09T10:19:46.959-0400,Katie Muldoon,[],['Grid']
 ECMS-985,Task,Done,GRID,GRID,L,P,1,2023-08-01T10:18:39.728-0400,2023-09-27T08:37:27.704-0400,Pavlo Totskyi,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-984,Story,To Do,GRID,GRID,L,,0,2023-08-01T10:14:48.998-0400,,Nikita Gladnev,[],['Grid']
+ECMS-984,Story,Done,GRID,GRID,L,P,0,2023-08-01T10:14:48.998-0400,2023-10-02T10:32:54.553-0400,Nikita Gladnev,[],['Grid']
 ECMS-983,Story,Done,ADI,GRID,L,L,0,2023-08-01T10:02:13.382-0400,2023-08-02T15:03:06.432-0400,Katie Muldoon,[],['Grid']
-ECMS-982,Bug,Ready for QA (Prod),GRID,GRID,L,,1,2023-08-01T10:01:06.853-0400,,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
+ECMS-982,Bug,Done,GRID,GRID,L,P,1,2023-08-01T10:01:06.853-0400,2023-09-28T04:04:31.361-0400,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-981,Story,Done,ADI,GRID,L,O,5,2023-08-01T09:55:42.885-0400,2023-09-18T14:13:43.118-0400,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow']",['Grid']
 ECMS-980,Story,Done,ADI,GRID,L,O,0,2023-08-01T09:49:16.475-0400,2023-09-18T11:41:56.203-0400,Katie Muldoon,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']",['Grid']
-ECMS-979,Bug,Ready for QA (UAT),CAP,UNDEFINED,L,,9,2023-07-31T16:30:52.485-0400,,Jose Solano,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-979,Bug,Done,CAP,CAP,L,P,9,2023-07-31T16:30:52.485-0400,2023-09-28T18:08:17.795-0400,Jose Solano,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-978,Bug,Done,ADI,GRID,L,N,0,2023-07-31T16:00:15.763-0400,2023-09-04T04:12:38.741-0400,Kareen Balsam,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-977,Bug,Ready for UAT,ADI,GRID,L,,5,2023-07-28T16:56:18.426-0400,,Kareen Balsam,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Grid', 'next.js']"
+ECMS-977,Bug,Done,ADI,GRID,L,P,5,2023-07-28T16:56:18.426-0400,2023-09-28T18:17:04.804-0400,Kareen Balsam,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
 ECMS-976,Story,To Do,ADI,CAP,L,,0,2023-07-28T12:13:54.505-0400,,Katie Muldoon,[],['capgemini']
-ECMS-975,Story,To Do,ADI,GRID,L,,2,2023-07-28T12:03:49.992-0400,,Katie Muldoon,['Paradise City'],['Grid']
-ECMS-974,Story,To Do,ADI,CAP,L,,0,2023-07-28T12:03:12.155-0400,,Katie Muldoon,['Paradise City'],['capgemini']
+ECMS-975,Story,In Progress,ADI,GRID,L,,2,2023-07-28T12:03:49.992-0400,,Katie Muldoon,['Paradise City'],['Grid']
+ECMS-974,Story,Ready for QA (ADI),ADI,CAP,L,,0,2023-07-28T12:03:12.155-0400,,Katie Muldoon,['Paradise City'],['capgemini']
 ECMS-973,Bug,Done,ADI,CAP,L,M,0,2023-07-28T10:24:33.394-0400,2023-08-14T12:02:28.607-0400,Raffi Yaboujian,"['Lucky Star', 'Macarena']","['capgemini', 'sfcc']"
 ECMS-972,Bug,Done,GRID,GRID,L,P,2,2023-07-28T05:49:42.343-0400,2023-09-21T09:39:09.859-0400,Pavlo Totskyi,['Paradise City'],['Grid']
 ECMS-971,Task,Done,GRID,GRID,L,N,2,2023-07-28T05:42:46.707-0400,2023-09-01T10:02:49.248-0400,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
@@ -328,18 +380,18 @@ ECMS-967,Story,Done,ADI,ADI,L,M,0,2023-07-27T15:00:28.751-0400,2023-08-14T12:02:
 ECMS-966,Bug,Done,CAP,CAP,L,M,0,2023-07-27T13:59:44.557-0400,2023-08-16T17:46:37.024-0400,Andres Lara,"['Lucky Star', 'Macarena']","['capgemini', 'next.js', 'next.js_release_2023.08.03', 'next.js_release_2023.08.17']"
 ECMS-965,Story,To Do,ADI,GRID,L,,0,2023-07-27T11:25:06.637-0400,,Oksana Lagno,[],['Grid']
 ECMS-964,Bug,Done,GRID,GRID,L,N,0,2023-07-27T11:13:48.257-0400,2023-08-25T12:27:47.457-0400,Sevak Santrosyan,"['Macarena', 'Never gonna give you up!']","['4.43.0_release_testing', 'Grid']"
-ECMS-963,Bug,Ready for QA (UAT),GRID,GRID,L,,3,2023-07-27T10:16:17.756-0400,,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['4.43.0_release_testing', 'Contentstack', 'Grid']"
-ECMS-962,Bug,Ready for QA (UAT),GRID,GRID,L,,3,2023-07-27T03:59:51.953-0400,,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['4.43.0_release_testing', 'Contentstack', 'Grid']"
+ECMS-963,Bug,Done,GRID,GRID,L,P,3,2023-07-27T10:16:17.756-0400,2023-10-03T08:11:10.265-0400,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['4.43.0_release_testing', 'Contentstack', 'Grid']"
+ECMS-962,Bug,Done,GRID,GRID,L,P,3,2023-07-27T03:59:51.953-0400,2023-10-03T08:09:11.894-0400,Pavlo Totskyi,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['4.43.0_release_testing', 'Contentstack', 'Grid']"
 ECMS-961,Bug,Done,GRID,GRID,L,P,3,2023-07-27T03:28:03.654-0400,2023-09-21T09:42:55.885-0400,Pavlo Totskyi,['Paradise City'],"['4.43.0_release_testing', 'Grid']"
 ECMS-960,Task,Done,CAP,CAP,L,L,0,2023-07-26T13:27:35.730-0400,2023-08-04T12:13:38.481-0400,Andres Lara,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
 ECMS-959,Bug,Done,CAP,CAP,L,L,0,2023-07-26T13:03:42.506-0400,2023-08-08T12:22:32.366-0400,Jose Solano,['Lucky Star'],"['capgemini', 'next.js', 'next.js_release_2023.08.17']"
-ECMS-958,Bug,Done,CAP,CAP,L,M,0,2023-07-26T12:14:15.452-0400,2023-08-09T13:09:48.163-0400,Jose Solano,"['Lucky Star', 'Macarena']","['capgemini', 'next.js', 'next.js_release_2023.08.17', 'next.js_release_2023.08.30']"
-ECMS-957,Bug,Ready for UAT,ADI,GRID,K,,3,2023-07-26T11:17:03.193-0400,,Oksana Lagno,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-958,Bug,Done,CAP,CAP,K,M,0,2023-07-26T12:14:15.452-0400,2023-08-09T13:09:48.163-0400,Jose Solano,"['Lucky Star', 'Macarena']","['capgemini', 'next.js', 'next.js_release_2023.08.17', 'next.js_release_2023.08.30']"
+ECMS-957,Bug,Done,ADI,GRID,K,P,3,2023-07-26T11:17:03.193-0400,2023-09-28T18:08:16.425-0400,Oksana Lagno,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'next.js_release_2023.09.27']"
 ECMS-956,Bug,Done,GRID,GRID,K,L,0,2023-07-26T10:19:39.286-0400,2023-08-08T05:11:13.852-0400,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star']","['Grid', 'MVP_SIT']"
-ECMS-955,Story,To Do,ADI,CAP,K,,0,2023-07-26T10:14:59.210-0400,,Katie Muldoon,[],['capgemini']
-ECMS-954,Story,To Do,ADI,CAP,K,,0,2023-07-26T10:08:58.135-0400,,Katie Muldoon,[],['capgemini']
-ECMS-953,Story,Ready for QA (ADI),ADI,CAP,K,,0,2023-07-26T10:03:59.737-0400,,Katie Muldoon,['Paradise City'],['capgemini']
-ECMS-952,Story,Ready for QA (UAT),ADI,UNDEFINED,K,,0,2023-07-26T09:59:00.393-0400,,Katie Muldoon,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
+ECMS-955,Story,Ready for QA (ADI),ADI,UNDEFINED,K,,0,2023-07-26T10:14:59.210-0400,,Katie Muldoon,['Ready for Grooming'],[]
+ECMS-954,Story,Blocked,ADI,CAP,K,,0,2023-07-26T10:08:58.135-0400,,Katie Muldoon,[],['capgemini']
+ECMS-953,Story,Ready for Preview,ADI,CAP,K,,0,2023-07-26T10:03:59.737-0400,,Katie Muldoon,['Paradise City'],['capgemini']
+ECMS-952,Story,Done,ADI,CAP,K,P,0,2023-07-26T09:59:00.393-0400,2023-09-28T18:08:17.080-0400,Katie Muldoon,['Paradise City'],"['next.js', 'next.js_release_2023.09.27']"
 ECMS-951,Story,Done,ADI,GRID,K,O,3,2023-07-26T09:51:54.533-0400,2023-09-18T14:14:31.042-0400,Katie Muldoon,['Over the Rainbow'],['Grid']
 ECMS-950,Story,Done,ADI,GRID,K,L,0,2023-07-26T09:40:41.243-0400,2023-08-02T15:02:20.412-0400,Katie Muldoon,[],['Grid']
 ECMS-949,Story,Done,ADI,GRID,K,M,0,2023-07-26T09:26:17.060-0400,2023-08-17T10:21:52.385-0400,Katie Muldoon,[],['Grid']
@@ -360,26 +412,26 @@ ECMS-935,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:19:15.290-0400,,Jana Flashing,
 ECMS-934,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:18:14.272-0400,,Jana Flashing,[],['Grid']
 ECMS-933,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:18:06.575-0400,,Jana Flashing,[],['Grid']
 ECMS-932,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:17:46.952-0400,,Jana Flashing,[],['Grid']
-ECMS-931,Story,In Progress,GRID,GRID,K,,5,2023-07-25T15:38:48.681-0400,,Sergii Sopin,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-931,Story,Blocked,GRID,GRID,K,,5,2023-07-25T15:38:48.681-0400,,Sergii Sopin,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-930,Bug,Done,ADI,CAP,K,N,0,2023-07-25T12:52:54.364-0400,2023-08-29T17:53:15.402-0400,Kareen Balsam,[],['capgemini']
 ECMS-929,Story,Done,ADI,CAP,K,M,0,2023-07-25T11:52:43.093-0400,2023-08-14T12:02:57.896-0400,Oksana Lagno,"['Lucky Star', 'Macarena']","['capgemini', 'sfcc']"
 ECMS-928,Bug,Done,ADI,CAP,K,L,0,2023-07-25T11:36:52.525-0400,2023-07-27T17:39:17.054-0400,Oksana Lagno,"['Karma Chameleon', 'Lucky Star']","['capgemini', 'next.js']"
-ECMS-927,Story,Ready for QA (Prod),ADI,GRID,K,,3,2023-07-25T10:42:06.335-0400,,Kareen Balsam,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
+ECMS-927,Story,Done,ADI,GRID,K,P,3,2023-07-25T10:42:06.335-0400,2023-09-28T04:08:25.652-0400,Kareen Balsam,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-926,Story,Done,GRID,GRID,K,L,5,2023-07-25T10:22:26.456-0400,2023-08-07T15:23:30.262-0400,Nikita Gladnev,['Lucky Star'],"['Contentstack', 'Grid']"
 ECMS-925,Epic,To Do,GRID,UNDEFINED,K,,0,2023-07-24T22:51:13.593-0400,,Jana Flashing,[],[]
-ECMS-924,Task,To Do,ADI,GRID,K,,0,2023-07-24T18:10:10.385-0400,,Eyram Tay,[],['Grid']
+ECMS-924,Task,To Do,ADI,GRID,K,,0,2023-07-24T18:10:10.385-0400,,Eyram Tay,['Ready for Grooming'],['Grid']
 ECMS-923,Story,Done,ADI,CAP,K,L,0,2023-07-24T12:13:04.067-0400,2023-07-27T17:39:21.195-0400,Kareen Balsam,[],['capgemini']
 ECMS-922,Task,Done,ADI,GRID,K,L,1,2023-07-24T11:21:10.590-0400,2023-07-31T15:54:28.506-0400,Eyram Tay,"['Karma Chameleon', 'Lucky Star']","['Algolia', 'Grid']"
 ECMS-921,Story,To Do,GRID,GRID,K,,0,2023-07-24T10:27:43.429-0400,,Nikita Gladnev,[],['Grid']
 ECMS-920,Task,Done,ADI,GRID,K,L,1,2023-07-24T10:11:54.382-0400,2023-07-31T15:51:38.261-0400,Eyram Tay,"['Karma Chameleon', 'Lucky Star']","['Algolia', 'Grid']"
 ECMS-919,Story,To Do,ADI,CAP,K,,0,2023-07-24T10:02:13.449-0400,,Katie Muldoon,[],['capgemini']
-ECMS-918,Story,To Do,ADI,CAP,K,,0,2023-07-24T09:48:16.489-0400,,Katie Muldoon,['Paradise City'],['capgemini']
-ECMS-917,Story,Ready for QA,GRID,GRID,K,,8,2023-07-24T09:35:14.468-0400,,Nikita Gladnev,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
+ECMS-918,Story,In Progress,ADI,CAP,K,,0,2023-07-24T09:48:16.489-0400,,Katie Muldoon,['Paradise City'],['capgemini']
+ECMS-917,Story,Ready for UAT,GRID,GRID,K,,8,2023-07-24T09:35:14.468-0400,,Nikita Gladnev,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-916,Story,Blocked,GRID,GRID,K,,8,2023-07-24T09:31:25.053-0400,,Nikita Gladnev,['Paradise City'],"['Contentstack', 'Grid']"
-ECMS-915,Story,Ready for QA (Prod),GRID,GRID,K,,3,2023-07-24T06:14:24.747-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-915,Story,Blocked,GRID,GRID,K,,3,2023-07-24T06:14:24.747-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-914,Story,Ready for QA (UAT),GRID,GRID,K,,3,2023-07-24T06:11:49.007-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
-ECMS-913,Story,Ready for QA (Prod),GRID,GRID,K,,5,2023-07-24T06:08:34.418-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-912,Story,Ready for QA (UAT),GRID,GRID,K,,5,2023-07-24T06:01:55.111-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
+ECMS-913,Story,Done,GRID,GRID,K,P,5,2023-07-24T06:08:34.418-0400,2023-09-28T09:44:25.548-0400,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
+ECMS-912,Story,Done,GRID,GRID,K,P,5,2023-07-24T06:01:55.111-0400,2023-10-03T07:15:12.337-0400,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
 ECMS-911,Story,Done,GRID,GRID,K,N,2,2023-07-24T05:35:06.255-0400,2023-09-01T11:20:22.438-0400,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-910,Bug,Done,ADI,GRID,K,M,0,2023-07-21T12:37:43.240-0400,2023-08-09T13:35:06.841-0400,Oksana Lagno,"['Karma Chameleon', 'Lucky Star', 'Macarena']",['Grid']
 ECMS-909,Task,Done,ADI,GRID,K,N,3,2023-07-21T11:19:27.363-0400,2023-08-28T14:08:32.952-0400,Eyram Tay,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!']",['Grid']
@@ -390,7 +442,7 @@ ECMS-905,Task,Done,GRID,GRID,K,N,0,2023-07-20T12:49:55.952-0400,2023-09-01T11:31
 ECMS-904,Task,Done,CAP,CAP,K,L,0,2023-07-20T11:55:54.005-0400,2023-08-02T18:15:02.192-0400,Andres Lara,"['Karma Chameleon', 'Lucky Star']","['capgemini', 'next.js_release_2023.08.03']"
 ECMS-903,Bug,Done,ADI,GRID,K,M,0,2023-07-20T11:11:34.437-0400,2023-08-16T17:46:38.168-0400,Fadila El Ghaddari,"['Karma Chameleon', 'Lucky Star', 'Macarena']","['Grid', 'next.js', 'next.js_release_2023.08.03']"
 ECMS-902,Bug,Done,ADI,GRID,K,K,0,2023-07-20T11:07:48.471-0400,2023-07-24T13:34:33.988-0400,Fadila El Ghaddari,['Karma Chameleon'],['Grid']
-ECMS-901,Bug,Done,ADI,GRID,K,O,1,2023-07-19T21:09:30.605-0400,2023-09-06T11:32:04.403-0400,Kareen Balsam,['Over the Rainbow'],['Grid']
+ECMS-901,Bug,Done,ADI,GRID,K,N,1,2023-07-19T21:09:30.605-0400,2023-09-06T11:32:04.403-0400,Kareen Balsam,['Over the Rainbow'],['Grid']
 ECMS-900,Story,To Do,GRID,GRID,K,,0,2023-07-19T16:25:07.894-0400,,Jana Flashing,[],['Grid']
 ECMS-899,Story,To Do,GRID,GRID,K,,0,2023-07-19T16:23:24.294-0400,,Jana Flashing,[],['Grid']
 ECMS-898,Story,To Do,GRID,GRID,K,,0,2023-07-19T16:20:51.060-0400,,Jana Flashing,[],['Grid']
@@ -409,7 +461,7 @@ ECMS-886,Story,Done,ADI,GRID,K,N,0,2023-07-19T09:37:14.859-0400,2023-09-01T09:56
 ECMS-885,Story,Done,ADI,GRID,K,N,0,2023-07-19T09:20:19.946-0400,2023-09-04T04:26:30.691-0400,Katie Muldoon,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-884,Story,Blocked,GRID,GRID,K,,5,2023-07-19T07:39:22.360-0400,,Tatiana Molchanova,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
 ECMS-883,Bug,Done,GRID,CAP,K,M,0,2023-07-19T05:54:58.241-0400,2023-08-16T17:46:37.234-0400,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star', 'Macarena']","['MVP_SIT', 'capgemini', 'next.js_release_2023.08.03']"
-ECMS-882,Bug,Ready for QA (Prod),GRID,GRID,K,,2,2023-07-19T05:50:34.916-0400,,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-882,Bug,Done,GRID,GRID,K,P,2,2023-07-19T05:50:34.916-0400,2023-09-28T08:22:27.263-0400,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-881,Bug,Done,GRID,CAP,K,O,3,2023-07-19T05:46:17.978-0400,2023-09-19T07:15:02.624-0400,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['MVP_SIT', 'capgemini']"
 ECMS-880,Bug,Done,GRID,CAP,K,M,0,2023-07-19T05:37:42.070-0400,2023-08-16T17:46:36.578-0400,Karine Beglaryan,"['Karma Chameleon', 'Lucky Star', 'Macarena']","['MVP_SIT', 'capgemini', 'next.js_release_2023.08.03']"
 ECMS-879,Task,Done,CAP,CAP,K,K,0,2023-07-18T16:15:33.909-0400,2023-07-20T17:42:28.248-0400,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
@@ -419,11 +471,11 @@ ECMS-876,Bug,Done,GRID,CAP,K,M,0,2023-07-18T07:59:31.889-0400,2023-08-16T17:46:3
 ECMS-875,Task,To Do,ADI,GRID,K,,0,2023-07-17T16:29:35.959-0400,,Raffi Yaboujian,[],['Grid']
 ECMS-874,Story,To Do,GRID,GRID,K,,0,2023-07-17T15:11:49.081-0400,,Jana Flashing,[],['Grid']
 ECMS-873,Story,To Do,GRID,GRID,K,,0,2023-07-17T15:11:15.075-0400,,Jana Flashing,[],['Grid']
-ECMS-872,Story,To Do,ADI,GRID,K,,2,2023-07-17T09:53:52.790-0400,,Katie Muldoon,[],['Grid']
-ECMS-871,Story,To Do,GRID,GRID,K,,2,2023-07-17T09:52:41.268-0400,,Tatiana Molchanova,['Paradise City'],['Grid']
+ECMS-872,Story,To Do,ADI,GRID,K,,5,2023-07-17T09:53:52.790-0400,,Katie Muldoon,['Q Sprint'],['Grid']
+ECMS-871,Story,Ready for CI,GRID,GRID,K,,2,2023-07-17T09:52:41.268-0400,,Tatiana Molchanova,['Paradise City'],['Grid']
 ECMS-870,Story,To Do,ADI,CAP,K,,0,2023-07-17T09:51:29.879-0400,,Katie Muldoon,[],['capgemini']
 ECMS-869,Story,To Do,ADI,CAP,K,,0,2023-07-17T09:44:45.398-0400,,Katie Muldoon,[],['capgemini']
-ECMS-868,Story,To Do,ADI,GRID,K,,2,2023-07-17T09:44:02.037-0400,,Katie Muldoon,[],['Grid']
+ECMS-868,Story,To Do,ADI,GRID,K,,5,2023-07-17T09:44:02.037-0400,,Katie Muldoon,['Q Sprint'],['Grid']
 ECMS-867,Task,In Progress,ADI,CAP,K,,0,2023-07-14T09:35:46.234-0400,,Kareen Balsam,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
 ECMS-866,Bug,Done,GRID,GRID,K,K,1,2023-07-14T07:22:22.038-0400,2023-07-17T07:46:33.857-0400,Igor Liubin,['Karma Chameleon'],['Grid']
 ECMS-865,Story,Done,GRID,GRID,K,K,3,2023-07-13T07:43:40.011-0400,2023-07-24T11:19:59.573-0400,Nikita Gladnev,['Karma Chameleon'],['Grid']
@@ -434,7 +486,7 @@ ECMS-861,Bug,Done,GRID,GRID,J,K,1,2023-07-12T11:22:33.600-0400,2023-07-14T07:17:
 ECMS-860,Story,To Do,ADI,CAP,J,,5,2023-07-12T10:21:27.645-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']","['capgemini', 'next.js']"
 ECMS-859,Story,Done,ADI,GRID,J,N,2,2023-07-12T10:17:17.237-0400,2023-09-04T10:51:15.361-0400,Katie Muldoon,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-858,Story,To Do,ADI,CAP,J,,9,2023-07-12T10:03:36.751-0400,,Katie Muldoon,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
-ECMS-857,Story,Ready for QA (UAT),ADI,UNDEFINED,J,,5,2023-07-12T09:58:42.746-0400,,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-857,Story,Done,ADI,CAP,J,P,5,2023-07-12T09:58:42.746-0400,2023-09-28T18:08:16.140-0400,Katie Muldoon,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-856,Story,Done,ADI,GRID,J,O,5,2023-07-12T09:46:12.880-0400,2023-09-19T14:39:51.987-0400,Katie Muldoon,"['Lucky Star', 'Macarena', 'Never gonna give you up!']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
 ECMS-855,Story,Done,ADI,CAP,J,L,0,2023-07-12T09:45:38.903-0400,2023-08-03T16:14:40.938-0400,Katie Muldoon,"['Karma Chameleon', 'Lucky Star']",['capgemini']
 ECMS-854,Story,Done,GRID,GRID,J,K,0,2023-07-12T09:45:10.221-0400,2023-07-20T06:17:53.104-0400,Nikita Gladnev,[],['Grid']
@@ -462,8 +514,8 @@ ECMS-833,Story,Done,GRID,GRID,J,K,1,2023-07-11T09:21:00.434-0400,2023-07-18T09:3
 ECMS-832,Story,Done,GRID,GRID,J,L,1,2023-07-11T09:17:32.711-0400,2023-07-31T07:11:33.670-0400,Igor Liubin,['Lucky Star'],['Grid']
 ECMS-831,Story,Done,GRID,GRID,J,K,1,2023-07-11T08:18:17.797-0400,2023-07-26T07:42:10.917-0400,Nikita Gladnev,['Karma Chameleon'],['Grid']
 ECMS-830,Story,Done,GRID,GRID,J,J,0,2023-07-11T08:14:00.243-0400,2023-07-11T09:10:51.342-0400,Nikita Gladnev,[],['Grid']
-ECMS-829,Story,Ready for QA,GRID,GRID,J,,5,2023-07-11T07:49:32.774-0400,,Nikita Gladnev,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
-ECMS-828,Task,Ready for QA (UAT),CAP,UNDEFINED,J,,13,2023-07-10T18:59:11.310-0400,,Andres Lara,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-829,Story,Ready for QA (Preview),GRID,GRID,J,,5,2023-07-11T07:49:32.774-0400,,Nikita Gladnev,"['Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
+ECMS-828,Task,Done,CAP,CAP,J,P,13,2023-07-10T18:59:11.310-0400,2023-09-28T18:08:13.867-0400,Andres Lara,"['Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
 ECMS-827,Task,Done,CAP,CAP,J,L,0,2023-07-10T18:57:19.749-0400,2023-08-04T12:13:16.499-0400,Andres Lara,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
 ECMS-826,Task,Done,CAP,CAP,J,K,0,2023-07-10T18:53:20.989-0400,2023-07-20T17:49:48.281-0400,Andres Lara,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
 ECMS-825,Task,Done,CAP,CAP,J,K,0,2023-07-10T18:52:31.832-0400,2023-07-20T17:50:21.885-0400,Andres Lara,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
@@ -474,7 +526,7 @@ ECMS-821,Bug,To Do,CAP,CAP,J,,0,2023-07-10T17:53:44.335-0400,,Allison Reese,[],[
 ECMS-820,Task,Done,ADI,ADI,J,P,0,2023-07-10T16:00:06.580-0400,2023-09-27T09:15:32.816-0400,Kareen Balsam,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['ADI']
 ECMS-819,Task,Done,ADI,ADI,J,O,0,2023-07-10T15:57:26.027-0400,2023-09-11T13:37:14.606-0400,Kareen Balsam,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']",['ADI']
 ECMS-818,Bug,Done,CAP,CAP,J,J,0,2023-07-10T13:42:37.753-0400,2023-07-11T12:27:27.636-0400,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
-ECMS-817,Bug,Done,ADI,GRID,J,L,2,2023-07-10T11:38:44.492-0400,2023-07-26T11:32:18.277-0400,Fadila El Ghaddari,['Lucky Star'],['Grid']
+ECMS-817,Bug,Done,ADI,GRID,J,K,2,2023-07-10T11:38:44.492-0400,2023-07-26T11:32:18.277-0400,Fadila El Ghaddari,['Lucky Star'],['Grid']
 ECMS-816,Bug,Done,GRID,GRID,J,M,8,2023-07-10T10:47:38.860-0400,2023-08-16T17:48:57.525-0400,Pavlo Totskyi,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena']",['Grid']
 ECMS-815,Story,Done,GRID,GRID,J,K,3,2023-07-10T09:07:31.426-0400,2023-07-19T09:09:41.942-0400,Nikita Gladnev,['Karma Chameleon'],['Grid']
 ECMS-814,Story,Ready for QA,GRID,GRID,J,,5,2023-07-10T08:21:43.613-0400,,Nikita Gladnev,"['Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['Grid']
@@ -523,8 +575,8 @@ ECMS-772,Story,Done,GRID,GRID,J,J,1,2023-06-29T11:04:47.181-0400,2023-07-11T08:5
 ECMS-771,Story,Done,GRID,GRID,J,J,1,2023-06-29T11:02:47.291-0400,2023-07-11T06:02:52.539-0400,Igor Liubin,['J Sprint'],['Grid']
 ECMS-770,Story,Done,GRID,GRID,J,J,1,2023-06-29T10:53:55.636-0400,2023-07-11T08:54:13.202-0400,Igor Liubin,['J Sprint'],['Grid']
 ECMS-769,Bug,Done,CAP,CAP,J,J,0,2023-06-28T13:26:49.117-0400,2023-07-07T18:55:52.712-0400,Jose Solano,['J Sprint'],"['SFCC', 'capgemini', 'next.js']"
-ECMS-768,Bug,Done,CAP,CAP,J,J,0,2023-06-28T12:24:07.325-0400,2023-07-07T18:55:33.106-0400,Jose Solano,['J Sprint'],"['SFCC', 'capgemini', 'next.js']"
-ECMS-767,Bug,Done,ADI,CAP,J,O,0,2023-06-28T12:02:03.112-0400,2023-09-15T11:39:04.552-0400,Katie Muldoon,[],"['capgemini', 'next.js']"
+ECMS-768,Bug,Done,CAP,CAP,I,J,0,2023-06-28T12:24:07.325-0400,2023-07-07T18:55:33.106-0400,Jose Solano,['J Sprint'],"['SFCC', 'capgemini', 'next.js']"
+ECMS-767,Bug,Done,ADI,CAP,I,O,0,2023-06-28T12:02:03.112-0400,2023-09-15T11:39:04.552-0400,Katie Muldoon,[],"['capgemini', 'next.js']"
 ECMS-766,Story,Blocked,GRID,GRID,I,,5,2023-06-28T08:51:58.576-0400,,Nikita Gladnev,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-765,Story,Done,GRID,GRID,I,J,1,2023-06-28T08:51:05.552-0400,2023-07-10T16:41:44.953-0400,Nikita Gladnev,['J Sprint'],"['Contentstack', 'Grid']"
 ECMS-764,Story,Done,GRID,CAP,I,J,2,2023-06-28T08:48:03.617-0400,2023-07-11T15:47:31.830-0400,Nikita Gladnev,['J Sprint'],"['capgemini', 'next.js']"
@@ -613,10 +665,10 @@ ECMS-682,Bug,Done,CAP,CAP,I,I,0,2023-06-21T16:19:20.009-0400,2023-06-22T15:07:11
 ECMS-681,Bug,Done,CAP,CAP,I,I,0,2023-06-21T13:18:07.384-0400,2023-06-21T13:43:50.758-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-680,Story,To Do,GRID,GRID,I,,0,2023-06-21T12:17:00.009-0400,,Jana Flashing,[],['Grid']
 ECMS-679,Story,Done,GRID,GRID,I,J,1,2023-06-21T10:21:21.377-0400,2023-07-06T10:39:20.701-0400,Igor Liubin,['J Sprint'],['Grid']
-ECMS-678,Story,Ready for QA (ADI),GRID,GRID,I,,2,2023-06-21T08:54:18.477-0400,,Nikita Gladnev,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-678,Story,Done,GRID,GRID,I,P,2,2023-06-21T08:54:18.477-0400,2023-10-03T19:14:34.285-0400,Nikita Gladnev,"['J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-677,Story,Done,GRID,GRID,I,J,1,2023-06-21T08:52:22.876-0400,2023-07-04T04:06:00.251-0400,Igor Liubin,['J Sprint'],['Grid']
 ECMS-676,Bug,Done,GRID,GRID,I,I,0,2023-06-21T07:04:44.332-0400,2023-06-22T09:49:21.890-0400,Pavlo Totskyi,[],['Grid']
-ECMS-675,Story,To Do,ADI,CAP,I,,0,2023-06-20T15:09:52.276-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']",['capgemini']
+ECMS-675,Story,Ready for QA (CAP),ADI,CAP,I,,0,2023-06-20T15:09:52.276-0400,,Katie Muldoon,"['Over the Rainbow', 'Paradise City']",['capgemini']
 ECMS-674,Bug,Done,CAP,CAP,I,I,0,2023-06-20T12:28:38.417-0400,2023-06-20T18:50:04.729-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-673,Story,Done,GRID,GRID,I,J,1,2023-06-20T11:20:32.865-0400,2023-07-03T07:17:00.543-0400,Igor Liubin,['J Sprint'],['Grid']
 ECMS-672,Story,Done,GRID,GRID,I,J,1,2023-06-20T11:05:49.459-0400,2023-07-06T07:48:57.328-0400,Igor Liubin,['J Sprint'],['Grid']
@@ -637,16 +689,16 @@ ECMS-658,Bug,Done,CAP,CAP,I,I,0,2023-06-14T14:44:00.967-0400,2023-06-19T13:21:01
 ECMS-657,Bug,Done,ADI,CAP,I,O,0,2023-06-14T14:10:50.651-0400,2023-09-15T11:46:28.629-0400,Kareen Balsam,[],"['capgemini', 'next.js']"
 ECMS-656,Bug,Done,ADI,CAP,I,O,0,2023-06-14T14:09:45.390-0400,2023-09-15T11:41:20.844-0400,Kareen Balsam,[],"['capgemini', 'next.js']"
 ECMS-655,Bug,Done,ADI,CAP,I,O,0,2023-06-14T14:06:32.284-0400,2023-09-15T11:41:46.131-0400,Kareen Balsam,[],"['capgemini', 'next.js']"
-ECMS-654,Story,Blocked,ADI,GRID,I,,0,2023-06-14T13:53:02.216-0400,,Kareen Balsam,[],"['Grid', 'next.js']"
-ECMS-653,Bug,Done,CAP,CAP,I,I,0,2023-06-14T12:00:09.588-0400,2023-06-16T11:11:09.359-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-652,Task,Done,CAP,CAP,I,I,0,2023-06-14T11:33:39.416-0400,2023-06-14T16:33:03.023-0400,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-654,Story,Ready for QA,ADI,GRID,I,,0,2023-06-14T13:53:02.216-0400,,Kareen Balsam,[],"['Grid', 'next.js']"
+ECMS-653,Bug,Done,CAP,CAP,H,I,0,2023-06-14T12:00:09.588-0400,2023-06-16T11:11:09.359-0400,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-652,Task,Done,CAP,CAP,H,I,0,2023-06-14T11:33:39.416-0400,2023-06-14T16:33:03.023-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-651,Bug,Done,CAP,CAP,H,L,0,2023-06-13T18:25:07.196-0400,2023-08-03T17:38:17.276-0400,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03', 'next.js_release_2023.08.17']"
 ECMS-650,Bug,Done,CAP,CAP,H,I,0,2023-06-13T18:07:47.517-0400,2023-06-21T12:19:26.159-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-649,Bug,Done,ADI,CAP,H,I,0,2023-06-13T16:32:32.627-0400,2023-06-15T17:14:37.778-0400,Abelardo Lopez,[],"['capgemini', 'next.js']"
 ECMS-648,Story,Done,ADI,GRID,H,O,5,2023-06-13T14:56:30.711-0400,2023-09-06T14:14:00.372-0400,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!']","['Grid', 'next.js']"
 ECMS-647,Story,Done,ADI,CAP,H,H,0,2023-06-13T14:43:50.699-0400,2023-06-13T15:46:59.346-0400,Oksana Lagno,['Hey Hey Rise Up'],"['capgemini', 'feature-gated']"
 ECMS-646,Story,Done,GRID,GRID,H,I,2,2023-06-13T14:08:05.757-0400,2023-06-27T16:12:31.583-0400,Jana Flashing,['If You Leave Me Now'],['Grid']
-ECMS-645,Task,Ready for QA (ADI),ADI,CAP,H,,3,2023-06-13T13:13:53.778-0400,,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.08.30']"
+ECMS-645,Task,Done,ADI,CAP,H,P,3,2023-06-13T13:13:53.778-0400,2023-09-28T11:23:39.086-0400,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.08.30']"
 ECMS-644,Task,Done,ADI,CAP,H,O,3,2023-06-13T13:03:24.206-0400,2023-09-12T15:26:06.401-0400,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'next.js']"
 ECMS-643,Task,Done,ADI,CAP,H,O,3,2023-06-13T13:00:18.970-0400,2023-09-12T15:26:16.135-0400,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'next.js']"
 ECMS-642,Task,Done,ADI,CAP,H,O,3,2023-06-13T12:52:44.493-0400,2023-09-12T15:26:25.924-0400,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'next.js']"
@@ -670,7 +722,7 @@ ECMS-625,Bug,Done,CAP,CAP,H,H,0,2023-06-07T16:53:09.770-0400,2023-06-09T17:01:19
 ECMS-624,Task,Blocked,CAP,CAP,H,,0,2023-06-07T12:39:23.698-0400,,Andres Lara,[],['capgemini']
 ECMS-623,Story,Done,ADI,CAP,H,H,0,2023-06-07T12:08:32.536-0400,2023-06-07T12:09:48.056-0400,Oksana Lagno,['Hey Hey Rise Up'],['capgemini']
 ECMS-622,Bug,Done,ADI,CAP,H,J,0,2023-06-07T12:04:25.554-0400,2023-07-06T17:09:02.286-0400,John Owens,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']",['capgemini']
-ECMS-621,Story,Done,ADI,CAP,H,J,0,2023-06-07T11:34:37.555-0400,2023-06-28T11:56:44.912-0400,John Owens,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']",['capgemini']
+ECMS-621,Story,Done,ADI,CAP,H,I,0,2023-06-07T11:34:37.555-0400,2023-06-28T11:56:44.912-0400,John Owens,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']",['capgemini']
 ECMS-620,Story,Done,GRID,GRID,H,I,0,2023-06-07T11:08:43.075-0400,2023-06-27T10:21:14.417-0400,Nikita Gladnev,[],['Grid']
 ECMS-619,Story,Done,ADI,CAP,H,M,0,2023-06-07T08:53:41.338-0400,2023-08-21T12:10:31.572-0400,John Owens,[],['capgemini']
 ECMS-618,Story,Done,GRID,GRID,H,K,2,2023-06-07T07:06:19.329-0400,2023-07-19T09:10:16.448-0400,Igor Liubin,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon']","['Contentstack', 'Grid']"
@@ -717,8 +769,8 @@ ECMS-577,Bug,Done,CAP,CAP,H,I,0,2023-05-31T14:45:46.006-0400,2023-06-15T13:10:30
 ECMS-576,Bug,Done,CAP,CAP,H,H,0,2023-05-31T14:38:11.546-0400,2023-06-06T18:00:26.400-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-575,Bug,Done,GRID,GRID,H,K,1,2023-05-31T13:43:11.084-0400,2023-07-26T11:25:26.194-0400,Jana Flashing,['Lucky Star'],"['CMS_MVP', 'Grid', 'MVP_SIT']"
 ECMS-574,Bug,Done,CAP,CAP,H,H,0,2023-05-31T13:39:25.472-0400,2023-06-06T16:34:49.538-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-573,Bug,Done,GRID,CAP,H,H,0,2023-05-31T12:05:21.110-0400,2023-05-31T17:13:17.718-0400,Sevak Santrosyan,['Hey Hey Rise Up'],"['MVP_SIT', 'capgemini']"
-ECMS-569,Bug,Done,CAP,CAP,H,H,0,2023-05-31T12:01:54.017-0400,2023-06-01T16:42:43.706-0400,Vincent Brown,['Hey Hey Rise Up'],"['capgemini', 'development-testing']"
+ECMS-573,Bug,Done,GRID,CAP,G,H,0,2023-05-31T12:05:21.110-0400,2023-05-31T17:13:17.718-0400,Sevak Santrosyan,['Hey Hey Rise Up'],"['MVP_SIT', 'capgemini']"
+ECMS-569,Bug,Done,CAP,CAP,G,H,0,2023-05-31T12:01:54.017-0400,2023-06-01T16:42:43.706-0400,Vincent Brown,['Hey Hey Rise Up'],"['capgemini', 'development-testing']"
 ECMS-568,Story,Done,GRID,GRID,G,I,3,2023-05-31T11:18:23.974-0400,2023-06-19T10:53:56.252-0400,Igor Liubin,"['Hey Hey Rise Up', 'If You Leave Me Now']",['Grid']
 ECMS-567,Bug,Done,CAP,CAP,G,H,0,2023-05-31T11:07:08.023-0400,2023-06-09T13:35:28.320-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-566,Story,Done,GRID,GRID,G,N,3,2023-05-31T11:06:54.887-0400,2023-08-24T05:45:18.419-0400,Igor Liubin,"['Macarena', 'Never gonna give you up!']",['Grid']
@@ -729,7 +781,7 @@ ECMS-560,Bug,Done,CAP,CAP,G,H,0,2023-05-30T14:55:46.094-0400,2023-06-02T15:24:31
 ECMS-559,Task,Done,CAP,CAP,G,M,0,2023-05-30T14:15:25.596-0400,2023-08-16T11:40:49.422-0400,Andres Lara,"['Lucky Star', 'Macarena']","['capgemini', 'next.js']"
 ECMS-558,Bug,Done,CAP,CAP,G,G,0,2023-05-30T11:49:15.883-0400,2023-05-30T11:54:44.501-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-557,Bug,Done,CAP,CAP,G,H,0,2023-05-30T11:39:33.180-0400,2023-06-02T15:40:01.485-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-556,Story,Ready for QA (UAT),CAP,CAP,G,,13,2023-05-30T10:42:34.238-0400,,Jose Solano,"['Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
+ECMS-556,Story,Done,CAP,CAP,G,P,13,2023-05-30T10:42:34.238-0400,2023-09-28T18:08:17.540-0400,Jose Solano,"['Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
 ECMS-555,Story,Done,GRID,GRID,G,I,2,2023-05-30T10:28:10.504-0400,2023-06-20T11:23:51.949-0400,Igor Liubin,[],['Grid']
 ECMS-554,Story,Done,GRID,GRID,G,I,5,2023-05-30T10:15:20.393-0400,2023-06-21T04:05:00.687-0400,Igor Liubin,[],['Grid']
 ECMS-553,Story,Blocked,GRID,GRID,G,,3,2023-05-30T10:04:23.272-0400,,Igor Liubin,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
@@ -811,11 +863,11 @@ ECMS-476,Task,To Do,CAP,CAP,G,,0,2023-05-17T17:57:57.460-0400,,Andres Lara,[],['
 ECMS-475,Bug,Done,CAP,CAP,G,G,0,2023-05-17T16:43:50.433-0400,2023-05-23T16:52:44.901-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-474,Task,Done,ADI,ADI,G,J,0,2023-05-17T15:37:10.347-0400,2023-07-07T05:14:59.594-0400,Oksana Lagno,"['Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']",['ADI']
 ECMS-473,Story,Done,ADI,CAP,G,H,0,2023-05-17T14:36:58.367-0400,2023-05-31T13:46:07.387-0400,Katie Muldoon,['Gangsta’s Paradise'],"['MVP_SIT', 'capgemini']"
-ECMS-472,Story,To Do,ADI,CAP,G,,0,2023-05-17T11:38:21.774-0400,,Oksana Lagno,[],['capgemini']
-ECMS-471,Story,Done,ADI,GRID,G,G,1,2023-05-17T11:36:41.265-0400,2023-05-26T13:38:08.673-0400,Oksana Lagno,['Gangsta’s Paradise'],['Grid']
+ECMS-472,Story,To Do,ADI,CAP,F,,0,2023-05-17T11:38:21.774-0400,,Oksana Lagno,[],['capgemini']
+ECMS-471,Story,Done,ADI,GRID,F,G,1,2023-05-17T11:36:41.265-0400,2023-05-26T13:38:08.673-0400,Oksana Lagno,['Gangsta’s Paradise'],['Grid']
 ECMS-470,Bug,Done,GRID,GRID,F,G,0,2023-05-17T11:23:59.069-0400,2023-05-20T07:38:09.316-0400,Yurii Yenko,[],"['Grid', 'MVP_SIT']"
 ECMS-469,Bug,Done,ADI,CAP,F,G,0,2023-05-17T10:52:43.915-0400,2023-05-26T14:08:20.774-0400,Katie Muldoon,[],"['MVP_SIT', 'capgemini']"
-ECMS-468,Bug,Done,GRID,CAP,F,G,0,2023-05-17T10:31:18.404-0400,2023-05-17T12:10:47.677-0400,Yurii Yenko,[],"['MVP_SIT', 'capgemini']"
+ECMS-468,Bug,Done,GRID,CAP,F,F,0,2023-05-17T10:31:18.404-0400,2023-05-17T12:10:47.677-0400,Yurii Yenko,[],"['MVP_SIT', 'capgemini']"
 ECMS-467,Bug,Done,GRID,CAP,F,G,0,2023-05-17T09:56:22.315-0400,2023-05-24T10:45:59.144-0400,Yurii Yenko,[],"['MVP_SIT', 'capgemini']"
 ECMS-466,Bug,Done,GRID,CAP,F,G,0,2023-05-17T05:55:42.753-0400,2023-05-23T15:05:59.869-0400,Yurii Yenko,['Gangsta’s Paradise'],"['MVP_SIT', 'capgemini']"
 ECMS-465,Bug,Done,GRID,GRID,F,G,0,2023-05-17T05:52:23.688-0400,2023-05-30T06:53:27.940-0400,Igor Liubin,[],"['Grid', 'MVP_SIT']"
@@ -843,7 +895,7 @@ ECMS-442,Bug,Done,GRID,GRID,F,G,0,2023-05-16T02:18:48.812-0400,2023-05-25T14:20:
 ECMS-441,Task,Done,CAP,CAP,F,G,0,2023-05-15T19:00:52.685-0400,2023-05-17T18:49:45.777-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-440,Task,Done,CAP,CAP,F,K,0,2023-05-15T18:59:20.272-0400,2023-07-13T12:11:02.772-0400,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.08.03']"
 ECMS-439,Bug,Done,CAP,CAP,F,G,0,2023-05-15T16:06:44.884-0400,2023-05-17T18:48:49.045-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-438,Bug,Done,CAP,CAP,F,G,0,2023-05-15T15:28:02.985-0400,2023-05-17T11:56:36.928-0400,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-438,Bug,Done,CAP,CAP,F,F,0,2023-05-15T15:28:02.985-0400,2023-05-17T11:56:36.928-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-437,Task,Done,CAP,CAP,F,G,0,2023-05-15T14:09:01.622-0400,2023-05-22T12:31:16.958-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-436,Task,Done,CAP,CAP,F,G,0,2023-05-15T14:06:59.357-0400,2023-05-26T15:52:16.606-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-435,Task,Done,CAP,CAP,F,G,0,2023-05-15T13:09:20.204-0400,2023-05-17T15:01:44.937-0400,Jose Solano,[],"['capgemini', 'next.js']"
@@ -885,15 +937,15 @@ ECMS-400,Story,To Do,ADI,CAP,F,,0,2023-05-04T11:23:06.183-0400,,John Owens,[],['
 ECMS-399,Bug,Done,CAP,CAP,F,F,0,2023-05-04T11:03:23.088-0400,2023-05-05T11:26:59.846-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-398,Story,Done,CAP,CAP,F,M,0,2023-05-03T16:04:11.915-0400,2023-08-16T17:41:01.163-0400,Ashwini Mule,[],['capgemini']
 ECMS-397,Story,Done,ADI,CAP,F,G,0,2023-05-03T15:36:23.669-0400,2023-05-31T11:07:41.925-0400,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise']",['capgemini']
-ECMS-396,Bug,Done,CAP,CAP,F,G,0,2023-05-03T13:11:15.031-0400,2023-05-17T11:56:20.574-0400,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-396,Bug,Done,CAP,CAP,F,F,0,2023-05-03T13:11:15.031-0400,2023-05-17T11:56:20.574-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-395,Story,Done,ADI,CAP,F,F,1,2023-05-03T12:52:18.019-0400,2023-05-15T13:41:57.064-0400,Katie Muldoon,['Final Countdown'],['capgemini']
-ECMS-394,Task,Done,ADI,GRID,F,G,0,2023-05-03T11:38:07.784-0400,2023-05-26T14:01:02.058-0400,Oksana Lagno,"['Final Countdown', 'Gangsta’s Paradise']",['Grid']
+ECMS-394,Task,Done,ADI,GRID,E,G,0,2023-05-03T11:38:07.784-0400,2023-05-26T14:01:02.058-0400,Oksana Lagno,"['Final Countdown', 'Gangsta’s Paradise']",['Grid']
 ECMS-393,Story,Done,ADI,CAP,E,O,5,2023-05-03T09:40:33.674-0400,2023-09-18T12:22:13.701-0400,John Owens,"['Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'feature-gated', 'sfcc']"
 ECMS-392,Story,Done,CAP,CAP,E,M,13,2023-05-03T08:30:17.020-0400,2023-08-16T17:41:00.042-0400,Ashwini Mule,[],"['MuleSoft', 'capgemini']"
 ECMS-391,Story,Done,GRID,GRID,E,N,1,2023-05-02T16:53:08.111-0400,2023-08-28T16:29:17.065-0400,Jana Flashing,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!']","['CMS_MVP', 'Grid']"
 ECMS-390,Story,Done,ADI,CAP,E,G,0,2023-05-02T16:06:29.968-0400,2023-05-26T13:59:11.311-0400,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise']","['CMS_MVP', 'capgemini']"
-ECMS-389,Task,Ready for QA (UAT),ADI,UNDEFINED,E,,3,2023-05-02T05:46:54.824-0400,,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
-ECMS-388,Story,Ready for UAT,ADI,GRID,E,,1,2023-05-01T16:33:17.225-0400,,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-389,Task,Done,ADI,CAP,E,P,3,2023-05-02T05:46:54.824-0400,2023-09-28T10:52:47.047-0400,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['next.js', 'next.js_release_2023.09.27']"
+ECMS-388,Story,Done,ADI,GRID,E,P,1,2023-05-01T16:33:17.225-0400,2023-09-28T18:19:46.131-0400,Katie Muldoon,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-387,Sub-task,Done,GRID,GRID,E,E,1,2023-05-01T14:37:08.315-0400,2023-05-01T14:41:01.523-0400,Jana Flashing,['Every Breath You Take'],"['CMS_MVP', 'Grid']"
 ECMS-386,Task,Done,GRID,CAP,E,F,1,2023-05-01T12:01:56.392-0400,2023-05-15T13:45:02.901-0400,Jana Flashing,"['Every Breath You Take', 'Final Countdown']","['CMS_MVP', 'capgemini']"
 ECMS-385,Sub-task,Done,CAP,CAP,E,N,0,2023-05-01T11:35:13.023-0400,2023-08-23T16:25:05.209-0400,Ashwini Mule,"[""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena']","['Mulesoft', 'capgemini']"
@@ -944,7 +996,7 @@ ECMS-341,Story,Done,GRID,GRID,E,O,1,2023-04-21T12:14:07.930-0400,2023-09-14T15:3
 ECMS-340,Story,Done,GRID,GRID,E,O,3,2023-04-21T12:13:32.204-0400,2023-09-14T15:38:49.498-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['Contentstack', 'Grid']"
 ECMS-339,Story,Done,GRID,GRID,E,G,3,2023-04-21T12:13:11.339-0400,2023-05-31T10:13:30.166-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise']",['Grid']
 ECMS-338,Story,Done,GRID,GRID,E,H,5,2023-04-21T12:11:59.872-0400,2023-05-31T15:24:07.483-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up']",['Grid']
-ECMS-337,Story,Ready for QA (Prod),GRID,GRID,E,,8,2023-04-21T12:10:09.448-0400,,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
+ECMS-337,Story,Done,GRID,GRID,E,P,8,2023-04-21T12:10:09.448-0400,2023-09-29T10:24:56.144-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-336,Story,Done,GRID,GRID,E,P,5,2023-04-21T12:05:23.119-0400,2023-09-21T12:07:51.648-0400,Nikita Gladnev,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid']"
 ECMS-335,Story,Done,GRID,GRID,E,G,2,2023-04-21T12:04:33.614-0400,2023-05-31T10:05:50.901-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise']",['Grid']
 ECMS-334,Story,Done,GRID,GRID,E,H,2,2023-04-21T12:02:11.008-0400,2023-05-31T15:21:39.908-0400,Nikita Gladnev,"['Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up']",['Grid']
@@ -952,14 +1004,14 @@ ECMS-333,Story,Done,GRID,GRID,E,O,1,2023-04-21T12:01:04.178-0400,2023-09-14T15:3
 ECMS-332,Story,Done,GRID,GRID,E,F,3,2023-04-21T12:00:05.672-0400,2023-05-15T11:02:53.858-0400,Nikita Gladnev,['Final Countdown'],['Grid']
 ECMS-331,Story,Done,GRID,GRID,E,E,1,2023-04-20T14:39:00.676-0400,2023-04-27T14:58:19.131-0400,Jana Flashing,['Every Breath You Take'],['Grid']
 ECMS-330,Story,Done,ADI,GRID,E,J,5,2023-04-19T15:59:10.917-0400,2023-07-11T15:40:38.836-0400,Katie Muldoon,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']","['Contentstack', 'Grid']"
-ECMS-329,Task,Done,CAP,CAP,E,G,0,2023-04-19T11:41:47.386-0400,2023-05-26T13:56:26.505-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']",['capgemini']
-ECMS-328,Story,Done,CAP,GRID,E,G,0,2023-04-19T11:39:14.313-0400,2023-05-25T12:03:56.490-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']","['CMS_MVP', 'Grid']"
-ECMS-327,Bug,Done,CAP,CAP,E,E,0,2023-04-19T11:39:05.251-0400,2023-04-26T11:32:31.495-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-326,Task,Done,CAP,GRID,E,G,0,2023-04-19T11:38:31.692-0400,2023-05-25T10:59:20.364-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']",['Grid']
-ECMS-325,Story,Done,CAP,GRID,E,G,0,2023-04-19T11:37:36.850-0400,2023-05-25T13:06:08.884-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']","['CMS_MVP', 'Grid']"
+ECMS-329,Task,Done,CAP,CAP,D,G,0,2023-04-19T11:41:47.386-0400,2023-05-26T13:56:26.505-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']",['capgemini']
+ECMS-328,Story,Done,CAP,GRID,D,G,0,2023-04-19T11:39:14.313-0400,2023-05-25T12:03:56.490-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']","['CMS_MVP', 'Grid']"
+ECMS-327,Bug,Done,CAP,CAP,D,E,0,2023-04-19T11:39:05.251-0400,2023-04-26T11:32:31.495-0400,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-326,Task,Done,CAP,GRID,D,G,0,2023-04-19T11:38:31.692-0400,2023-05-25T10:59:20.364-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']",['Grid']
+ECMS-325,Story,Done,CAP,GRID,D,G,0,2023-04-19T11:37:36.850-0400,2023-05-25T13:06:08.884-0400,Roxanne Vitacco,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise']","['CMS_MVP', 'Grid']"
 ECMS-324,Bug,Done,CAP,CAP,D,E,0,2023-04-19T11:24:57.036-0400,2023-05-03T00:26:34.634-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-323,Bug,Done,CAP,CAP,D,E,0,2023-04-19T11:14:50.202-0400,2023-05-03T00:25:03.818-0400,Jose Solano,[],"['capgemini', 'next.js']"
-ECMS-322,Story,To Do,ADI,GRID,D,,2,2023-04-18T11:30:24.615-0400,,Katie Muldoon,['Q Sprint'],['Grid']
+ECMS-322,Story,Ready for QA,ADI,GRID,D,,2,2023-04-18T11:30:24.615-0400,,Katie Muldoon,['Paradise City'],['Grid']
 ECMS-321,Story,Done,CAP,CAP,D,M,0,2023-04-18T09:26:09.726-0400,2023-08-16T17:41:00.287-0400,Ashwini Mule,[],"['MuleSoft', 'capgemini']"
 ECMS-320,Bug,Done,CAP,CAP,D,D,0,2023-04-17T18:13:14.151-0400,2023-04-18T12:18:20.754-0400,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-319,Sub-task,Done,GRID,GRID,D,D,0,2023-04-17T14:16:03.602-0400,2023-04-17T16:14:58.879-0400,Jana Flashing,"[""Don't Stop Believin"", 'Every Breath You Take']",['Grid']
@@ -971,10 +1023,10 @@ ECMS-314,Bug,Done,CAP,CAP,D,D,0,2023-04-17T12:13:19.694-0400,2023-04-18T12:20:58
 ECMS-313,Story,Done,GRID,GRID,D,H,2,2023-04-17T12:01:10.216-0400,2023-06-13T11:32:23.464-0400,Nikita Gladnev,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up']",['Grid']
 ECMS-312,Sub-task,Done,GRID,GRID,D,I,0,2023-04-17T05:50:28.023-0400,2023-06-22T16:53:30.295-0400,Yurii Yenko,['If You Leave Me Now'],['Grid']
 ECMS-311,Epic,To Do,GRID,UNDEFINED,D,,0,2023-04-14T16:54:05.602-0400,,Jana Flashing,[],[]
-ECMS-310,Story,Blocked,GRID,GRID,D,,3,2023-04-14T16:34:54.791-0400,,Jana Flashing,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up']",['Grid']
+ECMS-310,Story,Blocked,GRID,GRID,D,,3,2023-04-14T16:34:54.791-0400,,Jana Flashing,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'Ready for Grooming']",['Grid']
 ECMS-309,Story,To Do,GRID,GRID,D,,0,2023-04-14T15:31:51.092-0400,,Jana Flashing,[],['Grid']
 ECMS-308,Epic,To Do,GRID,UNDEFINED,D,,0,2023-04-14T13:24:01.883-0400,,Jana Flashing,[],[]
-ECMS-307,Story,To Do,ADI,GRID,D,,0,2023-04-14T12:37:43.243-0400,,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Grid', 'next.js']"
+ECMS-307,Story,In Progress,ADI,GRID,D,,0,2023-04-14T12:37:43.243-0400,,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['Grid', 'next.js']"
 ECMS-306,Story,To Do,ADI,GRID,D,,0,2023-04-14T12:34:20.302-0400,,Katie Muldoon,"['If You Leave Me Now', 'J Sprint', 'Karma Chameleon']","['Contentstack', 'Grid']"
 ECMS-305,Story,Done,ADI,GRID,D,I,0,2023-04-14T12:31:40.689-0400,2023-06-22T16:59:14.322-0400,Katie Muldoon,['If You Leave Me Now'],['Grid']
 ECMS-304,Story,Done,ADI,GRID,D,H,0,2023-04-13T16:16:26.574-0400,2023-06-05T15:44:12.453-0400,Katie Muldoon,[],['Grid']
@@ -1022,7 +1074,7 @@ ECMS-262,Sub-task,Done,GRID,UNDEFINED,C,C,0,2023-03-29T14:29:26.435-0400,2023-03
 ECMS-261,Sub-task,Done,GRID,UNDEFINED,C,C,0,2023-03-29T12:46:26.531-0400,2023-03-29T15:28:21.192-0400,Nikita Gladnev,['Crazy train'],[]
 ECMS-260,Story,Done,GRID,GRID,C,I,2,2023-03-29T08:28:45.891-0400,2023-06-26T11:40:48.960-0400,Nikita Gladnev,"[""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now']","['CMS_MVP', 'Grid']"
 ECMS-259,Story,Done,CAP,CAP,C,H,0,2023-03-28T16:10:33.685-0400,2023-06-06T16:24:32.693-0400,Tony M,[],['capgemini']
-ECMS-258,Task,Blocked,ADI,CAP,C,,0,2023-03-28T10:28:26.074-0400,,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']",['capgemini']
+ECMS-258,Task,Ready for UAT,ADI,CAP,C,,0,2023-03-28T10:28:26.074-0400,,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js_release_2023.10.04']"
 ECMS-257,Task,Done,ADI,CAP,C,L,0,2023-03-28T10:21:44.861-0400,2023-08-09T10:14:16.320-0400,Katie Muldoon,"['Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star']","['capgemini', 'next.js']"
 ECMS-256,Task,Done,ADI,CAP,C,O,5,2023-03-28T10:13:33.252-0400,2023-09-15T11:47:20.346-0400,Katie Muldoon,"['Macarena', 'Never gonna give you up!', 'Over the Rainbow']","['capgemini', 'next.js', 'next.js_release_2023.08.30']"
 ECMS-255,Story,Done,GRID,UNDEFINED,C,C,0,2023-03-28T09:17:21.916-0400,2023-04-04T14:00:56.562-0400,Nikita Gladnev,[],[]
@@ -1055,7 +1107,7 @@ ECMS-229,Sub-task,Done,GRID,GRID,C,C,0,2023-03-27T03:23:18.319-0400,2023-03-28T1
 ECMS-228,Story,Done,GRID,UNDEFINED,C,C,0,2023-03-24T13:20:34.914-0400,2023-04-03T12:12:22.025-0400,Jana Flashing,[],[]
 ECMS-227,Sub-task,Done,GRID,GRID,C,C,0,2023-03-23T13:43:46.123-0400,2023-03-28T19:36:51.225-0400,Mikayel Aslanyan,"['Bust a Move', 'Crazy train', ""Don't Stop Believin""]",['Grid']
 ECMS-226,Bug,Done,GRID,UNDEFINED,C,C,1,2023-03-23T07:54:37.147-0400,2023-03-27T11:34:36.249-0400,Nikita Gladnev,['Crazy train'],[]
-ECMS-225,Story,To Do,GRID,GRID,C,,3,2023-03-23T06:41:34.922-0400,,Nikita Gladnev,['Paradise City'],['Grid']
+ECMS-225,Story,Ready for CI,GRID,GRID,C,,3,2023-03-23T06:41:34.922-0400,,Nikita Gladnev,['Paradise City'],['Grid']
 ECMS-224,Story,Done,ADI,GRID,C,C,1,2023-03-22T22:57:51.029-0400,2023-04-05T10:19:55.274-0400,Katie Muldoon,['Crazy train'],"['Grid', 'design_system_updates']"
 ECMS-223,Story,Done,ADI,UNDEFINED,C,C,0,2023-03-22T22:36:52.862-0400,2023-03-30T12:45:41.218-0400,Katie Muldoon,['Crazy train'],['design_system_updates']
 ECMS-222,Story,Done,ADI,GRID,C,D,1,2023-03-22T22:28:53.697-0400,2023-04-05T15:30:54.383-0400,Katie Muldoon,"['Crazy train', ""Don't Stop Believin""]","['Grid', 'design_system_updates']"
@@ -1163,13 +1215,13 @@ ECMS-121,Story,Done,CAP,CAP,A,E,0,2023-03-06T15:16:52.193-0500,2023-05-03T09:45:
 ECMS-120,Story,Done,CAP,CAP,A,D,0,2023-03-06T15:16:21.421-0500,2023-04-14T14:12:05.903-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
 ECMS-119,Story,Done,CAP,CAP,A,E,0,2023-03-06T15:15:45.270-0500,2023-04-25T11:11:51.825-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take']","['atomic_design', 'capgemini']"
 ECMS-118,Story,Done,CAP,CAP,A,D,0,2023-03-06T15:13:50.588-0500,2023-04-18T10:07:58.130-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
-ECMS-117,Story,Done,CAP,UNDEFINED,A,C,0,2023-03-06T15:12:55.007-0500,2023-03-22T11:56:00.996-0400,Jesse Karr,[],['atomic_design']
+ECMS-117,Story,Done,CAP,UNDEFINED,A,B,0,2023-03-06T15:12:55.007-0500,2023-03-22T11:56:00.996-0400,Jesse Karr,[],['atomic_design']
 ECMS-116,Story,Done,CAP,CAP,A,C,0,2023-03-06T15:12:08.315-0500,2023-04-05T09:41:02.689-0400,Jesse Karr,['Crazy train'],"['atomic_design', 'capgemini']"
-ECMS-115,Story,To Do,CAP,CAP,A,,0,2023-03-06T15:11:29.250-0500,,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
-ECMS-114,Story,To Do,CAP,CAP,A,,0,2023-03-06T15:10:37.725-0500,,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
-ECMS-113,Story,To Do,CAP,CAP,A,,0,2023-03-06T15:09:50.813-0500,,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
+ECMS-115,Story,Done,CAP,CAP,A,P,0,2023-03-06T15:11:29.250-0500,2023-09-29T10:27:55.648-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
+ECMS-114,Story,Done,CAP,CAP,A,P,0,2023-03-06T15:10:37.725-0500,2023-09-29T10:27:47.647-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
+ECMS-113,Story,Done,CAP,CAP,A,P,0,2023-03-06T15:09:50.813-0500,2023-09-29T10:27:38.689-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin""]","['atomic_design', 'capgemini']"
 ECMS-112,Story,Done,ADI,UNDEFINED,A,B,1,2023-03-06T14:35:12.810-0500,2023-03-13T12:40:07.217-0400,Katie Muldoon,['Bust a Move'],[]
-ECMS-111,Epic,Done,CAP,UNDEFINED,A,N,0,2023-03-06T14:30:55.779-0500,2023-08-23T16:25:41.862-0400,Jesse Karr,[],['next.js']
+ECMS-111,Epic,Done,CAP,CAP,A,N,0,2023-03-06T14:30:55.779-0500,2023-08-23T16:25:41.862-0400,Jesse Karr,[],['next.js']
 ECMS-110,Story,Done,CAP,CAP,A,E,0,2023-03-06T14:27:05.210-0500,2023-04-24T14:26:13.339-0400,Jesse Karr,"['Bust a Move', 'Crazy train', ""Don't Stop Believin"", 'Every Breath You Take']","['atomic_design', 'capgemini']"
 ECMS-109,Story,Done,CAP,UNDEFINED,A,C,0,2023-03-06T14:26:32.871-0500,2023-04-05T11:09:56.532-0400,Jesse Karr,"['Bust a Move', 'Crazy train']",['atomic_design']
 ECMS-108,Story,Done,CAP,UNDEFINED,A,D,0,2023-03-06T14:25:54.186-0500,2023-04-12T12:41:29.182-0400,Jesse Karr,"['Bust a Move', 'Crazy train', ""Don't Stop Believin""]",['atomic_design']
@@ -1178,17 +1230,17 @@ ECMS-106,Story,Done,CAP,UNDEFINED,A,C,0,2023-03-06T14:23:53.375-0500,2023-04-05T
 ECMS-105,Story,Done,CAP,UNDEFINED,A,D,0,2023-03-06T14:23:10.404-0500,2023-04-12T12:41:03.631-0400,Jesse Karr,"['Bust a Move', 'Crazy train', ""Don't Stop Believin""]",['atomic_design']
 ECMS-104,Story,Done,CAP,UNDEFINED,A,C,0,2023-03-06T14:22:23.564-0500,2023-04-05T11:09:09.073-0400,Jesse Karr,"['Bust a Move', 'Crazy train']",['atomic_design']
 ECMS-103,Story,Done,CAP,UNDEFINED,A,F,0,2023-03-06T14:20:09.625-0500,2023-05-03T12:57:32.539-0400,Jesse Karr,"['Bust a Move', 'Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['atomic_design']
-ECMS-102,Story,Done,CAP,UNDEFINED,A,G,0,2023-03-06T14:15:44.397-0500,2023-05-24T16:33:29.197-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Final Countdown', 'Gangsta’s Paradise']",['next.js']
-ECMS-101,Story,Done,CAP,UNDEFINED,A,G,0,2023-03-06T14:15:07.696-0500,2023-05-17T18:05:03.658-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
-ECMS-100,Story,Done,CAP,UNDEFINED,A,F,0,2023-03-06T14:14:17.972-0500,2023-05-15T20:26:52.975-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
-ECMS-99,Story,Done,CAP,UNDEFINED,A,G,0,2023-03-06T14:12:59.730-0500,2023-05-17T18:01:26.091-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
-ECMS-98,Story,Done,CAP,UNDEFINED,A,G,0,2023-03-06T14:12:23.123-0500,2023-05-17T17:41:06.523-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
-ECMS-97,Story,Done,CAP,UNDEFINED,A,G,0,2023-03-06T14:11:42.690-0500,2023-05-17T17:25:56.678-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
-ECMS-96,Story,Done,CAP,UNDEFINED,A,F,0,2023-03-06T14:10:50.056-0500,2023-05-04T16:02:42.059-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-102,Story,Done,CAP,CAP,A,G,0,2023-03-06T14:15:44.397-0500,2023-05-24T16:33:29.197-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Final Countdown', 'Gangsta’s Paradise']",['next.js']
+ECMS-101,Story,Done,CAP,CAP,A,G,0,2023-03-06T14:15:07.696-0500,2023-05-17T18:05:03.658-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-100,Story,Done,CAP,CAP,A,F,0,2023-03-06T14:14:17.972-0500,2023-05-15T20:26:52.975-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-99,Story,Done,CAP,CAP,A,G,0,2023-03-06T14:12:59.730-0500,2023-05-17T18:01:26.091-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-98,Story,Done,CAP,CAP,A,G,0,2023-03-06T14:12:23.123-0500,2023-05-17T17:41:06.523-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-97,Story,Done,CAP,CAP,A,G,0,2023-03-06T14:11:42.690-0500,2023-05-17T17:25:56.678-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
+ECMS-96,Story,Done,CAP,CAP,A,F,0,2023-03-06T14:10:50.056-0500,2023-05-04T16:02:42.059-0400,Jesse Karr,"['Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown']",['next.js']
 ECMS-95,Story,Done,GRID,UNDEFINED,A,B,0,2023-03-06T12:57:17.840-0500,2023-03-20T12:20:07.163-0400,Nikita Gladnev,[],[]
 ECMS-93,Story,Done,GRID,UNDEFINED,A,C,1,2023-03-06T06:59:15.281-0500,2023-03-28T11:24:45.910-0400,Nikita Gladnev,"['Bust a Move', 'Crazy train']",[]
 ECMS-92,Story,To Do,GRID,GRID,A,,1,2023-03-06T06:57:48.239-0500,,Nikita Gladnev,[],['Grid']
-ECMS-91,Story,Blocked,ADI,UNDEFINED,A,,9,2023-03-03T14:11:22.446-0500,,Katie Muldoon,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['CMS_MVP', 'next.js']"
+ECMS-91,Story,Blocked,ADI,CAP,A,,9,2023-03-03T14:11:22.446-0500,,Katie Muldoon,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint', 'Karma Chameleon', 'Lucky Star', 'Macarena', 'Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['CMS_MVP', 'next.js']"
 ECMS-90,Story,Done,ADI,UNDEFINED,A,J,0,2023-03-03T14:03:20.458-0500,2023-07-11T15:22:50.983-0400,Katie Muldoon,"['Bust a Move', 'Crazy train', ""Don't Stop Believin"", 'Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'If You Leave Me Now', 'J Sprint']",['CMS_MVP']
 ECMS-89,Story,Done,GRID,UNDEFINED,A,C,1,2023-03-02T08:32:03.250-0500,2023-03-23T11:51:01.262-0400,Nikita Gladnev,"['Bust a Move', 'Crazy train']",[]
 ECMS-88,Story,Done,GRID,UNDEFINED,A,C,1,2023-03-02T08:31:38.424-0500,2023-03-23T11:51:09.304-0400,Nikita Gladnev,"['Bust a Move', 'Crazy train']",[]

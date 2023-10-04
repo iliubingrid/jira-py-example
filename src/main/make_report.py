@@ -1,9 +1,14 @@
-from src.internal.count_helper import count_say_do, count_velocity, count_bugs_by_adi, count_accumulated_backlog, \
-    count_counter_parts, count_opened_bugs, count_defects_ratio
+from src.internal.count_helper import (count_accumulated_backlog,
+                                       count_bugs_by_adi, count_counter_parts,
+                                       count_defects_ratio, count_opened_bugs,
+                                       count_say_do, count_velocity)
 from src.internal.csv_helper import read_from_csv_file
 from src.internal.enums import TeamEnum
-from src.internal.plot_helper import bugs_by_adi_to_html, velocity_to_html, say_do_to_html, accumulated_backlog_to_html, \
-    counter_parts_to_html, opened_bugs_to_html, bugs_ratio_to_html
+from src.internal.plot_helper import (accumulated_backlog_to_html,
+                                      bugs_by_adi_to_html, bugs_ratio_to_html,
+                                      counter_parts_to_html,
+                                      opened_bugs_to_html, say_do_to_html,
+                                      velocity_to_html)
 
 lst = read_from_csv_file("tmp/list.csv")
 
@@ -40,8 +45,6 @@ html_string = '''
         <style>body{ margin:0 100; background:white; }</style>
     </head>
     <body>
-        <h1>Jira Issue Statistics</h1>
-        
         <table>
             <tr>
                 <td>
@@ -51,7 +54,7 @@ html_string = '''
                     ''' + velocity_plot + '''
                 </td>
             </tr>
-            
+
             <tr>
                 <td>
                     ''' + accumulated_backlog_plot + '''
@@ -60,7 +63,7 @@ html_string = '''
                     ''' + opened_bugs_plot + '''
                 </td>
             </tr>
-            
+
             <tr>
                 <td>
                     ''' + bugs_by_adi_plot + '''
@@ -69,16 +72,8 @@ html_string = '''
                     ''' + defects_ratio_ratio + '''
                 </td>
             </tr>
-            
-            <tr>
-                <td>
-                    ''' + counter_parts_plot + '''
-                </td>
-                <td>
-                </td>
-            </tr>
         </table>
-        
+
     </body>
 </html>'''
 
