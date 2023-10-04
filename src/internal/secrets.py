@@ -1,2 +1,2 @@
-JIRA_EMAIL = 'iliubin@griddynamics.com'
-JIRA_TOKEN = 'ATATT3xFfGF0VvJmWr6M6I1dXMrVEYqTOl0gGafQsyQ4BZByoUAxt49twOzEKnR0Ve0dWyq4r8nSfFRjRxhGmlB1mUvghqWiMZCkmiWeUYkBWc0VxnWZU10jhbpVVyomToWsc2ieHkc_JR_UtZNbkIvPu5Xl2vZ5uFa7jt8pXRjGjdQpms6YY9Q=9E8941DA'
+JIRA_EMAIL = 'YOUR_EMAIL'
+JIRA_TOKEN = 'Generate your token https://community.atlassian.com/t5/App-Central/Creating-Token-in-your-Atlassian-Account-for-Calling-API-s/ba-p/2090359'
