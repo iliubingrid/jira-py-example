@@ -1,40 +1,42 @@
 issue_id,issue_type,status,reporter_team,team,first_sprint,last_sprint,story_points,created_at,resolved_at,reporter,sprints,labels
-ECMS-1440,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-12T16:10:38.464-0400,,Jose Solano,[],"['accessibility', 'next.js']"
+ECMS-1442,Epic,To Do,ADI,UNDEFINED,Q,,0,2023-10-13T09:52:33.871-0400,,Katie Muldoon,[],[]
+ECMS-1441,Bug,To Do,ADI,CAP,Q,,0,2023-10-13T09:23:54.837-0400,,Katie Muldoon,[],"['capgemini', 'unhealthy_webhooks']"
+ECMS-1440,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-12T16:10:38.464-0400,,Jose Solano,[],"['accessibility', 'capgemini', 'next.js']"
 ECMS-1439,Task,To Do,ADI,UNDEFINED,Q,,0,2023-10-12T15:46:59.072-0400,,Eyram Tay,[],[]
 ECMS-1438,Bug,Done,ADI,UNDEFINED,Q,Q,0,2023-10-12T14:43:48.710-0400,2023-10-12T14:51:38.239-0400,Katie Muldoon,"['Que Sera, Sera']",[]
 ECMS-1437,Task,To Do,ADI,UNDEFINED,Q,,0,2023-10-12T14:27:02.115-0400,,Eyram Tay,[],[]
 ECMS-1436,Story,To Do,GRID,UNDEFINED,Q,,0,2023-10-12T14:19:29.350-0400,,Jana Flashing,[],[]
-ECMS-1435,Bug,Done,ADI,UNDEFINED,Q,Q,0,2023-10-12T14:12:29.107-0400,2023-10-12T14:13:38.296-0400,Chris Davis,[],['sfcc']
-ECMS-1434,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-12T14:11:42.445-0400,,Chris Davis,[],['sfcc']
+ECMS-1435,Bug,Done,ADI,CAP,Q,Q,0,2023-10-12T14:12:29.107-0400,2023-10-12T14:13:38.296-0400,Chris Davis,[],"['capgemini', 'sfcc']"
+ECMS-1434,Bug,To Do,ADI,CAP,Q,,0,2023-10-12T14:11:42.445-0400,,Chris Davis,[],"['capgemini', 'sfcc']"
 ECMS-1433,Story,To Do,GRID,UNDEFINED,Q,,0,2023-10-12T13:53:46.935-0400,,Jana Flashing,[],[]
 ECMS-1432,Bug,To Do,CAP,UNDEFINED,Q,,0,2023-10-12T12:54:19.547-0400,,Jose Solano,[],[]
-ECMS-1431,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-12T12:30:41.301-0400,,Jose Solano,[],"['next.js', 'next.js_release_2023.10.18']"
+ECMS-1431,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-12T12:30:41.301-0400,,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.10.18']"
 ECMS-1430,Story,To Do,GRID,GRID,Q,,2,2023-10-12T10:54:59.977-0400,,Igor Liubin,"['Que Sera, Sera']",['Grid']
 ECMS-1429,Story,To Do,GRID,GRID,Q,,2,2023-10-12T10:38:07.535-0400,,Igor Liubin,"['Que Sera, Sera']",['Grid']
-ECMS-1428,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-12T09:50:08.822-0400,,Katie Muldoon,[],['unhealthy_webhooks']
-ECMS-1427,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-12T01:27:38.579-0400,,Jose Solano,[],"['mobile', 'next.js']"
-ECMS-1426,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-11T19:10:00.740-0400,,Jose Solano,[],['next.js']
-ECMS-1425,Bug,In Progress,ADI,UNDEFINED,Q,,0,2023-10-11T13:01:45.462-0400,,Katie Muldoon,[],['unhealthy_webhooks']
-ECMS-1424,Bug,Ready for QA (ADI),CAP,UNDEFINED,Q,,0,2023-10-11T11:46:47.425-0400,,Jose Solano,"['Que Sera, Sera']","['Mulesoft', 'next.js_release_2023.10.12']"
-ECMS-1423,Bug,To Do,CAP,CAP,Q,,0,2023-10-10T14:42:56.615-0400,,Jose Solano,[],"['Safari', 'next.js']"
-ECMS-1422,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-10T14:16:23.669-0400,,Jose Solano,[],"['mobile', 'next.js', 'next.js_release_2023.10.12']"
+ECMS-1428,Bug,To Do,ADI,CAP,Q,,0,2023-10-12T09:50:08.822-0400,,Katie Muldoon,[],"['capgemini', 'unhealthy_webhooks']"
+ECMS-1427,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-12T01:27:38.579-0400,,Jose Solano,[],"['capgemini', 'mobile', 'next.js']"
+ECMS-1426,Bug,Ready for QA (CAP),CAP,CAP,Q,,0,2023-10-11T19:10:00.740-0400,,Jose Solano,[],"['capgemini', 'next.js']"
+ECMS-1425,Bug,In Progress,ADI,CAP,Q,,0,2023-10-11T13:01:45.462-0400,,Katie Muldoon,[],"['capgemini', 'unhealthy_webhooks']"
+ECMS-1424,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-11T11:46:47.425-0400,,Jose Solano,"['Que Sera, Sera']","['Mulesoft', 'capgemini', 'next.js_release_2023.10.12']"
+ECMS-1423,Bug,To Do,CAP,CAP,Q,,0,2023-10-10T14:42:56.615-0400,,Jose Solano,[],"['Safari', 'capgemini', 'next.js']"
+ECMS-1422,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-10T14:16:23.669-0400,,Jose Solano,[],"['capgemini', 'mobile', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1421,Bug,Code Review,ADI,UNDEFINED,Q,,0,2023-10-10T09:57:19.472-0400,,Kareen Balsam,[],[]
 ECMS-1420,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-10T09:50:07.666-0400,,Kareen Balsam,[],[]
 ECMS-1419,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-09T22:46:53.646-0400,,Kareen Balsam,[],[]
-ECMS-1418,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-09T18:53:14.170-0400,,Jose Solano,[],"['accessibility', 'next.js', 'next.js_release_2023.10.12']"
-ECMS-1417,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-09T18:40:28.262-0400,,Jose Solano,[],"['accessibility', 'next.js', 'next.js_release_2023.10.18']"
-ECMS-1416,Bug,In Progress,CAP,CAP,Q,,0,2023-10-09T18:33:42.777-0400,,Jose Solano,[],"['accessibility', 'next.js']"
+ECMS-1418,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-09T18:53:14.170-0400,,Jose Solano,[],"['accessibility', 'capgemini', 'next.js', 'next.js_release_2023.10.12']"
+ECMS-1417,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-09T18:40:28.262-0400,,Jose Solano,[],"['accessibility', 'capgemini', 'next.js', 'next.js_release_2023.10.18']"
+ECMS-1416,Bug,In Progress,CAP,CAP,Q,,0,2023-10-09T18:33:42.777-0400,,Jose Solano,[],"['accessibility', 'capgemini', 'next.js']"
 ECMS-1415,Story,Ready for QA,GRID,UNDEFINED,Q,,2,2023-10-09T16:31:34.029-0400,,Jana Flashing,"['Que Sera, Sera']",[]
 ECMS-1414,Task,To Do,GRID,UNDEFINED,Q,,0,2023-10-09T15:25:06.684-0400,,Jana Flashing,[],[]
 ECMS-1413,Task,Ready for QA (Preview),ADI,UNDEFINED,Q,,0,2023-10-06T16:31:55.893-0400,,Kareen Balsam,[],[]
 ECMS-1412,Task,To Do,ADI,UNDEFINED,Q,,0,2023-10-06T14:29:38.455-0400,,Kareen Balsam,[],[]
-ECMS-1411,Bug,Ready for QA (ADI),ADI,CAP,Q,,0,2023-10-06T14:19:49.726-0400,,Kareen Balsam,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
-ECMS-1410,Bug,Ready for Prod,ADI,CAP,Q,,0,2023-10-06T11:33:12.198-0400,,Kareen Balsam,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
+ECMS-1411,Bug,Ready for QA (ADI),ADI,CAP,Q,,0,2023-10-06T14:19:49.726-0400,,Kareen Balsam,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
+ECMS-1410,Bug,Ready for Prod,ADI,CAP,Q,,0,2023-10-06T11:33:12.198-0400,,Kareen Balsam,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1409,Bug,Done,UNDEFINED,UNDEFINED,Q,Q,0,2023-10-06T11:05:49.312-0400,2023-10-09T08:08:21.050-0400,Lena Damber,"['Que Sera, Sera']",[]
 ECMS-1407,Task,To Do,ADI,UNDEFINED,Q,,5,2023-10-06T10:52:48.400-0400,,Eyram Tay,[],[]
 ECMS-1406,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T22:28:40.710-0400,,Kareen Balsam,[],[]
-ECMS-1405,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-05T17:57:13.028-0400,,Jose Solano,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
-ECMS-1404,Bug,Blocked,CAP,CAP,Q,,0,2023-10-05T17:24:53.819-0400,,Jose Solano,[],['next.js']
+ECMS-1405,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-05T17:57:13.028-0400,,Jose Solano,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
+ECMS-1404,Bug,Blocked,CAP,CAP,Q,,0,2023-10-05T17:24:53.819-0400,,Jose Solano,[],"['capgemini', 'next.js']"
 ECMS-1403,Story,Ready for QA,GRID,UNDEFINED,Q,,2,2023-10-05T15:41:50.378-0400,,Jana Flashing,"['Que Sera, Sera']",[]
 ECMS-1402,Story,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T15:36:12.682-0400,,Katie Muldoon,['Ready for Grooming'],[]
 ECMS-1401,Story,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T15:35:24.245-0400,,Katie Muldoon,['Ready for Grooming'],[]
@@ -43,7 +45,7 @@ ECMS-1399,Task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T13:48:06.483-0400,,Kareen Bal
 ECMS-1398,Story,To Do,GRID,GRID,Q,,3,2023-10-05T13:27:13.290-0400,,Jana Flashing,"['Every Breath You Take', 'Final Countdown', 'Gangsta’s Paradise', 'Hey Hey Rise Up', 'Ready for Grooming']",['Grid']
 ECMS-1397,Task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T13:23:11.348-0400,,Kareen Balsam,[],[]
 ECMS-1396,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T12:22:19.776-0400,,Katie Muldoon,['Ready for Grooming'],[]
-ECMS-1395,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-05T11:34:56.171-0400,,Jose Solano,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
+ECMS-1395,Bug,Ready for QA (ADI),CAP,CAP,Q,,0,2023-10-05T11:34:56.171-0400,,Jose Solano,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1394,Bug,Blocked,ADI,UNDEFINED,Q,,0,2023-10-05T11:13:45.606-0400,,Raffi Yaboujian,"['Que Sera, Sera']",[]
 ECMS-1393,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:56:15.291-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
 ECMS-1392,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:56:14.620-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
@@ -56,15 +58,15 @@ ECMS-1386,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:56:10.538-0400,,Oksana
 ECMS-1385,Story,To Do,ADI,UNDEFINED,Q,,8,2023-10-05T10:56:09.865-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
 ECMS-1384,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:53:26.416-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
 ECMS-1383,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:53:22.427-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
-ECMS-1382,Sub-task,To Do,ADI,UNDEFINED,Q,,0,2023-10-05T10:53:18.921-0400,,Oksana Lagno,"['Que Sera, Sera']",['next.js_release_2023.10.12']
+ECMS-1382,Sub-task,To Do,ADI,CAP,Q,,0,2023-10-05T10:53:18.921-0400,,Oksana Lagno,"['Que Sera, Sera']","['capgemini', 'next.js_release_2023.10.12']"
 ECMS-1381,Sub-task,In Progress,ADI,UNDEFINED,Q,,0,2023-10-05T10:53:08.488-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
-ECMS-1380,Sub-task,Code Review,ADI,UNDEFINED,Q,,0,2023-10-05T10:53:05.347-0400,,Oksana Lagno,"['Que Sera, Sera']",['next.js_release_2023.10.12']
+ECMS-1380,Sub-task,Code Review,ADI,CAP,Q,,0,2023-10-05T10:53:05.347-0400,,Oksana Lagno,"['Que Sera, Sera']","['capgemini', 'next.js_release_2023.10.12']"
 ECMS-1379,Sub-task,In Progress,ADI,UNDEFINED,Q,,0,2023-10-05T10:52:59.397-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
-ECMS-1378,Sub-task,Done,ADI,UNDEFINED,Q,Q,0,2023-10-05T10:52:55.620-0400,2023-10-12T15:33:13.372-0400,Oksana Lagno,"['Que Sera, Sera']",['next.js_release_2023.10.12']
-ECMS-1377,Bug,Ready for QA (ADI),ADI,CAP,Q,,0,2023-10-05T09:37:32.209-0400,,Katie Muldoon,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
+ECMS-1378,Sub-task,Done,ADI,CAP,Q,Q,0,2023-10-05T10:52:55.620-0400,2023-10-12T15:33:13.372-0400,Oksana Lagno,"['Que Sera, Sera']","['capgemini', 'next.js_release_2023.10.12']"
+ECMS-1377,Bug,Ready for QA (ADI),ADI,CAP,Q,,0,2023-10-05T09:37:32.209-0400,,Katie Muldoon,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1376,Bug,Ready for CI,GRID,UNDEFINED,Q,,0,2023-10-05T09:07:57.424-0400,,Pavlo Totskyi,"['Que Sera, Sera']",[]
 ECMS-1375,Bug,To Do,GRID,UNDEFINED,Q,,0,2023-10-05T08:19:11.488-0400,,Pavlo Totskyi,"['Que Sera, Sera']",[]
-ECMS-1374,Story,Blocked,ADI,CAP,Q,,0,2023-10-04T19:23:48.571-0400,,Oksana Lagno,"['Que Sera, Sera']",['next.js']
+ECMS-1374,Story,Blocked,ADI,CAP,Q,,0,2023-10-04T19:23:48.571-0400,,Oksana Lagno,"['Que Sera, Sera']","['capgemini', 'next.js']"
 ECMS-1373,Story,Code Review,ADI,UNDEFINED,Q,,0,2023-10-04T17:02:57.914-0400,,Oksana Lagno,[],[]
 ECMS-1372,Sub-task,Ready for QA (ADI),ADI,UNDEFINED,Q,,0,2023-10-04T15:18:17.505-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
 ECMS-1371,Story,To Do,ADI,UNDEFINED,Q,,8,2023-10-04T15:17:21.050-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
@@ -73,15 +75,15 @@ ECMS-1369,Bug,To Do,ADI,UNDEFINED,Q,,0,2023-10-04T14:44:06.029-0400,,Kareen Bals
 ECMS-1368,Bug,Done,ADI,UNDEFINED,Q,Q,0,2023-10-04T14:37:33.617-0400,2023-10-04T17:04:55.157-0400,Kareen Balsam,[],[]
 ECMS-1367,Sub-task,To Do,ADI,UNDEFINED,P,,0,2023-10-04T11:54:50.668-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']",[]
 ECMS-1366,Sub-task,To Do,ADI,UNDEFINED,P,,0,2023-10-04T11:54:31.581-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']",[]
-ECMS-1365,Story,Code Review,ADI,UNDEFINED,P,,0,2023-10-04T11:29:01.032-0400,,Oksana Lagno,[],['next.js_release_2023.10.12']
+ECMS-1365,Story,Code Review,ADI,CAP,P,,0,2023-10-04T11:29:01.032-0400,,Oksana Lagno,[],"['capgemini', 'next.js_release_2023.10.12']"
 ECMS-1364,Story,In Progress,ADI,UNDEFINED,P,,0,2023-10-04T11:28:51.365-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
-ECMS-1363,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-10-04T11:15:12.626-0400,,Jose Solano,"['Que Sera, Sera']","['Algolia', 'next.js', 'next.js_release_2023.10.12']"
+ECMS-1363,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-10-04T11:15:12.626-0400,,Jose Solano,"['Que Sera, Sera']","['Algolia', 'capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1362,Story,To Do,GRID,GRID,P,,2,2023-10-04T11:03:08.969-0400,,Igor Liubin,[],['Grid']
-ECMS-1361,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-10-04T11:01:03.657-0400,,Jose Solano,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
+ECMS-1361,Bug,Ready for QA (ADI),CAP,CAP,P,,0,2023-10-04T11:01:03.657-0400,,Jose Solano,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1360,Story,To Do,GRID,GRID,P,,2,2023-10-04T11:00:34.541-0400,,Igor Liubin,[],['Grid']
 ECMS-1359,Story,Done,GRID,GRID,P,Q,1,2023-10-04T10:54:21.027-0400,2023-10-12T07:20:43.330-0400,Igor Liubin,"['Que Sera, Sera']",['Grid']
 ECMS-1358,Story,Done,GRID,GRID,P,Q,1,2023-10-04T10:33:40.452-0400,2023-10-12T08:08:19.206-0400,Igor Liubin,"['Que Sera, Sera']",['Grid']
-ECMS-1356,Bug,Done,ADI,CAP,P,Q,3,2023-10-03T17:53:31.400-0400,2023-10-05T09:47:45.978-0400,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']",['next.js']
+ECMS-1356,Bug,Done,ADI,CAP,P,Q,3,2023-10-03T17:53:31.400-0400,2023-10-05T09:47:45.978-0400,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']","['capgemini', 'next.js']"
 ECMS-1355,Story,Ready for Prod,ADI,UNDEFINED,P,,0,2023-10-03T16:03:58.062-0400,,Katie Muldoon,"['Que Sera, Sera']",[]
 ECMS-1354,Epic,To Do,ADI,UNDEFINED,P,,0,2023-10-03T15:33:26.407-0400,,Oksana Lagno,[],[]
 ECMS-1353,Bug,Code Review,ADI,UNDEFINED,P,,0,2023-10-03T14:04:46.182-0400,,Oksana Lagno,"['Que Sera, Sera']",[]
@@ -99,7 +101,7 @@ ECMS-1342,Task,Done,ADI,UNDEFINED,P,Q,0,2023-10-03T13:24:21.175-0400,2023-10-04T
 ECMS-1341,Epic,Done,ADI,UNDEFINED,P,Q,8,2023-10-03T13:23:45.464-0400,2023-10-04T17:28:04.116-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1340,Bug,Ready for UAT,CAP,CAP,P,,0,2023-10-03T12:58:08.338-0400,,Jose Solano,"['Paradise City', 'Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1339,Story,To Do,ADI,UNDEFINED,P,,0,2023-10-03T12:20:31.784-0400,,Katie Muldoon,[],[]
-ECMS-1338,Story,In Progress,GRID,UNDEFINED,P,,3,2023-10-03T07:53:01.327-0400,,Nikita Gladnev,"['Que Sera, Sera']",['qa-automation']
+ECMS-1338,Story,In Progress,GRID,GRID,P,,3,2023-10-03T07:53:01.327-0400,,Nikita Gladnev,"['Que Sera, Sera']","['Grid', 'qa-automation']"
 ECMS-1337,Story,To Do,GRID,UNDEFINED,P,,3,2023-10-03T04:52:57.174-0400,,Nikita Gladnev,[],[]
 ECMS-1336,Bug,Blocked,ADI,UNDEFINED,P,,0,2023-10-02T15:39:47.133-0400,,Raffi Yaboujian,"['Que Sera, Sera']",[]
 ECMS-1335,Bug,To Do,ADI,UNDEFINED,P,,0,2023-10-02T15:35:40.578-0400,,Kareen Balsam,[],[]
@@ -108,7 +110,7 @@ ECMS-1333,Story,Ready for QA (ADI),ADI,CAP,P,,0,2023-10-02T12:47:31.837-0400,,Ka
 ECMS-1332,Story,In Progress,CAP,UNDEFINED,P,,0,2023-10-02T11:19:53.412-0400,,Ankit Kumar,[],[]
 ECMS-1331,Bug,Ready for QA (ADI),ADI,UNDEFINED,P,,0,2023-10-02T11:13:23.506-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']",[]
 ECMS-1330,Epic,To Do,ADI,UNDEFINED,P,,0,2023-10-02T09:58:07.413-0400,,Katie Muldoon,[],[]
-ECMS-1329,Bug,Ready for QA (Prod),ADI,UNDEFINED,P,,0,2023-10-02T09:36:28.752-0400,,Katie Muldoon,"['Paradise City', 'Que Sera, Sera']",['sfcc']
+ECMS-1329,Bug,Ready for QA (Prod),ADI,CAP,P,,0,2023-10-02T09:36:28.752-0400,,Katie Muldoon,"['Paradise City', 'Que Sera, Sera']","['capgemini', 'sfcc']"
 ECMS-1328,Task,Done,GRID,UNDEFINED,P,P,1,2023-10-02T08:31:56.456-0400,2023-10-02T08:49:12.755-0400,Sevak Santrosyan,['Paradise City'],[]
 ECMS-1327,Bug,Code Review,ADI,UNDEFINED,P,,0,2023-09-30T19:05:32.627-0400,,Katie Muldoon,"['Paradise City', 'Que Sera, Sera']",[]
 ECMS-1326,Bug,Done,ADI,UNDEFINED,P,P,1,2023-09-30T18:40:37.292-0400,2023-09-30T18:57:23.887-0400,Oksana Lagno,['Paradise City'],[]
@@ -116,7 +118,7 @@ ECMS-1325,Task,To Do,ADI,UNDEFINED,P,,0,2023-09-30T09:03:20.821-0400,,Kareen Bal
 ECMS-1324,Bug,Done,CAP,CAP,P,Q,3,2023-09-29T11:58:14.496-0400,2023-10-04T17:22:33.313-0400,Jose Solano,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
 ECMS-1323,Bug,Done,CAP,CAP,P,Q,0,2023-09-29T11:54:26.245-0400,2023-10-06T16:08:53.814-0400,Jose Solano,[],"['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1322,Bug,Ready for QA (Prod),ADI,CAP,P,,0,2023-09-29T10:52:00.260-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']","['capgemini', 'next.js_release_2023.10.04']"
-ECMS-1321,Bug,Ready for QA (ADI),ADI,UNDEFINED,P,,0,2023-09-29T10:35:53.816-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']",['next.js_release_2023.10.12']
+ECMS-1321,Bug,Ready for QA (ADI),ADI,CAP,P,,0,2023-09-29T10:35:53.816-0400,,Oksana Lagno,"['Paradise City', 'Que Sera, Sera']","['capgemini', 'next.js_release_2023.10.12']"
 ECMS-1319,Story,Ready for QA (ADI),ADI,CAP,P,,0,2023-09-29T10:16:18.094-0400,,Katie Muldoon,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1318,Bug,Done,ADI,UNDEFINED,P,P,5,2023-09-29T09:39:10.801-0400,2023-10-02T13:23:37.196-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1317,Story,To Do,GRID,UNDEFINED,P,,0,2023-09-29T08:34:12.474-0400,,Nikita Gladnev,[],[]
@@ -132,7 +134,7 @@ ECMS-1308,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T14:44:41.966-0400,,Katie Muld
 ECMS-1307,Epic,To Do,ADI,UNDEFINED,P,,0,2023-09-28T12:23:57.043-0400,,Katie Muldoon,[],[]
 ECMS-1306,Bug,Done,ADI,UNDEFINED,P,P,3,2023-09-27T17:19:30.112-0400,2023-09-27T17:22:45.466-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1305,Bug,Done,CAP,CAP,P,Q,3,2023-09-27T13:37:42.171-0400,2023-10-04T17:22:31.525-0400,Jose Solano,['Paradise City'],"['SFCC', 'capgemini', 'next.js_release_2023.10.04']"
-ECMS-1304,Task,Ready for QA (ADI),ADI,CAP,P,,0,2023-09-27T12:40:44.618-0400,,Kareen Balsam,"['Que Sera, Sera']","['next.js', 'next.js_release_2023.10.12']"
+ECMS-1304,Task,Ready for QA (ADI),ADI,CAP,P,,0,2023-09-27T12:40:44.618-0400,,Kareen Balsam,"['Que Sera, Sera']","['capgemini', 'next.js', 'next.js_release_2023.10.12']"
 ECMS-1303,Bug,Done,ADI,CAP,P,Q,5,2023-09-27T11:23:31.204-0400,2023-10-04T17:22:30.803-0400,Oksana Lagno,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
 ECMS-1302,Bug,Done,CAP,CAP,P,Q,3,2023-09-27T10:19:43.858-0400,2023-10-04T14:56:08.441-0400,Kailex Patel,['Paradise City'],"['capgemini', 'sfcc']"
 ECMS-1301,Task,Ready for QA (ADI),GRID,UNDEFINED,P,,2,2023-09-27T09:50:54.966-0400,,Pavlo Totskyi,"['Paradise City', 'Que Sera, Sera']",[]
@@ -149,7 +151,7 @@ ECMS-1291,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-26T10:57:20.730-0400,,Katie Mul
 ECMS-1290,Story,To Do,ADI,CAP,P,,0,2023-09-26T10:15:46.822-0400,,Katie Muldoon,['Ready for Grooming'],"['capgemini', 'next.js']"
 ECMS-1289,Story,Ready for CI,ADI,CAP,P,,0,2023-09-26T10:11:28.475-0400,,Katie Muldoon,"['Que Sera, Sera']",['capgemini']
 ECMS-1288,Story,Done,ADI,UNDEFINED,P,P,3,2023-09-25T17:16:09.271-0400,2023-09-26T17:57:21.737-0400,Oksana Lagno,['Paradise City'],[]
-ECMS-1287,Story,Done,ADI,UNDEFINED,P,Q,1,2023-09-25T16:59:55.628-0400,2023-10-04T14:54:45.478-0400,Oksana Lagno,['Paradise City'],['feature-gated']
+ECMS-1287,Story,Done,ADI,CAP,P,Q,1,2023-09-25T16:59:55.628-0400,2023-10-04T14:54:45.478-0400,Oksana Lagno,['Paradise City'],"['capgemini', 'feature-gated']"
 ECMS-1286,Story,Done,ADI,UNDEFINED,P,P,1,2023-09-25T16:22:29.790-0400,2023-10-02T12:58:25.026-0400,Oksana Lagno,['Paradise City'],[]
 ECMS-1285,Bug,Done,CAP,CAP,P,Q,3,2023-09-25T16:05:59.038-0400,2023-10-04T17:22:32.085-0400,Jose Solano,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
 ECMS-1284,Bug,Done,CAP,CAP,P,Q,3,2023-09-25T15:54:15.718-0400,2023-10-04T17:22:30.950-0400,Jose Solano,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.10.04']"
@@ -180,8 +182,8 @@ ECMS-1260,Story,Blocked,ADI,UNDEFINED,P,,3,2023-09-25T11:31:47.064-0400,,Oksana 
 ECMS-1259,Bug,Done,ADI,UNDEFINED,P,P,0,2023-09-25T11:09:54.472-0400,2023-09-25T13:37:03.736-0400,Chris Davis,[],[]
 ECMS-1258,Story,Done,ADI,CAP,P,P,3,2023-09-25T11:04:57.406-0400,2023-09-28T18:08:15.187-0400,Oksana Lagno,['Paradise City'],"['capgemini', 'next.js', 'next.js_release_2023.09.27']"
 ECMS-1257,Story,Done,CAP,UNDEFINED,P,P,0,2023-09-25T10:45:22.129-0400,2023-09-29T11:17:09.479-0400,Ankit Kumar,[],[]
-ECMS-1256,Bug,To Do,ADI,UNDEFINED,O,,0,2023-09-19T12:28:39.732-0400,,Andy Keitch,[],['moved-from-SFCC']
-ECMS-1255,Bug,To Do,ADI,UNDEFINED,O,,0,2023-09-19T12:46:59.692-0400,,Andy Keitch,[],['moved-from-SFCC']
+ECMS-1256,Bug,To Do,ADI,CAP,O,,0,2023-09-19T12:28:39.732-0400,,Andy Keitch,[],"['capgemini', 'moved-from-SFCC']"
+ECMS-1255,Bug,To Do,ADI,CAP,O,,0,2023-09-19T12:46:59.692-0400,,Andy Keitch,[],"['capgemini', 'moved-from-SFCC']"
 ECMS-1254,Bug,Done,ADI,UNDEFINED,P,P,1,2023-09-22T15:32:02.910-0400,2023-10-02T15:20:25.403-0400,Kareen Balsam,['Paradise City'],[]
 ECMS-1253,Story,To Do,ADI,UNDEFINED,P,,0,2023-09-22T10:08:26.207-0400,,Katie Muldoon,[],[]
 ECMS-1252,Story,To Do,ADI,CAP,P,,0,2023-09-21T16:10:57.856-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini']
@@ -268,7 +270,7 @@ ECMS-1169,Task,Done,GRID,GRID,N,P,1,2023-09-06T09:29:55.143-0400,2023-09-21T11:0
 ECMS-1168,Bug,Done,ADI,CAP,N,O,0,2023-09-05T18:04:41.439-0400,2023-09-14T11:45:27.798-0400,Kareen Balsam,[],['capgemini']
 ECMS-1167,Bug,To Do,GRID,CAP,N,,0,2023-09-05T16:45:33.884-0400,,Sevak Santrosyan,[],['capgemini']
 ECMS-1161,Bug,Done,GRID,GRID,N,P,1,2023-09-05T09:33:13.127-0400,2023-09-27T07:52:24.376-0400,Pavlo Totskyi,"['Over the Rainbow', 'Paradise City']","['Contentstack', 'Grid', 'contentstack_release_2023.09.27']"
-ECMS-1160,Task,Ready for QA (UAT),GRID,GRID,N,,5,2023-09-05T09:04:14.129-0400,,Pavlo Totskyi,"['Paradise City', 'Que Sera, Sera']","['Contentstack', 'Grid']"
+ECMS-1160,Task,Ready for QA (Prod),GRID,GRID,N,,5,2023-09-05T09:04:14.129-0400,,Pavlo Totskyi,"['Paradise City', 'Que Sera, Sera']","['Contentstack', 'Grid']"
 ECMS-1159,Bug,To Do,GRID,GRID,N,,3,2023-09-05T05:14:37.692-0400,,Pavlo Totskyi,[],['Grid']
 ECMS-1158,Task,Done,GRID,GRID,N,N,0,2023-09-04T13:46:14.121-0400,2023-09-04T14:15:39.028-0400,Sevak Santrosyan,['Never gonna give you up!'],['Grid']
 ECMS-1157,Bug,Done,CAP,CAP,N,P,2,2023-09-04T11:58:36.576-0400,2023-09-28T18:08:14.124-0400,Jose Solano,"['Never gonna give you up!', 'Over the Rainbow', 'Paradise City']","['capgemini', 'next.js', 'next.js_release_2023.09.27']"
@@ -494,7 +496,7 @@ ECMS-935,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:19:15.290-0400,,Jana Flashing,
 ECMS-934,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:18:14.272-0400,,Jana Flashing,[],['Grid']
 ECMS-933,Story,In Progress,GRID,GRID,K,,2,2023-07-25T17:18:06.575-0400,,Jana Flashing,"['Que Sera, Sera']",['Grid']
 ECMS-932,Story,To Do,GRID,GRID,K,,0,2023-07-25T17:17:46.952-0400,,Jana Flashing,[],['Grid']
-ECMS-931,Story,In Progress,GRID,GRID,K,,5,2023-07-25T15:38:48.681-0400,,Sergii Sopin,"['Over the Rainbow', 'Paradise City', 'Que Sera, Sera']","['Contentstack', 'Grid']"
+ECMS-931,Story,Ready for QA,GRID,GRID,K,,5,2023-07-25T15:38:48.681-0400,,Sergii Sopin,"['Over the Rainbow', 'Paradise City', 'Que Sera, Sera']","['Contentstack', 'Grid']"
 ECMS-930,Bug,Done,ADI,CAP,K,N,0,2023-07-25T12:52:54.364-0400,2023-08-29T17:53:15.402-0400,Kareen Balsam,[],['capgemini']
 ECMS-929,Story,Done,ADI,CAP,K,M,0,2023-07-25T11:52:43.093-0400,2023-08-14T12:02:57.896-0400,Oksana Lagno,"['Lucky Star', 'Macarena']","['capgemini', 'sfcc']"
 ECMS-928,Bug,Done,ADI,CAP,K,L,0,2023-07-25T11:36:52.525-0400,2023-07-27T17:39:17.054-0400,Oksana Lagno,"['Karma Chameleon', 'Lucky Star']","['capgemini', 'next.js']"
