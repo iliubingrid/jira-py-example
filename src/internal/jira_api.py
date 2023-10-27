@@ -1,6 +1,6 @@
 from jira import JIRA
 
-from src.internal.secrets import JIRA_TOKEN, JIRA_EMAIL
+from src.internal._secrets import JIRA_EMAIL, JIRA_TOKEN
 
 
 def get_jira() -> JIRA:

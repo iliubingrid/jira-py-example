@@ -39,5 +39,7 @@ ADI_TEAM_MEMBERS = [
     "Andy Keitch",
     "Abelardo Lopez",
     "Jessica Lanzoni",
-    "Fadila El Ghaddari"
+    "Fadila El Ghaddari",
+    "Andrey Prokhorov",
+    "Lena Damber"
 ]
