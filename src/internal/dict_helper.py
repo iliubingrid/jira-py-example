@@ -1,11 +1,10 @@
 from collections import defaultdict
 
+from src.internal.domain import SPRINTS
+
 
 def sort_dict(d: dict) -> dict:
     return dict(sorted(d.items()))
-
-
-SPRINTS = ["C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P"]
 
 
 def default_int_dict() -> dict:
