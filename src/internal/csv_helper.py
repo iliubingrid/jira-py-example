@@ -1,5 +1,4 @@
 import csv
-
 from typing import List
 
 from src.internal.enums import TeamEnum
@@ -47,7 +46,8 @@ def read_from_csv_file(file_name: str) -> List[ExtractedData]:
                 resolved_at=row[9],
                 reporter=row[10],
                 sprints=resolve_sprints(row[11]),
-                labels=resolve_labels(row[12])
+                labels=resolve_labels(row[12]),
+                summary=row[13]
             ))
     return lst
 
@@ -68,7 +68,8 @@ def save_to_csv_file(file_name: str, lst: List[ExtractedData]):
             "resolved_at",
             "reporter",
             "sprints",
-            "labels"
+            "labels",
+            "summary"
         ])
         for i in lst:
             writer.writerow([
@@ -84,5 +85,6 @@ def save_to_csv_file(file_name: str, lst: List[ExtractedData]):
                 i.resolved_at,
                 i.reporter,
                 i.sprints,
-                i.labels
+                i.labels,
+                i.summary
             ])

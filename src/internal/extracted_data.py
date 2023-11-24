@@ -1,14 +1,15 @@
 import string
-
 from dataclasses import dataclass
 from datetime import datetime, timedelta
+from typing import List
+
 from jira import Issue
 from pytz import UTC
-from typing import List
 
 from src.internal.domain import SPRINT_A_START_TIME
 from src.internal.enums import TeamEnum
-from src.internal.team_members import GRID_TEAM_MEMBERS, CAP_TEAM_MEMBERS, ADI_TEAM_MEMBERS
+from src.internal.team_members import (ADI_TEAM_MEMBERS, CAP_TEAM_MEMBERS,
+                                       GRID_TEAM_MEMBERS)
 
 
 @dataclass
@@ -27,6 +28,7 @@ class ExtractedData:
     last_sprint: str
     team: TeamEnum
     reporter_team: TeamEnum
+    summary: str
 
 
 def labels_2_team(labels: List[str]) -> TeamEnum:
@@ -101,5 +103,6 @@ def issue_2_data(issue: Issue) -> ExtractedData:
         first_sprint=resolve_first_sprint(issue.fields.created),
         last_sprint=resolve_last_sprint(issue.fields.resolutiondate),
         team=labels_2_team(issue.fields.labels),
-        reporter_team=reporter_2_team(issue.fields.reporter.displayName)
+        reporter_team=reporter_2_team(issue.fields.reporter.displayName),
+        summary=issue.fields.summary,
     )
