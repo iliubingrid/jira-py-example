@@ -1,39 +1,40 @@
 issue_id,issue_type,status,reporter_team,team,first_sprint,last_sprint,story_points,created_at,resolved_at,reporter,sprints,labels,summary
-ECMS-1763,Story,To Do,ADI,UNDEFINED,T,,0,2023-11-29T03:52:37.332-0500,,Fadila El Ghaddari,[],['moved-from-SFCC'],Black blocks appear in a hero when you stretch the screen
-ECMS-1762,Story,To Do,ADI,UNDEFINED,U,,0,2023-11-30T15:54:56.606-0500,,Katie Muldoon,[],[],"Contentstack: Add overlay positions to Hero, Hero with Video"
-ECMS-1761,Bug,To Do,ADI,UNDEFINED,U,,0,2023-11-30T13:59:34.088-0500,,Oksana Lagno,['Under Pressure'],[],SFCC: Display Contentstack menu on SFCC customer service pages
-ECMS-1760,Bug,To Do,GRID,UNDEFINED,U,,0,2023-11-30T12:14:29.124-0500,,Nikita Gladnev,[],['Contentstack_migration'],Missing slash at the end of the articles' URL
+ECMS-1764,Bug,To Do,GRID,GRID,U,,0,2023-12-01T03:21:46.721-0500,,Igor Liubin,[],"['Contentstack_migration', 'Grid']",Symbol ® should be uppercase
+ECMS-1763,Story,To Do,ADI,CAP,T,,0,2023-11-29T03:52:37.332-0500,,Fadila El Ghaddari,[],"['capgemini', 'moved-from-SFCC']",Black blocks appear in a hero when you stretch the screen
+ECMS-1762,Story,To Do,ADI,GRID,U,,0,2023-11-30T15:54:56.606-0500,,Katie Muldoon,[],['Grid'],"Contentstack: Add overlay positions to Hero, Hero with Video"
+ECMS-1761,Bug,To Do,ADI,CAP,U,,0,2023-11-30T13:59:34.088-0500,,Oksana Lagno,['Under Pressure'],['capgemini'],SFCC: Display Contentstack menu on SFCC customer service pages
+ECMS-1760,Bug,In Progress,GRID,GRID,U,,2,2023-11-30T12:14:29.124-0500,,Nikita Gladnev,['Under Pressure'],"['Contentstack_migration', 'Grid']",Missing slash at the end of the articles' URL
 ECMS-1759,Bug,To Do,GRID,GRID,U,,0,2023-11-30T10:58:44.867-0500,,Nikita Gladnev,[],"['Contentstack_migration', 'Grid']",SFCC Tags has empty text
-ECMS-1758,Bug,Ready for QA (CAP),CAP,CAP,U,,0,2023-11-30T10:41:20.648-0500,,Jose Solano,['Under Pressure'],['next.js'],Customer Service page: The application displays an incorrect Header font size (nextjs)
-ECMS-1757,Bug,To Do,GRID,UNDEFINED,U,,0,2023-11-30T09:48:25.191-0500,,Jana Flashing,['Under Pressure'],['Contentstack_migration'],Missing line breaks in migrated blog articles
-ECMS-1756,Task,To Do,ADI,UNDEFINED,U,,0,2023-11-29T14:11:51.939-0500,,Kareen Balsam,[],[],AEG Product Carousel Missing from Homepage
-ECMS-1752,Bug,To Do,CAP,CAP,U,,0,2023-11-29T13:10:04.081-0500,,Jose Solano,[],['next.js'],Customer Service page: The application does not adjust the components according to the container size (nextjs)
-ECMS-1751,Bug,To Do,CAP,CAP,U,,0,2023-11-29T13:05:39.897-0500,,Jose Solano,[],['next.js'],Customer Service page: The application does not display any spacing in between components (nextjs)
-ECMS-1750,Bug,Code Review,CAP,CAP,U,,0,2023-11-29T12:58:11.400-0500,,Jose Solano,[],['next.js'],Customer Service page: The application displays broken styles for the Nav menu in SFCC (nextjs)
-ECMS-1749,Bug,Code Review,CAP,CAP,U,,0,2023-11-29T12:52:44.965-0500,,Jose Solano,[],['next.js'],Customer Service page: The application displays a double separator element in between the menu header and the first section (nextjs)
-ECMS-1748,Bug,To Do,CAP,CAP,U,,0,2023-11-29T12:48:04.305-0500,,Jose Solano,[],['next.js'],Customer Service Page: The application does not display the appropriate menu width (nextjs)
-ECMS-1747,Story,To Do,ADI,UNDEFINED,T,,0,2023-11-29T09:57:22.421-0500,,Katie Muldoon,['Ready for Grooming'],[],Atomic Design: Simple Tile
-ECMS-1746,Story,To Do,ADI,UNDEFINED,T,,0,2023-11-29T09:44:51.040-0500,,Katie Muldoon,['Under Pressure'],[],Atomic Design: Banners with Text
-ECMS-1745,Task,To Do,ADI,UNDEFINED,T,,0,2023-11-28T11:08:16.585-0500,,Katie Muldoon,[],[],Atomic Design for modal with Hero
-ECMS-1744,Task,To Do,ADI,UNDEFINED,T,,0,2023-11-28T10:53:56.708-0500,,Katie Muldoon,['Ready for Grooming'],[],Atomic Design for modal with Standard Text
-ECMS-1743,Task,To Do,ADI,UNDEFINED,T,,0,2023-11-28T10:53:31.919-0500,,Katie Muldoon,['Ready for Grooming'],[],Atomic Design for modal with Tiles
-ECMS-1742,Story,To Do,ADI,UNDEFINED,T,,0,2023-11-28T09:33:57.230-0500,,Oksana Lagno,[],[],SFCC: Hybrid PLP
-ECMS-1741,Story,In Progress,GRID,UNDEFINED,T,,3,2023-11-27T14:22:28.099-0500,,Jana Flashing,"['Tiny Dancer', 'Under Pressure']",[],Identify all SFCC Blog Pages that exceed the SEO Title/Description limits
-ECMS-1740,Story,To Do,ADI,CAP,T,,0,2023-11-27T13:07:32.550-0500,,Katie Muldoon,[],['next.js'],NextJS: Pop up Modal
-ECMS-1739,Story,To Do,ADI,UNDEFINED,T,,0,2023-11-27T12:55:25.975-0500,,Katie Muldoon,['Ready for Grooming'],[],Atomic Design: Pop up Modal
-ECMS-1738,Story,To Do,ADI,CAP,T,,0,2023-11-27T11:22:30.611-0500,,Katie Muldoon,['Ready for Grooming'],['next.js'],[Spike] NextJS: iframe component
-ECMS-1737,Bug,To Do,CAP,UNDEFINED,T,,0,2023-11-24T17:36:43.967-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']",[],Blog Landing: The application does not display the localized Blog Articles correct preview information (nextjs)
-ECMS-1736,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-23T08:00:56.866-0500,,Nikita Gladnev,[],[],SFCC Test - Blog Article Page - Product Carousel
-ECMS-1735,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-23T08:00:51.976-0500,,Nikita Gladnev,[],[],SFCC Test - Blog Article Page - Blog Article Video
-ECMS-1734,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-23T08:00:45.195-0500,,Nikita Gladnev,[],[],SFCC Test - Blog Article Page - Blog Article Image Text
-ECMS-1733,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-23T08:00:30.589-0500,,Nikita Gladnev,[],[],SFCC Test - Blog Article Page - Blog Article Image
-ECMS-1732,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-23T08:00:12.498-0500,,Nikita Gladnev,[],[],SFCC Test - Blog Article Page - Blog Article Text
-ECMS-1731,Story,To Do,GRID,UNDEFINED,T,,0,2023-11-23T07:49:35.031-0500,,Nikita Gladnev,[],[],Create SFCC Test - Blog article page
-ECMS-1730,Story,Code Review,ADI,UNDEFINED,T,,0,2023-11-22T15:15:53.453-0500,,Oksana Lagno,[],[],SFCC: Enable Next.js content in customer service pages
-ECMS-1729,Task,To Do,ADI,UNDEFINED,T,,0,2023-11-22T13:02:17.477-0500,,Eyram Tay,[],[],Blogs not showing on listing page when scheduled for midnight publish
-ECMS-1728,Story,To Do,UNDEFINED,UNDEFINED,T,,0,2023-11-22T12:41:55.694-0500,,Gia Ferraro,[],['moved-from-SFCC'],Blog article not showing on blog landing page
-ECMS-1727,Task,To Do,ADI,UNDEFINED,T,,0,2023-11-22T12:01:49.627-0500,,Kareen Balsam,[],[],Training Doc - Release Preview
-ECMS-1726,Bug,To Do,ADI,UNDEFINED,T,,0,2023-11-22T12:01:22.448-0500,,Kareen Balsam,[],[],Issues identified by ecomOps on Release Preview
+ECMS-1758,Bug,Ready for QA (CAP),CAP,CAP,U,,0,2023-11-30T10:41:20.648-0500,,Jose Solano,['Under Pressure'],"['capgemini', 'next.js']",Customer Service page: The application displays an incorrect Header font size (nextjs)
+ECMS-1757,Bug,To Do,GRID,GRID,U,,0,2023-11-30T09:48:25.191-0500,,Jana Flashing,['Under Pressure'],"['Contentstack_migration', 'Grid']",Missing line breaks in migrated blog articles
+ECMS-1756,Task,To Do,ADI,ADI,U,,0,2023-11-29T14:11:51.939-0500,,Kareen Balsam,[],['ADI'],AEG Product Carousel Missing from Homepage
+ECMS-1752,Bug,To Do,CAP,CAP,U,,0,2023-11-29T13:10:04.081-0500,,Jose Solano,[],"['capgemini', 'next.js']",Customer Service page: The application does not adjust the components according to the container size (nextjs)
+ECMS-1751,Bug,To Do,CAP,CAP,U,,0,2023-11-29T13:05:39.897-0500,,Jose Solano,[],"['capgemini', 'next.js']",Customer Service page: The application does not display any spacing in between components (nextjs)
+ECMS-1750,Bug,Code Review,CAP,CAP,U,,0,2023-11-29T12:58:11.400-0500,,Jose Solano,[],"['capgemini', 'next.js']",Customer Service page: The application displays broken styles for the Nav menu in SFCC (nextjs)
+ECMS-1749,Bug,Code Review,CAP,CAP,U,,0,2023-11-29T12:52:44.965-0500,,Jose Solano,[],"['capgemini', 'next.js']",Customer Service page: The application displays a double separator element in between the menu header and the first section (nextjs)
+ECMS-1748,Bug,To Do,CAP,CAP,U,,0,2023-11-29T12:48:04.305-0500,,Jose Solano,[],"['capgemini', 'next.js']",Customer Service Page: The application does not display the appropriate menu width (nextjs)
+ECMS-1747,Story,To Do,ADI,CAP,T,,0,2023-11-29T09:57:22.421-0500,,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design: Simple Tile
+ECMS-1746,Story,To Do,ADI,CAP,T,,0,2023-11-29T09:44:51.040-0500,,Katie Muldoon,['Under Pressure'],['capgemini'],Atomic Design: Banners with Text
+ECMS-1745,Task,To Do,ADI,CAP,T,,0,2023-11-28T11:08:16.585-0500,,Katie Muldoon,[],['capgemini'],Atomic Design for modal with Hero
+ECMS-1744,Task,To Do,ADI,CAP,T,,0,2023-11-28T10:53:56.708-0500,,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design for modal with Standard Text
+ECMS-1743,Task,To Do,ADI,CAP,T,,0,2023-11-28T10:53:31.919-0500,,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design for modal with Tiles
+ECMS-1742,Story,To Do,ADI,CAP,T,,0,2023-11-28T09:33:57.230-0500,,Oksana Lagno,[],['capgemini'],SFCC: Hybrid PLP
+ECMS-1741,Story,In Progress,GRID,GRID,T,,3,2023-11-27T14:22:28.099-0500,,Jana Flashing,"['Tiny Dancer', 'Under Pressure']","['Contentstack_migration', 'Grid']",Identify all SFCC Blog Pages that exceed the SEO Title/Description limits
+ECMS-1740,Story,To Do,ADI,CAP,T,,0,2023-11-27T13:07:32.550-0500,,Katie Muldoon,[],"['capgemini', 'next.js']",NextJS: Pop up Modal
+ECMS-1739,Story,To Do,ADI,CAP,T,,0,2023-11-27T12:55:25.975-0500,,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design: Pop up Modal
+ECMS-1738,Story,To Do,ADI,CAP,T,,0,2023-11-27T11:22:30.611-0500,,Katie Muldoon,['Ready for Grooming'],"['capgemini', 'next.js']",[Spike] NextJS: iframe component
+ECMS-1737,Bug,To Do,CAP,CAP,T,,0,2023-11-24T17:36:43.967-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']",['capgemini'],Blog Landing: The application does not display the localized Blog Articles correct preview information (nextjs)
+ECMS-1736,Sub-task,To Do,GRID,GRID,T,,0,2023-11-23T08:00:56.866-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Blog Article Page - Product Carousel
+ECMS-1735,Sub-task,To Do,GRID,GRID,T,,0,2023-11-23T08:00:51.976-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Blog Article Page - Blog Article Video
+ECMS-1734,Sub-task,To Do,GRID,GRID,T,,0,2023-11-23T08:00:45.195-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Blog Article Page - Blog Article Image Text
+ECMS-1733,Sub-task,To Do,GRID,GRID,T,,0,2023-11-23T08:00:30.589-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Blog Article Page - Blog Article Image
+ECMS-1732,Sub-task,To Do,GRID,GRID,T,,0,2023-11-23T08:00:12.498-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Blog Article Page - Blog Article Text
+ECMS-1731,Story,To Do,GRID,GRID,T,,0,2023-11-23T07:49:35.031-0500,,Nikita Gladnev,[],['Grid'],Create SFCC Test - Blog article page
+ECMS-1730,Story,Code Review,ADI,CAP,T,,0,2023-11-22T15:15:53.453-0500,,Oksana Lagno,[],['capgemini'],SFCC: Enable Next.js content in customer service pages
+ECMS-1729,Task,To Do,ADI,ADI,T,,0,2023-11-22T13:02:17.477-0500,,Eyram Tay,[],['ADI'],Blogs not showing on listing page when scheduled for midnight publish
+ECMS-1728,Story,To Do,UNDEFINED,ADI,T,,0,2023-11-22T12:41:55.694-0500,,Gia Ferraro,[],"['ADI', 'moved-from-SFCC']",Blog article not showing on blog landing page
+ECMS-1727,Task,To Do,ADI,ADI,T,,0,2023-11-22T12:01:49.627-0500,,Kareen Balsam,[],['ADI'],Training Doc - Release Preview
+ECMS-1726,Bug,To Do,ADI,ADI,T,,0,2023-11-22T12:01:22.448-0500,,Kareen Balsam,[],['ADI'],Issues identified by ecomOps on Release Preview
 ECMS-1725,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:32.155-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Homepage Layout - Article Tiles containers
 ECMS-1724,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:31.526-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Homepage Layout - Hero W Overlay
 ECMS-1723,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:30.873-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Homepage Layout - Thin Hero
@@ -47,8 +48,8 @@ ECMS-1716,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:26.069-0500,,Nikita Gla
 ECMS-1715,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:25.451-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Homepage Layout - Large Tiles with Products
 ECMS-1714,Sub-task,To Do,GRID,GRID,T,,0,2023-11-22T09:25:24.718-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Homepage Layout - Image Carousel
 ECMS-1713,Story,To Do,GRID,GRID,T,,2,2023-11-22T09:25:23.750-0500,,Nikita Gladnev,[],['Grid'],Create SFCC test - Homepage Layout
-ECMS-1712,Bug,Ready for UAT,CAP,CAP,T,,0,2023-11-21T11:29:33.258-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']",['next.js'],Customer Service page: ContentStack does not display the Live Preview (nextjs)
-ECMS-1711,Bug,Done,GRID,UNDEFINED,T,T,0,2023-11-21T11:29:14.292-0500,2023-11-27T11:50:24.892-0500,Nikita Gladnev,['Tiny Dancer'],[],Empty card displayed on PL Homepage
+ECMS-1712,Bug,Ready for UAT,CAP,CAP,T,,0,2023-11-21T11:29:33.258-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']","['capgemini', 'next.js']",Customer Service page: ContentStack does not display the Live Preview (nextjs)
+ECMS-1711,Bug,Done,GRID,ADI,T,T,0,2023-11-21T11:29:14.292-0500,2023-11-27T11:50:24.892-0500,Nikita Gladnev,['Tiny Dancer'],['ADI'],Empty card displayed on PL Homepage
 ECMS-1710,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:20.780-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Article Tiles containers
 ECMS-1709,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:20.132-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Hero W Overlay
 ECMS-1708,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:19.514-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Thin Hero
@@ -61,31 +62,31 @@ ECMS-1702,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:15.736-0500,,Nikita Gla
 ECMS-1701,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:15.088-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Video Banner
 ECMS-1700,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:14.485-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Large Tiles with Products
 ECMS-1699,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T09:04:13.627-0500,,Nikita Gladnev,[],['Grid'],SFCC Test - Content Landing Page - Image Carousel
-ECMS-1698,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:46:38.593-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Image Carousel
-ECMS-1697,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:46:33.621-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Large Tiles with Products
-ECMS-1696,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:46:21.808-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Video Banner
-ECMS-1695,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:46:14.099-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Standard Text
-ECMS-1694,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:46:08.096-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Product Carousel
-ECMS-1693,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:57.102-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Small Tiles Container
-ECMS-1692,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:47.874-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Large Tiles
-ECMS-1691,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:38.517-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Cards Container
-ECMS-1690,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:31.914-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Hero Slider
-ECMS-1689,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:22.935-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Thin Hero
-ECMS-1688,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:45:17.615-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Hero W Overlay
-ECMS-1687,Sub-task,To Do,GRID,UNDEFINED,T,,0,2023-11-21T07:44:10.605-0500,,Nikita Gladnev,['Under Pressure'],[],SFCC Test - Category Landing Page - Article Tiles containers
-ECMS-1686,Bug,Code Review,ADI,UNDEFINED,T,,0,2023-11-21T04:09:22.661-0500,,Chris Davis,[],[],SFCC Site Preferences - fix siteprefs
-ECMS-1685,Bug,To Do,ADI,UNDEFINED,T,,0,2023-11-20T17:26:34.455-0500,,Kareen Balsam,[],[],Should renamed version name come over with update?
+ECMS-1698,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:46:38.593-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Image Carousel
+ECMS-1697,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:46:33.621-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Large Tiles with Products
+ECMS-1696,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:46:21.808-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Video Banner
+ECMS-1695,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:46:14.099-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Standard Text
+ECMS-1694,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:46:08.096-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Product Carousel
+ECMS-1693,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:57.102-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Small Tiles Container
+ECMS-1692,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:47.874-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Large Tiles
+ECMS-1691,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:38.517-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Cards Container
+ECMS-1690,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:31.914-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Hero Slider
+ECMS-1689,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:22.935-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Thin Hero
+ECMS-1688,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:45:17.615-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Hero W Overlay
+ECMS-1687,Sub-task,To Do,GRID,GRID,T,,0,2023-11-21T07:44:10.605-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],SFCC Test - Category Landing Page - Article Tiles containers
+ECMS-1686,Bug,Code Review,ADI,CAP,T,,0,2023-11-21T04:09:22.661-0500,,Chris Davis,[],['capgemini'],SFCC Site Preferences - fix siteprefs
+ECMS-1685,Bug,To Do,ADI,GRID,T,,0,2023-11-20T17:26:34.455-0500,,Kareen Balsam,[],['Grid'],Should renamed version name come over with update?
 ECMS-1684,Epic,To Do,ADI,UNDEFINED,T,,0,2023-11-20T14:29:22.873-0500,,Katie Muldoon,[],[],EU Outlet: Contentstack onboarding and migration
 ECMS-1683,Story,Ready for UAT,ADI,GRID,T,,2,2023-11-20T13:55:36.288-0500,,Oksana Lagno,"['Tiny Dancer', 'Under Pressure']",['Grid'],Contentstack: Customer Service: Left Nav Menu: Add section title
-ECMS-1682,Bug,In Progress,GRID,UNDEFINED,T,,0,2023-11-20T08:28:13.022-0500,,Karine Beglaryan,"['Tiny Dancer', 'Under Pressure']",[],Update release function does not work in Releases
+ECMS-1682,Bug,In Progress,GRID,GRID,T,,0,2023-11-20T08:28:13.022-0500,,Karine Beglaryan,"['Tiny Dancer', 'Under Pressure']",['Grid'],Update release function does not work in Releases
 ECMS-1681,Story,To Do,GRID,GRID,T,,13,2023-11-20T07:18:18.710-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],Create SFCC test - Category Landing Page
-ECMS-1680,Bug,Done,GRID,UNDEFINED,T,T,0,2023-11-20T05:48:48.578-0500,2023-11-28T09:45:15.704-0500,Karine Beglaryan,['Tiny Dancer'],[],Live Preview for Content Landing Page is not working
-ECMS-1679,Story,Ready for QA,ADI,UNDEFINED,T,,0,2023-11-17T15:15:58.947-0500,,Katie Muldoon,['Ready for Grooming'],[],[Spike] Types of redirects in SFCC architecture
+ECMS-1680,Bug,Done,GRID,CAP,T,T,0,2023-11-20T05:48:48.578-0500,2023-11-28T09:45:15.704-0500,Karine Beglaryan,['Tiny Dancer'],['capgemini'],Live Preview for Content Landing Page is not working
+ECMS-1679,Story,Ready for QA,ADI,ADI,T,,0,2023-11-17T15:15:58.947-0500,,Katie Muldoon,['Ready for Grooming'],['ADI'],[Spike] Types of redirects in SFCC architecture
 ECMS-1678,Epic,To Do,ADI,UNDEFINED,T,,0,2023-11-17T14:55:19.933-0500,,Katie Muldoon,[],[],Managing Redirects for CMS stack
-ECMS-1677,Bug,To Do,ADI,UNDEFINED,T,,0,2023-11-17T14:50:44.987-0500,,Oksana Lagno,[],[],Spike in Timeout errors
-ECMS-1676,Story,Ready for QA (CAP),ADI,CAP,T,,0,2023-11-17T14:37:33.680-0500,,Oksana Lagno,"['Tiny Dancer', 'Under Pressure']",['next.js'],Next.js: Customer Service Menu
-ECMS-1675,Story,Ready for UAT,ADI,CAP,T,,0,2023-11-17T14:29:44.151-0500,,Oksana Lagno,"['Tiny Dancer', 'Under Pressure']",['next.js'],Next.js: Customer Service Page
-ECMS-1674,Bug,Ready for UAT,CAP,CAP,T,,0,2023-11-17T13:15:58.347-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']",['next.js'],Live Preview: The application displays a timeout error (ContentStack)
+ECMS-1677,Bug,To Do,ADI,CAP,T,,0,2023-11-17T14:50:44.987-0500,,Oksana Lagno,[],['capgemini'],Spike in Timeout errors
+ECMS-1676,Story,Ready for QA (CAP),ADI,CAP,T,,0,2023-11-17T14:37:33.680-0500,,Oksana Lagno,"['Tiny Dancer', 'Under Pressure']","['capgemini', 'next.js']",Next.js: Customer Service Menu
+ECMS-1675,Story,Ready for UAT,ADI,CAP,T,,0,2023-11-17T14:29:44.151-0500,,Oksana Lagno,"['Tiny Dancer', 'Under Pressure']","['capgemini', 'next.js']",Next.js: Customer Service Page
+ECMS-1674,Bug,Ready for UAT,CAP,CAP,T,,0,2023-11-17T13:15:58.347-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']","['capgemini', 'next.js']",Live Preview: The application displays a timeout error (ContentStack)
 ECMS-1673,Epic,To Do,ADI,UNDEFINED,T,,0,2023-11-17T09:29:48.987-0500,,Katie Muldoon,[],[],Mapping for EU /knowledge-articles/ content pages
 ECMS-1672,Epic,To Do,ADI,UNDEFINED,T,,0,2023-11-17T09:29:12.419-0500,,Katie Muldoon,[],[],Mapping for EU /running-advice/ content pages
 ECMS-1671,Bug,To Do,ADI,CAP,T,,0,2023-11-16T19:13:57.027-0500,,Oksana Lagno,[],['capgemini'],Log error: Invalid status code
@@ -97,7 +98,7 @@ ECMS-1666,Story,To Do,ADI,CAP,T,,0,2023-11-15T11:57:23.997-0500,,Oksana Lagno,[]
 ECMS-1665,Story,To Do,ADI,GRID,T,,0,2023-11-15T11:56:18.865-0500,,Oksana Lagno,[],['Grid'],"Contentstack: add ""hide prices"" flag to product tile and product carousel"
 ECMS-1664,Story,To Do,ADI,CAP,T,,0,2023-11-15T11:50:22.725-0500,,Oksana Lagno,[],['capgemini'],Atomic Design: Update designs using Graphik font with Japanese characters
 ECMS-1663,Story,To Do,ADI,CAP,T,,0,2023-11-15T11:43:40.830-0500,,Oksana Lagno,[],['capgemini'],Next.js: Add Graphik font to JP
-ECMS-1662,Story,To Do,ADI,GRID,T,,2,2023-11-15T11:42:43.110-0500,,Oksana Lagno,['Under Pressure'],['Grid'],Contentstack: Default font for JP is Graphik
+ECMS-1662,Story,In Progress,ADI,GRID,T,,2,2023-11-15T11:42:43.110-0500,,Oksana Lagno,['Under Pressure'],['Grid'],Contentstack: Default font for JP is Graphik
 ECMS-1661,Bug,To Do,GRID,CAP,S,,0,2023-11-15T11:19:23.261-0500,,Nikita Gladnev,[],['capgemini'],CTA is not clickable
 ECMS-1660,Bug,To Do,ADI,GRID,S,,0,2023-11-15T11:12:04.483-0500,,Kareen Balsam,[],['Grid'],Widget: Authorize & Clear Data buttons cannot be viewed
 ECMS-1659,Bug,Done,ADI,GRID,S,T,0,2023-11-15T10:32:02.308-0500,2023-11-15T15:01:49.096-0500,Oksana Lagno,['Smells Like Teen Spirit'],['Grid'],Published contentstack content not displayed
@@ -112,7 +113,7 @@ ECMS-1649,Story,Done,ADI,CAP,S,T,0,2023-11-14T21:10:19.373-0500,2023-11-28T09:28
 ECMS-1648,Epic,To Do,ADI,UNDEFINED,S,,0,2023-11-14T20:36:11.032-0500,,Katie Muldoon,[],[],ASICS Japan: Product Carousel Variation
 ECMS-1647,Bug,Ready for QA,ADI,GRID,S,,0,2023-11-14T17:28:11.618-0500,,Kareen Balsam,"['Tiny Dancer', 'Under Pressure']",['Grid'],Cta Label - Live Preview & Vercel Preview Issue
 ECMS-1646,Bug,Ready for UAT,CAP,CAP,S,,0,2023-11-14T17:12:51.195-0500,,Jose Solano,"['Tiny Dancer', 'Under Pressure']","['capgemini', 'next.js']",Blog Landing: The application displays unaligned Subcategories (nextjs)
-ECMS-1645,Sub-task,To Do,GRID,UNDEFINED,S,,0,2023-11-14T16:33:23.983-0500,,Jana Flashing,['Ready for Grooming'],[],XTM Inclusions/Exclusions for Banners With Text
+ECMS-1645,Sub-task,To Do,GRID,GRID,S,,0,2023-11-14T16:33:23.983-0500,,Jana Flashing,['Ready for Grooming'],['Grid'],XTM Inclusions/Exclusions for Banners With Text
 ECMS-1644,Bug,Done,GRID,CAP,S,S,0,2023-11-14T16:06:46.187-0500,2023-11-15T04:45:37.558-0500,Nikita Gladnev,[],['capgemini'],SFCC CI storefront is showing old content for some locales
 ECMS-1643,Bug,Done,ADI,CAP,S,T,0,2023-11-14T14:00:46.425-0500,2023-11-16T10:49:27.675-0500,Oksana Lagno,"['Smells Like Teen Spirit', 'Tiny Dancer']",['capgemini'],Next.js content not displayed on EU UAT
 ECMS-1641,Bug,Ready for QA,ADI,CAP,S,,0,2023-11-14T12:46:05.318-0500,,Kareen Balsam,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['capgemini'],"After ""Publish Now"" some locales don't update (for a long time?)"
@@ -120,11 +121,11 @@ ECMS-1640,Epic,To Do,ADI,UNDEFINED,S,,0,2023-11-14T12:32:24.738-0500,,Katie Muld
 ECMS-1639,Epic,To Do,ADI,UNDEFINED,S,,0,2023-11-14T12:26:03.232-0500,,Katie Muldoon,[],[],ASICS Japan Homepage: Sports Category Component
 ECMS-1638,Task,Done,CAP,CAP,S,S,0,2023-11-14T10:37:16.966-0500,2023-11-14T22:49:53.482-0500,Andres Lara,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Next.js AU: add support to Region + api
 ECMS-1637,Sub-task,Ready for UAT,ADI,GRID,S,,3,2023-11-14T10:34:19.764-0500,,Oksana Lagno,"['Rocket Man', 'Under Pressure']",['Grid'],Remove SPS Alternative font
-ECMS-1636,Story,In Progress,GRID,UNDEFINED,S,,0,2023-11-14T09:37:04.681-0500,,Nikita Gladnev,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",[],Asics-Tools testing and fixing
+ECMS-1636,Story,In Progress,GRID,GRID,S,,0,2023-11-14T09:37:04.681-0500,,Nikita Gladnev,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],Asics-Tools testing and fixing
 ECMS-1635,Story,To Do,ADI,CAP,S,,0,2023-11-14T09:34:21.328-0500,,Katie Muldoon,[],['capgemini'],Next.js: Hybrid PLP
-ECMS-1634,Bug,Done,GRID,UNDEFINED,S,T,0,2023-11-14T03:57:17.509-0500,2023-11-24T08:48:56.142-0500,Karine Beglaryan,[],[],Dutch Locale is not showing the correct data
+ECMS-1634,Bug,Done,GRID,GRID,S,T,0,2023-11-14T03:57:17.509-0500,2023-11-24T08:48:56.142-0500,Karine Beglaryan,[],['Grid'],Dutch Locale is not showing the correct data
 ECMS-1632,Story,To Do,GRID,GRID,S,,5,2023-11-14T03:18:59.161-0500,,Nikita Gladnev,['Under Pressure'],['Grid'],[Spike] Mapping for Customer Service pages
-ECMS-1631,Bug,To Do,ADI,UNDEFINED,S,,0,2023-11-13T13:41:44.181-0500,,Kareen Balsam,[],[],Live Preview doesn't display most recent content
+ECMS-1631,Bug,To Do,ADI,GRID,S,,0,2023-11-13T13:41:44.181-0500,,Kareen Balsam,[],['Grid'],Live Preview doesn't display most recent content
 ECMS-1630,Bug,To Do,ADI,GRID,S,,0,2023-11-13T10:49:40.487-0500,,Kareen Balsam,[],['Grid'],Localize Entry - doesn't work on first try (sometimes)
 ECMS-1629,Bug,In Progress,ADI,GRID,S,,3,2023-11-11T13:46:45.168-0500,,Kareen Balsam,"['Tiny Dancer', 'Under Pressure']",['Grid'], Localization Live Preview not reflecting accurately (in Card Container only?)
 ECMS-1628,Bug,To Do,CAP,CAP,S,,0,2023-11-10T11:12:20.251-0500,,Jose Solano,[],['capgemini'],Blog Article Page: The application displays an incorrect Breadcrumb language (nextjs)
@@ -135,14 +136,14 @@ ECMS-1624,Sub-task,To Do,ADI,CAP,S,,0,2023-11-09T14:09:49.709-0500,,Oksana Lagno
 ECMS-1623,Sub-task,To Do,ADI,GRID,S,,2,2023-11-09T14:08:52.902-0500,,Oksana Lagno,[],"['Contentstack', 'Grid']",Contentstack: Add Alt Image Field to Preview Image on Blog Article Page
 ECMS-1622,Bug,Done,CAP,CAP,S,T,0,2023-11-09T12:54:10.628-0500,2023-11-20T11:23:36.748-0500,Jose Solano,"['Smells Like Teen Spirit', 'Tiny Dancer']","['capgemini', 'next.js']",The application does not display the correct languages according to the locale (nextjs)
 ECMS-1621,Bug,Done,CAP,CAP,S,S,0,2023-11-09T11:25:42.968-0500,2023-11-14T22:49:55.402-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js_release_2023.11.15']",Blog Landing: The application takes more than the expected to display filtered content
-ECMS-1620,Task,In Progress,ADI,UNDEFINED,S,,0,2023-11-09T11:17:23.054-0500,,Kareen Balsam,"['Tiny Dancer', 'Under Pressure']",[],Cta Label - improved localization behavior possible
-ECMS-1619,Sub-task,To Do,ADI,UNDEFINED,S,,0,2023-11-09T10:15:00.976-0500,,Oksana Lagno,[],[],Regions training: Anchor Linking
-ECMS-1618,Sub-task,To Do,GRID,UNDEFINED,S,,0,2023-11-09T09:32:40.388-0500,,Nikita Gladnev,[],[],XTM Configuration: Exclude/Include Fields for Social  Profiles Template
-ECMS-1617,Bug,Blocked,ADI,UNDEFINED,S,,0,2023-11-09T09:15:40.048-0500,,Katie Muldoon,[],[],Presence of DY is impacting Contenstack/NextJS Content
-ECMS-1616,Sub-task,To Do,GRID,UNDEFINED,S,,0,2023-11-09T09:11:38.150-0500,,Nikita Gladnev,['Ready for Grooming'],[],XTM Configuration: Exclude/Include Recommendation extension to Product Carousel
-ECMS-1615,Sub-task,Done,GRID,UNDEFINED,S,S,0,2023-11-09T08:58:41.492-0500,2023-11-14T10:30:48.965-0500,Nikita Gladnev,"['Rocket Man', 'Under Pressure']",[],XTM Configuration: Exclude/Include SPS font (Alternative)
-ECMS-1614,Sub-task,Ready for QA (UAT),GRID,UNDEFINED,S,,0,2023-11-09T08:52:19.149-0500,,Nikita Gladnev,"['Que Sera, Sera', 'Rocket Man', 'Under Pressure']",[],XTM Configuration: Exclude/Include  fields for Icon Tiles
-ECMS-1613,Bug,Done,ADI,UNDEFINED,S,S,0,2023-11-08T21:49:53.410-0500,2023-11-09T10:38:08.948-0500,Kareen Balsam,[],[],Release Preview Does Not Show Localization
+ECMS-1620,Task,In Progress,ADI,GRID,S,,0,2023-11-09T11:17:23.054-0500,,Kareen Balsam,"['Tiny Dancer', 'Under Pressure']",['Grid'],Cta Label - improved localization behavior possible
+ECMS-1619,Sub-task,To Do,ADI,ADI,S,,0,2023-11-09T10:15:00.976-0500,,Oksana Lagno,[],['ADI'],Regions training: Anchor Linking
+ECMS-1618,Sub-task,To Do,GRID,GRID,S,,0,2023-11-09T09:32:40.388-0500,,Nikita Gladnev,[],['Grid'],XTM Configuration: Exclude/Include Fields for Social  Profiles Template
+ECMS-1617,Bug,Blocked,ADI,CAP,S,,0,2023-11-09T09:15:40.048-0500,,Katie Muldoon,[],['capgemini'],Presence of DY is impacting Contenstack/NextJS Content
+ECMS-1616,Sub-task,To Do,GRID,GRID,S,,0,2023-11-09T09:11:38.150-0500,,Nikita Gladnev,['Ready for Grooming'],['Grid'],XTM Configuration: Exclude/Include Recommendation extension to Product Carousel
+ECMS-1615,Sub-task,Done,GRID,GRID,S,S,0,2023-11-09T08:58:41.492-0500,2023-11-14T10:30:48.965-0500,Nikita Gladnev,"['Rocket Man', 'Under Pressure']",['Grid'],XTM Configuration: Exclude/Include SPS font (Alternative)
+ECMS-1614,Sub-task,Ready for QA (UAT),GRID,GRID,S,,0,2023-11-09T08:52:19.149-0500,,Nikita Gladnev,"['Que Sera, Sera', 'Rocket Man', 'Under Pressure']",['Grid'],XTM Configuration: Exclude/Include  fields for Icon Tiles
+ECMS-1613,Bug,Done,ADI,GRID,S,S,0,2023-11-08T21:49:53.410-0500,2023-11-09T10:38:08.948-0500,Kareen Balsam,[],['Grid'],Release Preview Does Not Show Localization
 ECMS-1612,Bug,Done,ADI,CAP,S,S,0,2023-11-08T19:43:50.910-0500,2023-11-13T11:09:26.405-0500,Oksana Lagno,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Contentstack preview doesn't work on the main language level
 ECMS-1611,Bug,Done,ADI,CAP,S,S,0,2023-11-08T19:38:48.382-0500,2023-11-14T22:49:53.776-0500,Oksana Lagno,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Blog Articles on AU are redirecting to US
 ECMS-1610,Bug,Done,ADI,CAP,S,S,0,2023-11-08T19:37:31.953-0500,2023-11-14T22:49:52.736-0500,Kareen Balsam,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Live Preview Does Not show localized content
@@ -152,18 +153,18 @@ ECMS-1607,Sub-task,Done,ADI,CAP,S,S,0,2023-11-08T18:38:56.195-0500,2023-11-08T18
 ECMS-1606,Sub-task,Done,ADI,CAP,S,S,0,2023-11-08T18:38:52.079-0500,2023-11-08T18:40:17.488-0500,Oksana Lagno,['Smells Like Teen Spirit'],['capgemini'],Merge Next.js Release 2023.11.08 to UAT
 ECMS-1605,Story,Done,ADI,CAP,S,S,7,2023-11-08T18:38:23.154-0500,2023-11-08T18:40:25.218-0500,Oksana Lagno,['Smells Like Teen Spirit'],['capgemini'],Next.js Release 2023.11.08
 ECMS-1604,Bug,Done,ADI,CAP,S,S,0,2023-11-08T18:35:54.266-0500,2023-11-14T22:49:54.675-0500,Oksana Lagno,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Blog Landing: first pagination button is darkened
-ECMS-1603,Sub-task,To Do,GRID,UNDEFINED,S,,0,2023-11-08T18:16:01.999-0500,,Jana Flashing,['Under Pressure'],[],XTM Inclusions/Exclusions for Sports Category
+ECMS-1603,Sub-task,To Do,GRID,GRID,S,,0,2023-11-08T18:16:01.999-0500,,Jana Flashing,['Under Pressure'],['Grid'],XTM Inclusions/Exclusions for Sports Category
 ECMS-1602,Bug,Done,CAP,CAP,S,S,0,2023-11-08T16:53:24.987-0500,2023-11-14T22:49:55.120-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Blog Landing: The application displays an unexpected error page (Vercel) (nextjs)
-ECMS-1601,Sub-task,To Do,ADI,UNDEFINED,S,,0,2023-11-08T14:45:26.410-0500,,Oksana Lagno,[],[],ADA: Auto-rotation requirements
-ECMS-1600,Story,To Do,GRID,UNDEFINED,S,,0,2023-11-08T14:36:04.292-0500,,Jana Flashing,[],[],Add Auto-Rotation Option to Hero Slider
+ECMS-1601,Sub-task,To Do,ADI,CAP,S,,0,2023-11-08T14:45:26.410-0500,,Oksana Lagno,[],['capgemini'],ADA: Auto-rotation requirements
+ECMS-1600,Story,To Do,GRID,GRID,S,,0,2023-11-08T14:36:04.292-0500,,Jana Flashing,[],['Grid'],Add Auto-Rotation Option to Hero Slider
 ECMS-1599,Bug,Done,CAP,CAP,S,S,0,2023-11-08T13:17:54.070-0500,2023-11-14T22:49:55.252-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",The application does not display the products prices
 ECMS-1598,Bug,Done,CAP,CAP,S,S,0,2023-11-08T13:09:48.955-0500,2023-11-14T22:49:54.384-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",The application display inconsistencies in between the Vercel and SFCC pages
 ECMS-1597,Story,Done,ADI,CAP,S,T,0,2023-11-08T12:18:56.666-0500,2023-11-16T10:28:40.287-0500,Oksana Lagno,['Smells Like Teen Spirit'],['capgemini'],SFCC: fix siteprefs end point
 ECMS-1596,Bug,Ready for UAT,ADI,CAP,S,,0,2023-11-08T11:11:47.292-0500,,Oksana Lagno,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['capgemini'],Numbered list is displayed as bulleted list
 ECMS-1595,Task,To Do,CAP,CAP,S,,0,2023-11-08T10:29:25.196-0500,,Justin McCormick,[],"['capgemini', 'moved-from-SFCC']",Auto Scroll on Hero Slider
-ECMS-1594,Sub-task,Done,ADI,UNDEFINED,S,S,0,2023-11-08T09:02:33.553-0500,2023-11-14T09:02:26.142-0500,Oksana Lagno,[],[],Documentation: Anchor Linking
+ECMS-1594,Sub-task,Done,ADI,GRID,S,S,0,2023-11-08T09:02:33.553-0500,2023-11-14T09:02:26.142-0500,Oksana Lagno,[],['Grid'],Documentation: Anchor Linking
 ECMS-1593,Sub-task,To Do,ADI,CAP,S,,0,2023-11-08T09:02:13.942-0500,,Oksana Lagno,[],['capgemini'],Next.js: Anchor Linking
-ECMS-1592,Story,To Do,ADI,UNDEFINED,S,,0,2023-11-08T08:58:36.663-0500,,Oksana Lagno,[],[],Anchor Linking
+ECMS-1592,Story,To Do,ADI,GRID,S,,0,2023-11-08T08:58:36.663-0500,,Oksana Lagno,[],"['ADI', 'Grid', 'capgemini']",Anchor Linking
 ECMS-1591,Sub-task,Blocked,GRID,GRID,S,,0,2023-11-08T07:11:13.963-0500,,Nikita Gladnev,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],XTM Inculsions/Exclusions for Last Modified Date in Blog Article
 ECMS-1590,Bug,Done,CAP,CAP,S,S,0,2023-11-07T17:18:15.901-0500,2023-11-14T22:49:53.915-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js_release_2023.11.15']",Blog Landing: The application displays Blog Articles that do not match with the requested URL parameters
 ECMS-1589,Epic,To Do,ADI,UNDEFINED,S,,0,2023-11-07T15:59:36.479-0500,,Oksana Lagno,[],[],[SPIKE] DY testing integration with Next.js content
@@ -172,24 +173,24 @@ ECMS-1587,Bug,To Do,UNDEFINED,CAP,S,,0,2023-11-07T11:42:07.091-0500,,Thibault Br
 ECMS-1586,Bug,To Do,CAP,CAP,S,,0,2023-11-07T11:15:23.976-0500,,Jose Solano,[],['capgemini'],Products: The application displays an empty product rating container for products with no reviews
 ECMS-1585,Task,To Do,GRID,CAP,S,,0,2023-11-07T02:56:36.541-0500,,Pavlo Totskyi,[],['capgemini'],Rework Accordion Style logic
 ECMS-1584,Bug,Done,CAP,CAP,S,S,0,2023-11-06T17:17:34.915-0500,2023-11-14T22:49:55.551-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",Large Tile with Products: The application displays cut products on narrow screens before switching to mobile view (nextjs)
-ECMS-1583,Sub-task,Done,UNDEFINED,UNDEFINED,S,T,0,2023-11-06T16:16:08.607-0500,2023-11-16T10:50:56.243-0500,Eduardo Bran,"['Rocket Man', 'Smells Like Teen Spirit']",[],Contentstack: remove region from Revalidate URL in webhooks
+ECMS-1583,Sub-task,Done,UNDEFINED,GRID,S,T,0,2023-11-06T16:16:08.607-0500,2023-11-16T10:50:56.243-0500,Eduardo Bran,"['Rocket Man', 'Smells Like Teen Spirit']",['Grid'],Contentstack: remove region from Revalidate URL in webhooks
 ECMS-1582,Bug,Done,ADI,CAP,S,S,0,2023-11-06T16:01:27.205-0500,2023-11-08T18:24:52.275-0500,Raffi Yaboujian,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.08']",Extra white space appearing under the PLP Banner (Contentstack)
 ECMS-1581,Story,To Do,CAP,CAP,S,,0,2023-11-06T13:31:25.801-0500,,Justin McCormick,[],"['capgemini', 'moved-from-SFCC']",ANA Creative Team ContentStack requests
-ECMS-1580,Story,To Do,ADI,UNDEFINED,S,,0,2023-11-06T10:31:47.258-0500,,Katie Muldoon,[],[],[SEO] Legacy article urls: .html testing within new stack
-ECMS-1579,Story,To Do,ADI,UNDEFINED,S,,0,2023-11-06T10:25:20.846-0500,,Katie Muldoon,[],[],[SEO] Blog Articles: Self referencing canonical tag
+ECMS-1580,Story,To Do,ADI,ADI,S,,0,2023-11-06T10:31:47.258-0500,,Katie Muldoon,[],['ADI'],[SEO] Legacy article urls: .html testing within new stack
+ECMS-1579,Story,To Do,ADI,CAP,S,,0,2023-11-06T10:25:20.846-0500,,Katie Muldoon,[],['capgemini'],[SEO] Blog Articles: Self referencing canonical tag
 ECMS-1578,Sub-task,Ready for UAT,GRID,GRID,S,,0,2023-11-06T08:56:10.830-0500,,Nikita Gladnev,"['Shuffleboard', 'Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],Update XTM: Modal Windows
 ECMS-1577,Sub-task,Ready for UAT,GRID,GRID,S,,0,2023-11-06T08:55:29.215-0500,,Nikita Gladnev,"['Shuffleboard', 'Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],Update XTM iframe component
 ECMS-1576,Sub-task,Ready for UAT,GRID,GRID,S,,0,2023-11-06T08:55:00.679-0500,,Nikita Gladnev,"['Shuffleboard', 'Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],Update XTM Template for Customer service pages to exclude Modal windows and iframe from translation
 ECMS-1575,Story,Done,ADI,CAP,S,S,0,2023-11-06T08:52:17.162-0500,2023-11-14T09:06:43.659-0500,Oksana Lagno,['Smells Like Teen Spirit'],"['capgemini', 'sfcc']",SFCC: enable all pages in next.js json custom pref
-ECMS-1574,Task,To Do,GRID,UNDEFINED,S,,0,2023-11-03T15:32:52.453-0400,,Tatiana Molchanova,[],[],XTM Filter Template Update Footer
-ECMS-1573,Task,Done,ADI,UNDEFINED,S,S,0,2023-11-03T15:13:41.703-0400,2023-11-08T16:09:14.760-0500,Eyram Tay,[],[],Import new subcaetgoryName and categoryName fields into algolia
+ECMS-1574,Task,To Do,GRID,GRID,S,,0,2023-11-03T15:32:52.453-0400,,Tatiana Molchanova,[],"['ADI', 'Grid']",XTM Filter Template Update Footer
+ECMS-1573,Task,Done,ADI,ADI,S,S,0,2023-11-03T15:13:41.703-0400,2023-11-08T16:09:14.760-0500,Eyram Tay,[],['ADI'],Import new subcaetgoryName and categoryName fields into algolia
 ECMS-1570,Bug,Ready for QA (ADI),ADI,CAP,S,,0,2023-11-03T09:29:43.838-0400,,Oksana Lagno,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['capgemini'],Save full version of vercel logs
-ECMS-1569,Sub-task,In Progress,GRID,UNDEFINED,S,,0,2023-11-03T04:15:39.579-0400,,Karine Beglaryan,"['Paradise City', 'Que Sera, Sera', 'Rocket Man', 'Under Pressure']",[],Update XTM template for Footer and Header
+ECMS-1569,Sub-task,In Progress,GRID,GRID,S,,0,2023-11-03T04:15:39.579-0400,,Karine Beglaryan,"['Paradise City', 'Que Sera, Sera', 'Rocket Man', 'Under Pressure']",['Grid'],Update XTM template for Footer and Header
 ECMS-1568,Bug,Done,CAP,CAP,S,S,0,2023-11-02T18:40:44.796-0400,2023-11-14T22:49:54.536-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.15']",The application displays an unexpected error page when an Vercel EU localized Blog Landing is accessed (nextjs)
 ECMS-1567,Bug,To Do,ADI,CAP,S,,0,2023-11-02T11:28:41.029-0400,,Kareen Balsam,[],['capgemini'],EU Blog Pagination does not work
 ECMS-1566,Story,Done,ADI,CAP,S,U,0,2023-11-01T16:33:42.077-0400,2023-11-30T14:11:56.437-0500,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design: Customer Service Menu
 ECMS-1564,Story,Done,ADI,CAP,S,S,0,2023-11-01T15:25:00.084-0400,2023-11-08T10:46:45.769-0500,Oksana Lagno,[],['capgemini'],Add additional CTA to Blog Article Text Component
-ECMS-1563,Sub-task,Done,ADI,UNDEFINED,S,S,0,2023-11-01T15:05:03.064-0400,2023-11-14T10:31:33.712-0500,Oksana Lagno,"['Rocket Man', 'Under Pressure']",[],Update training
+ECMS-1563,Sub-task,Done,ADI,ADI,S,S,0,2023-11-01T15:05:03.064-0400,2023-11-14T10:31:33.712-0500,Oksana Lagno,"['Rocket Man', 'Under Pressure']",['ADI'],Update training
 ECMS-1562,Sub-task,Done,ADI,CAP,S,S,0,2023-11-01T15:04:35.728-0400,2023-11-14T10:30:39.161-0500,Oksana Lagno,"['Rocket Man', 'Under Pressure']",['capgemini'],Next.js: Add “SPS (Alternative)” font family
 ECMS-1561,Bug,To Do,CAP,CAP,S,,0,2023-11-01T14:32:18.082-0400,,Jose Solano,[],"['capgemini', 'next.js']",The application components become unresponsive for a few seconds after switching from desktop to mobile layout (nextjs)
 ECMS-1560,Task,Done,ADI,CAP,S,S,0,2023-11-01T14:24:37.743-0400,2023-11-14T22:49:54.813-0500,Eyram Tay,['Smells Like Teen Spirit'],"['capgemini', 'next.js_release_2023.11.15']",Update category and subcategory parameters to use new algolia fields
@@ -205,12 +206,12 @@ ECMS-1550,Story,To Do,ADI,CAP,R,,0,2023-11-01T09:38:47.072-0400,,Katie Muldoon,[
 ECMS-1549,Story,To Do,ADI,CAP,R,,0,2023-11-01T09:28:06.599-0400,,Katie Muldoon,['Ready for Grooming'],['capgemini'],Atomic Design: Customer Service Page Layouts
 ECMS-1548,Story,Code Review,ADI,CAP,R,,0,2023-11-01T09:12:09.422-0400,,Katie Muldoon,[],"['capgemini', 'next.js']",NextJS: Customer Service Pages: Text Accordion
 ECMS-1547,Story,Done,ADI,CAP,R,U,0,2023-11-01T09:03:19.449-0400,2023-11-30T14:12:30.400-0500,Katie Muldoon,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['capgemini'],Atomic Design: Customer Service Pages: Text Accordion
-ECMS-1546,Task,Done,ADI,UNDEFINED,R,S,0,2023-10-31T16:16:53.970-0400,2023-11-03T15:14:26.192-0400,Eyram Tay,['Shuffleboard'],[],Update SFCC blog export job to include the subcategoryName and categoryName
-ECMS-1545,Task,Done,ADI,UNDEFINED,R,S,0,2023-10-31T15:43:39.669-0400,2023-11-08T16:08:14.121-0500,Eyram Tay,"['Shuffleboard', 'Smells Like Teen Spirit']",[],Update Automation hub job to include Subcategory and category name
+ECMS-1546,Task,Done,ADI,ADI,R,S,0,2023-10-31T16:16:53.970-0400,2023-11-03T15:14:26.192-0400,Eyram Tay,['Shuffleboard'],['ADI'],Update SFCC blog export job to include the subcategoryName and categoryName
+ECMS-1545,Task,Done,ADI,ADI,R,S,0,2023-10-31T15:43:39.669-0400,2023-11-08T16:08:14.121-0500,Eyram Tay,"['Shuffleboard', 'Smells Like Teen Spirit']",['ADI'],Update Automation hub job to include Subcategory and category name
 ECMS-1544,Task,Done,ADI,CAP,R,R,0,2023-10-31T15:24:25.531-0400,2023-11-01T12:25:04.335-0400,Oksana Lagno,['Rocket Man'],['capgemini'],"Update all next.js pref to true in stag/prod ANA, AEG, UK"
 ECMS-1543,Bug,Done,CAP,CAP,R,S,0,2023-10-31T12:53:53.939-0400,2023-11-08T18:24:52.654-0500,Jose Solano,"['Rocket Man', 'Smells Like Teen Spirit']","['capgemini', 'next.js', 'next.js_release_2023.11.08']",Hero Slider: The application does not display the correct arrows size (nextjs)
 ECMS-1542,Bug,Done,CAP,CAP,R,S,0,2023-10-31T12:34:50.320-0400,2023-11-08T18:24:52.098-0500,Jose Solano,['Smells Like Teen Spirit'],"['capgemini', 'next.js', 'next.js_release_2023.11.08']",Hero Slider: The application displays the arrows vertically centered within the entire component (nextjs)
-ECMS-1541,Sub-task,Done,ADI,UNDEFINED,R,T,0,2023-10-31T11:34:17.032-0400,2023-11-16T10:36:13.014-0500,Oksana Lagno,"['Rocket Man', 'Smells Like Teen Spirit']",[],Contentstack: add country + locale to Release URL
+ECMS-1541,Sub-task,Done,ADI,GRID,R,T,0,2023-10-31T11:34:17.032-0400,2023-11-16T10:36:13.014-0500,Oksana Lagno,"['Rocket Man', 'Smells Like Teen Spirit']",['Grid'],Contentstack: add country + locale to Release URL
 ECMS-1540,Bug,Done,CAP,CAP,R,S,0,2023-10-30T19:44:00.316-0400,2023-11-02T18:35:16.952-0400,Jose Solano,"['Rocket Man', 'Smells Like Teen Spirit']","['capgemini', 'next.js']",Blog Landing: The application does not display the accurate Publish Date for all Article Tiles
 ECMS-1539,Bug,Done,ADI,CAP,R,R,0,2023-10-30T19:24:51.968-0400,2023-10-31T14:06:11.671-0400,Oksana Lagno,['Rocket Man'],['capgemini'],Products not displayed on storefront staging
 ECMS-1538,Bug,Done,ADI,CAP,R,R,0,2023-10-30T16:17:59.717-0400,2023-10-30T17:07:48.175-0400,Oksana Lagno,['Rocket Man'],['capgemini'],AEG: Product carousels/tiles not displayed on homepage
@@ -221,7 +222,7 @@ ECMS-1534,Sub-task,Done,ADI,CAP,R,R,0,2023-10-30T15:52:42.638-0400,2023-10-31T12
 ECMS-1533,Sub-task,Done,ADI,CAP,R,R,0,2023-10-30T15:52:24.245-0400,2023-10-31T12:06:00.644-0400,Oksana Lagno,['Rocket Man'],['capgemini'],Define Release tickets and assign label next.js_release_2023.11.01
 ECMS-1532,Story,Done,ADI,CAP,R,S,0,2023-10-30T15:51:02.325-0400,2023-11-01T14:51:37.372-0400,Oksana Lagno,['Rocket Man'],['capgemini'],Next.js Release 2023.11.01
 ECMS-1531,Story,In Progress,GRID,GRID,R,,8,2023-10-30T14:52:57.804-0400,,Jana Flashing,"['Smells Like Teen Spirit', 'Tiny Dancer', 'Under Pressure']",['Grid'],[Spike] Customer Service Pages - BORIS
-ECMS-1530,Story,Done,CAP,UNDEFINED,R,S,0,2023-10-30T13:00:08.752-0400,2023-11-01T14:33:58.845-0400,Justin McCormick,['Ready for Grooming'],['moved-from-SFCC'],Black CTA in CMS
+ECMS-1530,Story,Done,CAP,GRID,R,S,0,2023-10-30T13:00:08.752-0400,2023-11-01T14:33:58.845-0400,Justin McCormick,['Ready for Grooming'],"['Grid', 'moved-from-SFCC']",Black CTA in CMS
 ECMS-1529,Sub-task,Done,ADI,CAP,R,S,0,2023-10-30T11:53:24.002-0400,2023-11-13T11:02:43.710-0500,Oksana Lagno,"['Rocket Man', 'Smells Like Teen Spirit']",['capgemini'],SFCC: send country + locale
 ECMS-1528,Bug,Done,ADI,GRID,R,S,1,2023-10-30T09:54:49.387-0400,2023-11-09T08:37:18.592-0500,Raffi Yaboujian,"['Rocket Man', 'Smells Like Teen Spirit']","['Grid', 'contentstack_release_2023.11.07']",SPS Black CTA Not Appearing As Expected
 ECMS-1527,Bug,Done,CAP,CAP,R,S,0,2023-10-27T12:19:42.761-0400,2023-11-01T14:51:15.208-0400,Jose Solano,['Rocket Man'],"['capgemini', 'next.js', 'next.js_release_2023.11.01']",Article Page: The application does not display a stylish breadcrumb for articles with long titles (nextjs)
