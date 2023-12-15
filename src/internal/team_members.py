@@ -12,7 +12,8 @@ CAP_TEAM_MEMBERS = [
     "Roxanne Vitacco",
     "Tiwari, Rohit",
     "Allison Reese",
-    "Ankit Kumar"
+    "Ankit Kumar",
+    "Rebeka Halbert"
 ]
 
 GRID_TEAM_MEMBERS = [
@@ -41,5 +42,6 @@ ADI_TEAM_MEMBERS = [
     "Jessica Lanzoni",
     "Fadila El Ghaddari",
     "Andrey Prokhorov",
-    "Lena Damber"
+    "Lena Damber",
+    "Thibault Brachet"
 ]
